@@ -443,8 +443,40 @@ export class ItemsDataGetter {
         }
       });
     }
-    return data;
+
+    return this.sortSubcategoriesInGridData(data);
   }
+
+  private sortSubcategoriesInGridData = (data: GroupData): GroupData => {
+    const sortedData: GroupData = {};
+
+    Object.keys(data).forEach((group: string) => {
+      sortedData[group] = {};
+      Object.keys(data[group]).forEach((category: string) => {
+        const isOverriden =
+          !isUndefined(window.baseDS.categories_overridden) && window.baseDS.categories_overridden.includes(category);
+        if (!isOverriden) {
+          sortedData[group][category] = data[group][category];
+        } else {
+          const currentCategory = window.baseDS.categories.find((c: Category) => c.name === category);
+          if (currentCategory && currentCategory.subcategories) {
+            const subcategories = currentCategory.subcategories.map((s: Subcategory) => s.name);
+            const sortedSubcategories: { [key: string]: SubcategoryData } = {};
+            subcategories.forEach((subcat: string) => {
+              if (data[group][category][subcat]) {
+                sortedSubcategories[subcat] = data[group][category][subcat];
+              }
+            });
+            sortedData[group][category] = sortedSubcategories;
+          } else {
+            sortedData[group][category] = data[group][category];
+          }
+        }
+      });
+    });
+
+    return sortedData;
+  };
 
   public getGridData(withAllOption: boolean): GroupData {
     return this.prepareGridData(this.getGroupedData(), withAllOption);
@@ -566,7 +598,12 @@ export class ItemsDataGetter {
   public getItemsBySection(activeSection: ActiveSection): Item[] | undefined {
     if (this.ready && this.landscapeData && this.landscapeData.items) {
       return this.landscapeData.items.filter(
-        (i: Item) => activeSection.subcategory === i.subcategory && activeSection.category === i.category
+        (i: Item) =>
+          (activeSection.subcategory === i.subcategory && activeSection.category === i.category) ||
+          i.additional_categories?.some(
+            (ac: AdditionalCategory) =>
+              ac.category === activeSection.category && ac.subcategory === activeSection.subcategory
+          )
       );
     }
   }

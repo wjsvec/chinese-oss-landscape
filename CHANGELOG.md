@@ -7,6 +7,62 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.12.0] - 2024-12-11
+
+### Added
+
+- Some more fields to item extra (#759)
+- Forums link to landscape footer (#760)
+- Display magnifying glass for all items sizes (#747)
+- Alias to finances page (#743)
+
+### Changed
+
+- Minor improvement processing items second path (#744)
+- Improve how title ellipsis is displayed on grid view (#735)
+- Hide filters options that produce no results (#729)
+- Update settings file reference documentation (#727)
+- Bump Alpine to 3.21.0 (#768)
+- Bump Rust to 1.83 (#768)
+- Upgrade CLI tool dependencies (#768)
+- Upgrade web application and embed dependencies (#770)
+
+### Fixed
+
+- Issue sorting overriden categories on grid (#725)
+- Issue when defined groups are empty (#728)
+- Regression displaying search results on Safari (#733)
+- Add missing base-path to embed url when required (#742)
+- Issue loading overlay without guide or games (#746)
+- Typo in filters and org type labels (#763, #761)
+
+## [0.11.0] - 2024-10-14
+
+### Added
+
+- Improved accessibility support (#685)
+- Annotations field to item extra section (#721)
+- Return items annual review details from API (#722)
+
+### Fixed
+
+- Order by sandbox date on projects page (#677)
+- Issue closing embed item modal (#682)
+- Issue displaying parent project in details modal (#689)
+- Regression in grid mode on mobile devices (#687)
+- Regression displaying end user label in details view (#690)
+- Typo in sample data file (#703)
+- Do not cache quiz questions during tests (#719)
+
+### Changed
+
+- Adjust items sizes on embed for mobile devices (#683)
+- Do not rely on members category to display end user label (#692)
+- Bump Alpine to 3.20.3 (#707)
+- Bump Rust to 1.81 (#706)
+- Upgrade CLI tool dependencies
+- Upgrade web application and embed dependencies
+
 ## [0.10.0] - 2024-07-24
 
 ### Added

@@ -208,6 +208,9 @@ pub(crate) struct Item {
     pub additional_categories: Option<Vec<AdditionalCategory>>,
 
     #[serde(skip_serializing_if = "Option::is_none")]
+    pub annotations: Option<HashMap<String, String>>,
+
+    #[serde(skip_serializing_if = "Option::is_none")]
     pub archived_at: Option<NaiveDate>,
 
     #[serde(skip_serializing_if = "Option::is_none")]
@@ -244,6 +247,9 @@ pub(crate) struct Item {
     pub enduser: Option<bool>,
 
     #[serde(skip_serializing_if = "Option::is_none")]
+    pub facebook_url: Option<String>,
+
+    #[serde(skip_serializing_if = "Option::is_none")]
     pub github_discussions_url: Option<String>,
 
     #[serde(skip_serializing_if = "Option::is_none")]
@@ -259,6 +265,12 @@ pub(crate) struct Item {
     pub joined_at: Option<NaiveDate>,
 
     #[serde(skip_serializing_if = "Option::is_none")]
+    pub latest_annual_review_at: Option<NaiveDate>,
+
+    #[serde(skip_serializing_if = "Option::is_none")]
+    pub latest_annual_review_url: Option<String>,
+
+    #[serde(skip_serializing_if = "Option::is_none")]
     pub mailing_list_url: Option<String>,
 
     #[serde(skip_serializing_if = "Option::is_none")]
@@ -269,6 +281,12 @@ pub(crate) struct Item {
 
     #[serde(skip_serializing_if = "Option::is_none")]
     pub oss: Option<bool>,
+
+    #[serde(skip_serializing_if = "Option::is_none")]
+    pub pinterest_url: Option<String>,
+
+    #[serde(skip_serializing_if = "Option::is_none")]
+    pub reddit_url: Option<String>,
 
     #[serde(skip_serializing_if = "Option::is_none")]
     pub repositories: Option<Vec<Repository>>,
@@ -304,6 +322,7 @@ impl Item {
         Self {
             accepted_at: item.accepted_at,
             additional_categories: item.additional_categories.clone(),
+            annotations: item.annotations.clone(),
             archived_at: item.archived_at,
             artwork_url: item.artwork_url.clone(),
             audits: item.audits.clone(),
@@ -317,6 +336,7 @@ impl Item {
             discord_url: item.discord_url.clone(),
             docker_url: item.docker_url.clone(),
             enduser: item.enduser,
+            facebook_url: item.facebook_url.clone(),
             github_discussions_url: item.github_discussions_url.clone(),
             gitter_url: item.gitter_url.clone(),
             graduated_at: item.graduated_at,
@@ -324,6 +344,8 @@ impl Item {
             id: item.id.clone(),
             incubating_at: item.incubating_at,
             joined_at: item.joined_at,
+            latest_annual_review_at: item.latest_annual_review_at,
+            latest_annual_review_url: item.latest_annual_review_url.clone(),
             logo_url: format!(
                 "{}/{}",
                 landscape_url.strip_suffix('/').unwrap_or(landscape_url),
@@ -334,6 +356,8 @@ impl Item {
             name: item.name.clone(),
             openssf_best_practices_url: item.openssf_best_practices_url.clone(),
             oss: item.oss,
+            pinterest_url: item.pinterest_url.clone(),
+            reddit_url: item.reddit_url.clone(),
             repositories: item.repositories.as_ref().map(|repos| repos.iter().map(Into::into).collect()),
             slack_url: item.slack_url.clone(),
             specification: item.specification,
