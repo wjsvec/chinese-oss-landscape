@@ -22,6 +22,8 @@ export const EMBED_SETUP_PATH = `${BASE_PATH}/embed-setup`;
 export const STATS_PATH = `${BASE_PATH}/stats`;
 export const GUIDE_PATH = `${BASE_PATH}/guide`;
 export const FINANCES_PATH = `${BASE_PATH}/finances`;
+export const FUNDING_PATH = `${BASE_PATH}/funding`;
+export const ACQUISITIONS_PATH = `${BASE_PATH}/acquisitions`;
 export const PROJECTS_PATH = `${BASE_PATH}/projects`;
 export const GAMES_PATH = `${BASE_PATH}/games`;
 export const LOGOS_PREVIEW_PATH = `${BASE_PATH}/logos-preview`;
@@ -133,7 +135,7 @@ export const COMMON_FILTERS: FilterSection[] = [
     options: [
       {
         value: 'non-oss',
-        name: 'Not Open Source',
+        name: 'Non Open Source',
       },
       {
         value: 'oss',
@@ -152,7 +154,7 @@ export const COMMON_FILTERS: FilterSection[] = [
       },
       {
         value: 'non_profit',
-        name: 'Not profit',
+        name: 'Non profit',
       },
     ],
   },
@@ -183,7 +185,7 @@ export let FILTERS: FilterSection[] = [
       },
       {
         value: `non-${getFoundationNameLabel()}`,
-        name: `Not ${FOUNDATION} Projects`,
+        name: `Non ${FOUNDATION} Projects`,
       },
     ],
   },
@@ -242,7 +244,7 @@ export const overrideSettings = (values: SettingsValue) => {
         },
         {
           value: `non-${getFoundationNameLabel()}`,
-          name: `Not ${FOUNDATION} Projects`,
+          name: `Non ${FOUNDATION} Projects`,
         },
       ],
     },
