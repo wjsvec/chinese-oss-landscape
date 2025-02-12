@@ -31,7 +31,7 @@ jobs:
 
       - name: Commit built landscape to build branch
         run: |
-          git config --global safe.directory `pwd`
+          # git config --global safe.directory `pwd`
           git config --global user.name "GitHub Actions"
           git config --global user.email "no-reply@sample-domain.io"
           git fetch origin build:build
