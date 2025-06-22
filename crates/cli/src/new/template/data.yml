@@ -7,7 +7,7 @@
 categories:
   - name: Category 1
     subcategories:
-      - name: Subcategory 1-1
+      - name: Subcategory 1-1_t
         items:
           - name: Item 1
             crunchbase: https://www.crunchbase.com/organization/cloud-native-computing-foundation
