@@ -6,7 +6,7 @@
 
 foundation: DEMO
 
-url: http://127.0.0.1:8000
+url: https://wjsvec.github.io/chinese-oss-landscape/
 
 colors:
   color1: "rgba(0, 107, 204, 1)"
