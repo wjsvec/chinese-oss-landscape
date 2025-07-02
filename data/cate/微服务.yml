@@ -1,0 +1,192 @@
+categories:
+- name: 微服务
+  subcategories:
+  - name: 微服务
+    items:
+    - name: Kratos 开源社区_no_12
+      logo: Kratos 开源社区.svg
+      description: 您适用于云原生时代的终极 Go 微服务框架。
+      homepage_url: https://go-kratos.dev
+      project: graduated
+      repo_url: https://github.com/go-kratos
+    - name: 百度开源_no_16
+      logo: 百度开源.svg
+      description: '因为开源，所以简单。百度是拥有强大互联网基础的领先AI公司。是全球为数不多的提供AI芯片、软件架构和应用程序等全栈AI技术的公司之一,被国际机构评为全球四大AI公司之一。百度以“用科技让复杂的世界更简单”为使命,坚持技术创新,致力于“成为最懂用户,并能帮助人们成长的全球顶级高科技公司”。
+
+        一直以来百度持续参与和支持开源社区的发展。百度 2013 年对外开源图标和数据可视化库 ECharts,2016 年开源飞桨（PaddlePaddle）,2017
+        年开源 Apollo 自动驾驶、开源数据库 Doris、开源 RPC 开发框架 brpc,2018 年将 ECharts、Doris、brpc 捐献给
+        Apache 基金会进行孵化,2020 年,以创始白金身份加入开放原子开源基金会,并将 XuperChain 捐赠给开放原子开源基金会。2021 年,百度以理事单位加入开源创新联合体。
+
+        截至目前,百度在Github主导的18个开源组织累计开源项目1,000+个、社区贡献者17,000+、获得Star总数350,000+,并向Apache基金会、Linux基金会、CNCF、开放原子开源基金会累计捐赠9个项目。'
+      homepage_url: https://opensource.baidu.com/
+      project: graduated
+      repo_url: https://github.com/baidu
+    - name: FreeSWITCH中文社区_no_17
+      logo: FreeSWITCH中文社区.svg
+      description: FreeSWITCH是一个开源的电话软交换平台，支持实时音视频通信及会议，支持SIP及WebRTC等多种通信协议。其主要开发语言是C，某些模块中使用了C++，以MPL1.1发布。本社区旨在为广大FreeSWITCH中文用户提供一个统一的登陆页，便于大家查找FreeSWITCH相关的中文信息、最新动态，促进大家的技术交流以及FreeSWITCH技术在中国的传播。
+      homepage_url: http://www.freeswitch.org.cn/
+      project: graduated
+      repo_url: https://github.com/rts-cn/
+    - name: Linux Foundation_no_19
+      logo: Linux Foundation.svg
+      description: This is the description of item
+      homepage_url: https://www.linuxfoundation.org/
+      project: graduated
+      repo_url: https://github.com/LF-Engineering
+    - name: dromara 开源组织_no_21
+      logo: dromara 开源组织.svg
+      description: A non-profit organization where open-source enthusiasts gather
+      homepage_url: https://dromara.org/
+      project: graduated
+      repo_url: https://github.com/dromara
+    - name: Apache EventMesh(incubating)_no_34
+      logo: Apache EventMesh(incubating).svg
+      description: Apache EventMesh是一款以事件驱动为核心的分布式服务运行时,通过动态的插件式云原生基础服务层,将应用程序和中间件层分离,并提供了灵活,可靠和快速的事件分发和处理能力,同时可以对事件进行管理,可以作为应用进程的连接层,为企业实现其数字化转型的目标,提供其所需的全套应用进程间通信模式。欢迎感兴趣的小伙伴们积极参与。
+      homepage_url: https://eventmesh.apache.org/
+      project: graduated
+      repo_url: https://github.com/apache/incubator-eventmesh
+    - name: Apache Software Foundation_no_42
+      logo: Apache Software Foundation.svg
+      description: This is the description of item
+      homepage_url: https://www.apache.org/
+      project: graduated
+      repo_url: https://github.com/apache
+    - name: 苏州开源社区_no_43
+      logo: 苏州开源社区.svg
+      description: 社区成员大多数来自传统行业，主要交流开源和新技术如何在制造业、工业控制、流程管理中的应用和探索。
+      homepage_url: http://www.opensuzhou.com/
+      project: graduated
+      repo_url: https://www.opensuzhou.com
+    - name: 云原生社区_no_51
+      logo: 云原生社区.svg
+      description: 云原生社区是国内最大的独立第三方云原生终端用户和泛开发者社区，由 CNCF 大使、开源意见领袖共同发起成立于 2020 年 5
+        月 12 日，提供云原生专业资讯，促进云原生产业发展。
+      homepage_url: https://cloudnative.to
+      project: graduated
+      repo_url: https://cloudnative.to
+    - name: Eoapi 开源社区_no_57
+      logo: Eoapi 开源社区.svg
+      description: Eoapi 是一个可扩展的 API 开发工具。Eoapi 集合基础的 API 管理和测试功能，并且可以通过插件简化你的 API
+        开发工作，让你可以更快更好地创建 API。
+      homepage_url: https://www.eoapi.io/
+      project: graduated
+      repo_url: https://github.com/eolinker/eoapi
+    - name: Flomesh_no_58
+      logo: Flomesh.svg
+      description: Flomesh 易衡科技提供行业领先的应用流量管理产品与解决方案。Flomesh 以开源软件 Pipy 为核心，提供全方面的应用流量管理产品及理解决方案，包括软件负载均衡平台
+        FLB(Flomesh Load Balancer)，服务网格 FSM(Flomesh Service Mesh)。
+      homepage_url: https://flomesh.io
+      project: graduated
+      repo_url: https://github.com/flomesh-io
+    - name: MASA Stack_no_59
+      logo: MASA Stack.svg
+      description: MASA Stack是开源企业级云原生数字底座，提供一站式.NET现代应用开发交付解决方案，助力传统.NET应用程序进行现代化改造，赋能.NET开发者转型为数字化人才，从而让企业获得持续的创新力和新的增长机会，帮助企业找到数字化转型的最佳路径！
+      homepage_url: https://www.masastack.com
+      project: graduated
+      repo_url: https://github.com/masastack/MASA.Stack
+    - name: .NET Core Community_no_65
+      logo: .NET Core Community.svg
+      description: 一个诞生于中国的非营利性民间 .NET 开源社区，为 .NET 生态系统做出贡献。
+      homepage_url: https://www.dotnetcore.xyz/
+      project: graduated
+      repo_url: https://github.com/dotnetcore
+    - name: 亚马逊云科技_no_82
+      logo: 亚马逊云科技.svg
+      description: 亚马逊云科技官方技术内容社区。日常分享AI/ML、大数据/数据库、现代应用开发、IoT等热门产品实用干货及开源技术，提供超全学习资源，定期组织开发者活动，为开发者持续赋能。
+      homepage_url: https://dev.amazoncloud.cn/
+      project: graduated
+      repo_url: https://aws.amazon.com/cn/opensource/?nc2=h_ql_sol_use_r6&blog-posts-content-open-source.sort-by=item.additionalFields.createdDate&blog-posts-content-open-source.sort-order=desc
+    - name: Apache ShenYu_no_93
+      logo: Apache ShenYu.svg
+      description: Apache ShenYu是一款高性能的API网关，用于服务代理，协议转换，API治理等功能
+      homepage_url: https://shenyu.apache.org/
+      project: graduated
+      repo_url: https://github.com/apache/incubator-shenyu
+    - name: Pipy_no_96
+      logo: Pipy.svg
+      description: Pipy 是一个轻量级、高性能、高稳定、可编程的网络代理，Pipy 核心框架使用 C++ 开发，网络 IO 采用 ASIO 库。Pipy
+        可用于云原生，边缘计算和物联网等场景，而且 Pipy 是 ARM 就绪的，兼容 ARM 生态的设计、测试和交付。同时适配 ARM 在高密度计算的数据中心的场景和低资源/低算力的边缘侧场景。
+      homepage_url: https://flomesh.io/
+      project: graduated
+      repo_url: https://github.com/flomesh-io/pipy
+    - name: CSDN（中国开发者网络）_no_115
+      logo: CSDN（中国开发者网络）.svg
+      description: CSDN（中国开发者网络）创立于1999年，是全球知名中文开发者网站。秉承成就一亿技术人的使命，为IT技术人成长及科技企业发展，提供开发者生态的全方位服务。CSDN在社区基础上，通过知识云、人才云、开发云三大服务，赋能开发者、研发团队及科技企业在IT知识学习、人才招聘、研发效能与协同管理等方面的高速成长与发展。
+      homepage_url: https://www.csdn.net/
+      project: graduated
+      repo_url: https://gitcode.net/dashboard/projects/home
+    - name: Apinto_no_116
+      logo: Apinto.svg
+      description: Apinto是基于Go语言开发的开源网关项目，拥有目前市面上最强的性能及稳定性表现，不但能够帮助用户简单、快速、低成本、低风险地实现：系统微服务化、系统集成、向合作伙伴及开发者开放功能和数据等目的；而且可以快速帮助企业进行
+        API 服务治理、提高 API 服务的稳定性和安全性。通过 Apinto ，企业能够专注于自身业务的发展，促进企业间互相借力，实现共赢。
+      homepage_url: https://www.apinto.com
+      project: graduated
+      repo_url: https://github.com/eolinker/apinto
+    - name: LinkWechat_no_118
+      logo: LinkWechat.svg
+      description: 基于人工智能的企业微信 SCRM 系统——LinkWeChat基于企业微信开放能力，不仅集成了企微基础的客户管理和后台管理功能，而且通过引流获客、客情维系、社群运营等灵活高效的客户运营模块，让客户与企业之间建立强链接关系，同时进一步通过多元化的客户营销工具，帮助企业提高客户运营效率，强化营销能力，拓展盈利空间，是企业私域流量管理与营销的综合解决方案。
+      homepage_url: https://www.pardigital.cn
+      project: graduated
+      repo_url: https://gitee.com/LinkWeChat/link-wechat
+    - name: DCE Community_no_123
+      logo: DCE Community.svg
+      description: DCE 社区是「DaoCloud 道客」新一代云原生操作系统 DCE 5.0 社区版的技术交流平台，用户可实现零成本体验企业级云原生底座的性能。此外，DCE
+        社区积极发起、参与由 CNCF 背书的开源活动，致力携手广大行业力量，聚焦云原生前沿技术、开源项目、解决方案、典型案例等，面向开发者、社区和企业，进行传播布道，旨在将最新鲜的热点资讯、最前沿的行业展望和最具价值的技术实践分享给大家，扩大云原生技术影响力，寻找更多云原生信仰者，拓展云原生生态圈。欢迎大家加入，共同论道原生！
+      homepage_url: https://www.daocloud.io/dce_5.0_ce
+      project: graduated
+      repo_url: https://github.com/DaoCloud/DaoCloud-docs
+    - name: Primi Hub _no_149
+      logo: Primi Hub .svg
+      description: "       原语科技成立于2021年，总部位于北京，专注于打造企业级开源隐私计算平台，核心成员均来自百度、阿里、字节跳动、西门子研究院等知名公司。原语科技自主研发了基于安全多方计算、联邦学习、同态加密、机密计算、区块链等技术的隐私计算应用平台，结合英伟达GPU的算法加速，为用户提供数据全生命周期的隐私安全服务，实现“数据可用不可见”。\n\
+        \       原语科技致力于以隐私计算技术构建数据信任与安全，赋能数据价值的安全融合与释放，为构建未来数字型社会提供技术支撑。"
+      homepage_url: https://www.primihub.com
+      project: graduated
+      repo_url: https://github.com/primihub
+    - name: dubbogo社区_no_161
+      logo: dubbogo社区.svg
+      description: dubbogo 社区同学⼀起实现了 dubbogo 与 dubbo 所有版本的对⻬，实 现了与 dubbo、Spring Cloud、gRPC
+        ⽣态的互联互通，dubbogo 3.0 在 K8s、柔性服务等云原⽣⽅向持续探 索反哺 dubbo，构建 proxyless Dubbo Mesh，达成了
+        "bridging the gap between Java and Go" 初始⽬标。目前正推进 dubbo-go/dubbo-go-pixiu
+        等社区项目，打造下一代 Dubbo Mesh 生态；还在 与 RocketMQ 合作，在 RocketMQ 之上构建⾦融级的服务通信系统，达成服务通信、通信路径日志回溯
+        和 构建跨网络安全通信的统一；与腾讯 Polaris 以及阿里 OpenSergo 等项目合作，建立新一代微服务标准体系。通过不断拓展 Dubbo
+        ⽣态的边界，达成 "bridging the gap between Dubbo and X" 的新使命。
+      homepage_url: https://dubbogo.github.io/zh-cn/
+      project: graduated
+      repo_url: https://github.com/apache/dubbo-go
+    - name: CloudWeGo_no_172
+      logo: CloudWeGo.svg
+      description: CloudWeGo 开源项目是一套由字节跳动开源的、可快速构建企业级云原生微服务架构的中间件项目集合。CloudWeGo 项目共同的特点是高性能、高扩展性、高可靠，专注于微服务通信与治理。
+      homepage_url: https://www.cloudwego.io/
+      project: graduated
+      repo_url: https://github.com/cloudwego
+    - name: 金融行业开源应用社区_no_176
+      logo: 金融行业开源应用社区.svg
+      description: 国内首个金融行业开源技术应用社区，主要是服务于金融机构以及中小金融科技公司，2018年10月12日，中国信息通信研究院联合浦发银行、华为等近20家金融机构及科技公司共同成立。社区成立以来已展开多次研讨活动，成员单位积极整合优势资源和技术成果共享开源经验，共同推动金融行业开源生态健康发展。
+      homepage_url: http://trustedopensource.org.cn/#/home
+      project: graduated
+      repo_url: https://git.finoc.org:5000
+    - name: 语音之家_no_185
+      logo: 语音之家.svg
+      description: 语音之家是助力AI语音开发者学习和成长的社区,致力于为开发者打造专业技术交流与分享的平台,提供技术论坛、在线学习、资源下载、职业发展等全生命周期服务。
+      homepage_url: http://www.speechhome.com
+      project: graduated
+      repo_url: https://github.com/kaldi-asr/kaldi/tree/master/egs/aishell
+    - name: Dromara开源社区_no_186
+      logo: Dromara开源社区.svg
+      description: Dromara 是由国内顶尖的开源项目作者共同组成的开源社区。提供包括分布式事务，流行工具，企业级认证，微服务RPC，运维监控，Agent监控，分布式日志，调度编排等一系列开源产品、解决方案与咨询、技术支持与培训认证服务。技术栈全面开源共建、
+        保持社区中立，致力于为全球用户提供微服务云原生解决方案。让参与的每一位开源爱好者，体会到开源的快乐。
+      homepage_url: https://dromara.org/
+      project: graduated
+      repo_url: https://gitee.com/dromara
+    - name: SOFAStack_no_199
+      logo: SOFAStack.svg
+      description: 'SOFAStack 社区于 2018 年 4 月 19 日开源。SOFAStack 开源社区能够快速构建金融级云原生架构，同时在多个金融场景里均锤炼出最佳实践，具备以下特点：
+
+        一是社区简洁开放，社区全面开源共建、保持中立、兼容社区与开源生态，SOFAStack 积极与其他社区开展生态共建;
+
+        二是金融级，包含构建金融级云原生架构所需的各个组件，让用户更加专注于业务开发，满足用户场景的现状和未来需求，经历过大规模场景的锤炼，特别是严苛的金融场景;
+
+        三是云原生，基于 SOFAStack 可快速搭建云原生微服务体系，快速开发更具可靠性、扩展性、更加易于维护的云原生应用。'
+      homepage_url: https://www.sofastack.tech/
+      project: graduated
+      repo_url: https://github.com/sofastack

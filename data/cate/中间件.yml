@@ -1,0 +1,246 @@
+categories:
+- name: 中间件
+  subcategories:
+  - name: 中间件
+    items:
+    - name: Eolink_no_2
+      logo: Eolink.svg
+      description: 强大的一体化 API 管理和测试平台，我们致力于让 API 管理更简单！
+      homepage_url: https://eoapi.io/
+      project: graduated
+      repo_url: https://github.com/eolinker/eoapi
+    - name: Shifu_no_6
+      logo: Shifu.svg
+      description: 边无际Edgenesis基于K8S首创分布式物联网框架——Shifu Framework，为客户全场景设备托管，一体化软件开发提供了透明框架。通过透明框架内的数字孪生技术，为设备赋予有思考能力的”数字大脑“，通过平台层对场景内所有设备、机器进行北向数据收集和南向指令管控。
+      homepage_url: https://shifu.run/zh-Hans/
+      project: graduated
+      repo_url: https://github.com/Edgenesis/shifu
+    - name: 百度开源_no_16
+      logo: 百度开源.svg
+      description: '因为开源，所以简单。百度是拥有强大互联网基础的领先AI公司。是全球为数不多的提供AI芯片、软件架构和应用程序等全栈AI技术的公司之一,被国际机构评为全球四大AI公司之一。百度以“用科技让复杂的世界更简单”为使命,坚持技术创新,致力于“成为最懂用户,并能帮助人们成长的全球顶级高科技公司”。
+
+        一直以来百度持续参与和支持开源社区的发展。百度 2013 年对外开源图标和数据可视化库 ECharts,2016 年开源飞桨（PaddlePaddle）,2017
+        年开源 Apollo 自动驾驶、开源数据库 Doris、开源 RPC 开发框架 brpc,2018 年将 ECharts、Doris、brpc 捐献给
+        Apache 基金会进行孵化,2020 年,以创始白金身份加入开放原子开源基金会,并将 XuperChain 捐赠给开放原子开源基金会。2021 年,百度以理事单位加入开源创新联合体。
+
+        截至目前,百度在Github主导的18个开源组织累计开源项目1,000+个、社区贡献者17,000+、获得Star总数350,000+,并向Apache基金会、Linux基金会、CNCF、开放原子开源基金会累计捐赠9个项目。'
+      homepage_url: https://opensource.baidu.com/
+      project: graduated
+      repo_url: https://github.com/baidu
+    - name: FreeSWITCH中文社区_no_17
+      logo: FreeSWITCH中文社区.svg
+      description: FreeSWITCH是一个开源的电话软交换平台，支持实时音视频通信及会议，支持SIP及WebRTC等多种通信协议。其主要开发语言是C，某些模块中使用了C++，以MPL1.1发布。本社区旨在为广大FreeSWITCH中文用户提供一个统一的登陆页，便于大家查找FreeSWITCH相关的中文信息、最新动态，促进大家的技术交流以及FreeSWITCH技术在中国的传播。
+      homepage_url: http://www.freeswitch.org.cn/
+      project: graduated
+      repo_url: https://github.com/rts-cn/
+    - name: Apache ShardingSphere_no_18
+      logo: Apache ShardingSphere.svg
+      description: Apache ShardingSphere 是一款开源分布式数据库生态项目，旨在碎片化的异构数据库上层构建生态，在最大限度的复用数据库原生存算能力的前提下，进一步提供面向全局的扩展和叠加计算能力。其核心采用可插拔架构，对上以数据库协议及
+        SQL 方式提供诸多增强功能，包括数据分片、访问路由、数据安全等。
+      homepage_url: https://shardingsphere.apache.org/
+      project: graduated
+      repo_url: https://github.com/apache/shardingsphere
+    - name: dromara 开源组织_no_21
+      logo: dromara 开源组织.svg
+      description: A non-profit organization where open-source enthusiasts gather
+      homepage_url: https://dromara.org/
+      project: graduated
+      repo_url: https://github.com/dromara
+    - name: Apache EventMesh(incubating)_no_34
+      logo: Apache EventMesh(incubating).svg
+      description: Apache EventMesh是一款以事件驱动为核心的分布式服务运行时,通过动态的插件式云原生基础服务层,将应用程序和中间件层分离,并提供了灵活,可靠和快速的事件分发和处理能力,同时可以对事件进行管理,可以作为应用进程的连接层,为企业实现其数字化转型的目标,提供其所需的全套应用进程间通信模式。欢迎感兴趣的小伙伴们积极参与。
+      homepage_url: https://eventmesh.apache.org/
+      project: graduated
+      repo_url: https://github.com/apache/incubator-eventmesh
+    - name: ' 可信开源社区共同体_no_39'
+      logo: ' 可信开源社区共同体.svg'
+      description: 2021年9月17日，中国信通院正式成立可信开源社区共同体（TWOS），可信开源社区共同体由众多开源项目和开源社区组成，目的是引导建立健康可信且可持续发展的开源社区。可信开源社区共同体旨在搭建交流平台，提供全套的开源风险监测与生态监测服务。
+      homepage_url: http://trustedopensource.org.cn/#/home
+      project: graduated
+      repo_url: https://git.finoc.org:5000
+    - name: Apache Software Foundation_no_42
+      logo: Apache Software Foundation.svg
+      description: This is the description of item
+      homepage_url: https://www.apache.org/
+      project: graduated
+      repo_url: https://github.com/apache
+    - name: HCDG华为云开发者社区组织_no_61
+      logo: HCDG华为云开发者社区组织.svg
+      description: HCDG是Huawei Cloud Developer Group（华为云开发者社区组织）的英文缩写，是华为云开发者生态面向全球开发者建立的开放、创新、多元的开发者社区组织。致力于帮助开发者学习提升、互动交流、挖掘机会，推动ICT、互联网等产业生态的建立和发展。
+      homepage_url: https://developer.huaweicloud.com/hdz.html
+      project: graduated
+      repo_url: https://bbs.huaweicloud.com/
+    - name: FeatureProbe_no_62
+      logo: FeatureProbe.svg
+      description: FeatureProbe是一款新型交付功能管理发布平台，通过FeatureProbe的功能管理平台可以对产品功能粒度进行精细化验证和交付。FeatureProbe可以在生产环境执行多变量测试，验证新想法，提高部署和发布效率，降低变更风险。
+      homepage_url: https://github.com/FeatureProbe/FeatureProbe
+      project: graduated
+      repo_url: https://github.com/FeatureProbe/FeatureProbe
+    - name: Excelize开源社区_no_63
+      logo: Excelize开源社区.svg
+      description: Excelize 是 Go 语言编写的用于操作 Excel 文档的开源基础库，支持 XLAM / XLSM / XLSX /
+        XLTM / XLTX 等多种文档格式。可应用于各类报表平台、云计算、边缘计算等系统。正在被广泛应用于大型互联网公司、中小企业客户和初创公司。
+      homepage_url: https://xuri.me/excelize
+      project: graduated
+      repo_url: https://github.com/xuri/excelize
+    - name: .NET Core Community_no_65
+      logo: .NET Core Community.svg
+      description: 一个诞生于中国的非营利性民间 .NET 开源社区，为 .NET 生态系统做出贡献。
+      homepage_url: https://www.dotnetcore.xyz/
+      project: graduated
+      repo_url: https://github.com/dotnetcore
+    - name: OpenSDV汽车软件开源联盟_no_75
+      logo: OpenSDV汽车软件开源联盟.svg
+      description: OpenSDV汽车软件开源联盟是以推广开源开放促进汽车产业发展的非营利组织，具有高度的垂直性、专业性和开放性的特点,致力于成为汽车软件领域具有国际影响力的开源组织，旨在通过建设面向汽车软件的开源研发基础设施和国际化开源社区，推动汽车软件开源项目发展、技术创新和生态融合，促进汽车软件能力提升，赋能汽车产业整体发展。
+      homepage_url: http://opensdv.org/
+      project: graduated
+      repo_url: http://opensdv.org/
+    - name: 亚马逊云科技_no_82
+      logo: 亚马逊云科技.svg
+      description: 亚马逊云科技官方技术内容社区。日常分享AI/ML、大数据/数据库、现代应用开发、IoT等热门产品实用干货及开源技术，提供超全学习资源，定期组织开发者活动，为开发者持续赋能。
+      homepage_url: https://dev.amazoncloud.cn/
+      project: graduated
+      repo_url: https://aws.amazon.com/cn/opensource/?nc2=h_ql_sol_use_r6&blog-posts-content-open-source.sort-by=item.additionalFields.createdDate&blog-posts-content-open-source.sort-order=desc
+    - name: Apache软件基金会_no_83
+      logo: Apache软件基金会.svg
+      description: https://www.apache.org/foundation/
+      homepage_url: https://www.apache.org/
+      project: graduated
+      repo_url: https://github.com/apache
+    - name: Casbin开源社区_no_92
+      logo: Casbin开源社区.svg
+      description: Casbin 是一个强大的、高效的开源访问控制框架，支持 Go, Java, Node.js, Javascript (React),
+        Python, PHP, .NET, C++, Rust 等十几种语言。Casbin 开源项目由北京大学罗杨博士创立于 2017 年，核心维护团队有二十多人。Casbin
+        在业界具有广泛影响力。目前已经被 Intel 、VMware 、Orange 、RedHat 、T-Mobile 等公司开源使用，被腾讯云、Cisco
+        、Verizon 等公司闭源使用。具体详见 Casbin 主页。Casbin Go 主项目目前 GitHub 10000+ stars ，加上所有语言的实现、插件等可达到
+        15000+ stars 。
+      homepage_url: https://casbin.org
+      project: graduated
+      repo_url: https://github.com/casbin
+    - name: Apache ShenYu_no_93
+      logo: Apache ShenYu.svg
+      description: Apache ShenYu是一款高性能的API网关，用于服务代理，协议转换，API治理等功能
+      homepage_url: https://shenyu.apache.org/
+      project: graduated
+      repo_url: https://github.com/apache/incubator-shenyu
+    - name: StreamNative_no_106
+      logo: StreamNative.svg
+      description: StreamNative 是一家开源基础软件公司，由 Apache 软件基金会顶级项目 Apache Pulsar 创始团队组建而成，围绕
+        Pulsar 打造下一代云原生批流融合数据平台。StreamNative 作为 Apache Pulsar 商业化公司，专注于开源生态和社区构建，致力于前沿技术领域的创新，创始团队成员曾就职于
+        Yahoo、Twitter、Splunk、EMC 等知名大公司。
+      homepage_url: https://kaiyuanshe.cn/
+      project: graduated
+      repo_url: https://github.com/streamnative
+    - name: Know Streaming_no_107
+      logo: Know Streaming.svg
+      description: Know Streaming围绕Kafka打造了一个0门槛、0侵入、插件化的一站式集群管控平台，致力为国内Kafka开发者提供一个稳定、安全、可靠的企业级Kafka平台
+      homepage_url: http://knowstreaming.com
+      project: graduated
+      repo_url: https://github.com/didi/LogiKM
+    - name: CSDN（中国开发者网络）_no_115
+      logo: CSDN（中国开发者网络）.svg
+      description: CSDN（中国开发者网络）创立于1999年，是全球知名中文开发者网站。秉承成就一亿技术人的使命，为IT技术人成长及科技企业发展，提供开发者生态的全方位服务。CSDN在社区基础上，通过知识云、人才云、开发云三大服务，赋能开发者、研发团队及科技企业在IT知识学习、人才招聘、研发效能与协同管理等方面的高速成长与发展。
+      homepage_url: https://www.csdn.net/
+      project: graduated
+      repo_url: https://gitcode.net/dashboard/projects/home
+    - name: Apinto_no_116
+      logo: Apinto.svg
+      description: Apinto是基于Go语言开发的开源网关项目，拥有目前市面上最强的性能及稳定性表现，不但能够帮助用户简单、快速、低成本、低风险地实现：系统微服务化、系统集成、向合作伙伴及开发者开放功能和数据等目的；而且可以快速帮助企业进行
+        API 服务治理、提高 API 服务的稳定性和安全性。通过 Apinto ，企业能够专注于自身业务的发展，促进企业间互相借力，实现共赢。
+      homepage_url: https://www.apinto.com
+      project: graduated
+      repo_url: https://github.com/eolinker/apinto
+    - name: wechaty_no_137
+      logo: wechaty.svg
+      description: 'Wechaty is an Open Source software application for building chatbots.
+        It is a modern Conversational RPA SDK which Chatbot makers can use to create
+        a bot in a few lines of code.
+
+        You can use Wechaty to build a chatbot which automates conversations and interact
+        with people through instant messaging platforms such as WhatsApp, WeChat,
+        WeCom, Gitter and Lark among others.'
+      homepage_url: https://wechaty.js.org/
+      project: graduated
+      repo_url: https://github.com/wechaty/
+    - name: Apache RocketMQ_no_141
+      logo: Apache RocketMQ.svg
+      description: "Apache RocketMQ 是由阿里巴巴开源的消息产品，历经多年双十一流量洪峰严苛考研，2016 年 RocketMQ\
+        \ 进入 Apache 孵化器，于 2017 年毕业成为 Apache 基金会顶级开源项目，并被CNCF 基金会landscape所收录，是全球范围内首个支持全链路消息追踪的开源产品、国内首个支持OpenMessaging标准的消息产品、国际首个支持IPv6的开源消息产品。\
+        \ \nApache RocketMQ致力于打造金融级高可靠、高性能、低延迟的消息中间件服务，坚持面向场景、面向失败、松散耦合的极简弹性架构，无外部依赖，运维友好，开箱即用，具备低延迟、高并发、高可用、高可靠的优势，可支撑万亿级数据洪峰，具有灵活的可扩展性、海量消息堆积能力、支持顺序消息、支持多种消息过滤方式、支持事务消息等特性。经过过去几年的发展，Apache\
+        \ RocketMQ 已经成为微服务领域业务消息的首选。伴随着云原生时代的到来以及实时计算的兴起，生于云、长于云的 RocketMQ 5.0全新升级为云原生消息、事件、流融合处理平台，帮助用户更容易地构建下一代事件驱动和流处理应用。\n\
+        目前，全球超过数万家企业都在使用Apache RocketMQ，不仅包括字节、快手、小米、滴滴、微众银行、同城艺龙等来自互联网的头部企业，也包括来自于头部银行、券商、保险，基金公司等一系列要求极为严苛的金融公司。Apache\
+        \ RocketMQ 目前全球 Contributors 接近 500 人，成立了包括内核、批、connect、streaming、多语言客户端、rocketmq-flink、operator、exporter等一系列兴趣小组，社区开发者也成立了包括北京、深圳、苏州等一系列城市社区，不定期的举行一些线下活动，大量的创新从社区中产生并且落地。\n\
+        与此同时，在国家自主知识产权的基础软件国产化召唤下，在建标准与学术方面加大投入，先后和国内、外重点高校，标准所（如信通院、电子四院）共同打造云计算领域消息领域的白皮书与标准、开源生态白皮书等，并分享\
+        \ Apache RocketMQ 社区建设的成功经验。\nApache RocketMQ先后获得第十六届中日韩东北亚开源软件优胜奖、OSChina评选的最佳开源软件、中国开源云联盟优秀开源项目等奖项。阿里巴巴以此为基础打造的《面向互联网应用的高性能分布式中间件关键技术及平台》获得浙江省科技进步二等奖。围绕开源Apache\
+        \ RocketMQ 打造的阿里云企业级消息服务则输出国家专利超过20余件。"
+      homepage_url: https://rocketmq.apache.org/
+      project: graduated
+      repo_url: https://github.com/apache/rocketmq
+    - name: dubbogo社区_no_161
+      logo: dubbogo社区.svg
+      description: dubbogo 社区同学⼀起实现了 dubbogo 与 dubbo 所有版本的对⻬，实 现了与 dubbo、Spring Cloud、gRPC
+        ⽣态的互联互通，dubbogo 3.0 在 K8s、柔性服务等云原⽣⽅向持续探 索反哺 dubbo，构建 proxyless Dubbo Mesh，达成了
+        "bridging the gap between Java and Go" 初始⽬标。目前正推进 dubbo-go/dubbo-go-pixiu
+        等社区项目，打造下一代 Dubbo Mesh 生态；还在 与 RocketMQ 合作，在 RocketMQ 之上构建⾦融级的服务通信系统，达成服务通信、通信路径日志回溯
+        和 构建跨网络安全通信的统一；与腾讯 Polaris 以及阿里 OpenSergo 等项目合作，建立新一代微服务标准体系。通过不断拓展 Dubbo
+        ⽣态的边界，达成 "bridging the gap between Dubbo and X" 的新使命。
+      homepage_url: https://dubbogo.github.io/zh-cn/
+      project: graduated
+      repo_url: https://github.com/apache/dubbo-go
+    - name: 腾源会_no_169
+      logo: 腾源会.svg
+      description: 腾源会是腾讯云成立的汇聚开源项目、开源爱好者、开源领导者的开放社区，致力于帮助开源项目健康成长、开源爱好者能交流协助、开源领导者能发挥领袖价值，让全球开源生态变得更加繁荣。
+      homepage_url: https://cloud.tencent.com/act/pro/weopen-home
+      project: graduated
+      repo_url: https://github.com/weopenprojects
+    - name: CloudWeGo_no_172
+      logo: CloudWeGo.svg
+      description: CloudWeGo 开源项目是一套由字节跳动开源的、可快速构建企业级云原生微服务架构的中间件项目集合。CloudWeGo 项目共同的特点是高性能、高扩展性、高可靠，专注于微服务通信与治理。
+      homepage_url: https://www.cloudwego.io/
+      project: graduated
+      repo_url: https://github.com/cloudwego
+    - name: 金融行业开源应用社区_no_176
+      logo: 金融行业开源应用社区.svg
+      description: 国内首个金融行业开源技术应用社区，主要是服务于金融机构以及中小金融科技公司，2018年10月12日，中国信息通信研究院联合浦发银行、华为等近20家金融机构及科技公司共同成立。社区成立以来已展开多次研讨活动，成员单位积极整合优势资源和技术成果共享开源经验，共同推动金融行业开源生态健康发展。
+      homepage_url: http://trustedopensource.org.cn/#/home
+      project: graduated
+      repo_url: https://git.finoc.org:5000
+    - name: LiteFlow_no_179
+      logo: LiteFlow.svg
+      description: LiteFlow是一个轻量，快速，稳定，可编排的组件式规则引擎/流程引擎。 拥有全新设计的DSL规则表达式。 组件复用，同步/异步编排，动态编排，复杂嵌套规则，热部署，平滑刷新规则等等功能，让你加快开发效率！
+      homepage_url: https://liteflow.yomahub.com/
+      project: graduated
+      repo_url: https://gitee.com/dromara/liteFlow
+    - name: Apache Pulsar_no_181
+      logo: Apache Pulsar.svg
+      description: Apache Pulsar 是 Apache 软件基金会顶级项目，是下一代云原生分布式消息流平台，集消息、存储、轻量化函数式计算为一体，采用计算与存储分离架构设计，支持多租户、持久化存储、多机房跨区域数据复制，具有强一致性、高吞吐、低延时及高可扩展性等流数据存储特性。
+      homepage_url: https://github.com/apache/pulsar
+      project: graduated
+      repo_url: https://github.com/apache/pulsar
+    - name: 龙蜥社区（OpenAnolis）_no_183
+      logo: 龙蜥社区（OpenAnolis）.svg
+      description: 龙蜥社区（OpenAnolis）成立于 2020 年 9 月，是一个操作系统开源社区及创新平台，由 Arm 、阿里云、统信软件、龙芯、飞腾、中科方德、Intel
+        等十几家国内外头部企业共同成立龙蜥社区理事会，到目前有超过 240 家合作伙伴参与共建。龙蜥社区致力于通过开放的社区合作，构建国内自主 Linux
+        开源发行版及开源创新技术，推动软、硬件及应用生态繁荣发展。
+      homepage_url: https://openanolis.cn/
+      project: graduated
+      repo_url: https://gitee.com/anolis
+    - name: Dromara开源社区_no_186
+      logo: Dromara开源社区.svg
+      description: Dromara 是由国内顶尖的开源项目作者共同组成的开源社区。提供包括分布式事务，流行工具，企业级认证，微服务RPC，运维监控，Agent监控，分布式日志，调度编排等一系列开源产品、解决方案与咨询、技术支持与培训认证服务。技术栈全面开源共建、
+        保持社区中立，致力于为全球用户提供微服务云原生解决方案。让参与的每一位开源爱好者，体会到开源的快乐。
+      homepage_url: https://dromara.org/
+      project: graduated
+      repo_url: https://gitee.com/dromara
+    - name: SOFAStack_no_199
+      logo: SOFAStack.svg
+      description: 'SOFAStack 社区于 2018 年 4 月 19 日开源。SOFAStack 开源社区能够快速构建金融级云原生架构，同时在多个金融场景里均锤炼出最佳实践，具备以下特点：
+
+        一是社区简洁开放，社区全面开源共建、保持中立、兼容社区与开源生态，SOFAStack 积极与其他社区开展生态共建;
+
+        二是金融级，包含构建金融级云原生架构所需的各个组件，让用户更加专注于业务开发，满足用户场景的现状和未来需求，经历过大规模场景的锤炼，特别是严苛的金融场景;
+
+        三是云原生，基于 SOFAStack 可快速搭建云原生微服务体系，快速开发更具可靠性、扩展性、更加易于维护的云原生应用。'
+      homepage_url: https://www.sofastack.tech/
+      project: graduated
+      repo_url: https://github.com/sofastack

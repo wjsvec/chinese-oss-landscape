@@ -1,0 +1,243 @@
+categories:
+- name: 开源布道
+  subcategories:
+  - name: 开源布道
+    items:
+    - name: Linux Foundation_no_19
+      logo: Linux Foundation.svg
+      description: This is the description of item
+      homepage_url: https://www.linuxfoundation.org/
+      project: graduated
+      repo_url: https://github.com/LF-Engineering
+    - name: 开源中国_no_24
+      logo: 开源中国.svg
+      description: 开源风乍起，中国有Gitee。开源中国自2008年创立以来，始终秉承“自由、开放、共享”的开源精神，致力于推动本土开源技术的发展和国内IT行业的进步。经过14年的积累，开源中国不仅创立了国内最大、最专业的开源技术社区OSCHINA.NET和全球第二大代码托管与协作平台Gitee，同时也积极发展Gitee企业版研发管理平台、Gitee私有云、培训等多项业务线，已经成为了一家专注服务程序员群体与软件行业的综合性公司。
+      homepage_url: https://www.oschina.net/
+      project: graduated
+      repo_url: https://gitee.com
+    - name: OpenDataLab_no_25
+      logo: OpenDataLab.svg
+      description: OpenDataLab隶属于上海人工智能实验室，是面向AI开发者的新一代超大规模、高质量、多模态公开数据集开放平台（OpenDataLab.com），已覆盖2,000余个开源精标数据集，提供了超过1亿的优质模型训练数据样本，适用于目标检测、语义分割、自然语言处理等50余种任务类型，秉承“智慧共享、开源高效”的核心理念，致力于打造具有国际影响力的数据开源平台。
+      homepage_url: https://opendatalab.org.cn/
+      project: graduated
+      repo_url: https://github.com/opendatalab
+    - name: kubecub_no_28
+      logo: kubecub.svg
+      description: 针对 Kubernetes 和 开源的爱好者的开发者提供手脚架和学习资料，以及部分的工具
+      homepage_url: https://nsddd.top
+      project: graduated
+      repo_url: https://github.com/kubecub
+    - name: Elastic中文社区_no_31
+      logo: Elastic中文社区.svg
+      description: Elastic中文社区专注于Elastic开源技术分享。
+      homepage_url: https://elasticsearch.cn
+      project: graduated
+      repo_url: https://github.com/elasticsearch-cn
+    - name: Nico-Tech Shenzhen_no_36
+      logo: Nico-Tech Shenzhen.svg
+      description: 开源硬件爱好家社区在深圳，两个发起人都日本人，大部分活动日话。我们感兴趣中国开源文化国际链接。
+      homepage_url: https://medium.com/ecosystembymakers/about-e306f96168b8
+      project: graduated
+      repo_url: https://github.com/Nico-Tech-Shenzhen
+    - name: 渠成开源社区_no_38
+      logo: 渠成开源社区.svg
+      description: '渠成开源社区由禅道项目管理软件团队发起，社区的经营主体为青岛渠成开源计算机网络技术研究中心，是非营利性社会服务活动的社会组织。
+
+        渠成开源社区主要面向一线开源软件生产者、贡献者、组织者、赞助商和用户，以解决具体实际问题为宗旨，旨在打造以开源软件为核心纽带的开源生态系统，真正做到让每一个优秀的开源软件都能实现商业化。'
+      homepage_url: https://www.qucheng.cc/
+      project: graduated
+      repo_url: https://github.com/QuCheng-OpenSource
+    - name: Apache Software Foundation_no_42
+      logo: Apache Software Foundation.svg
+      description: This is the description of item
+      homepage_url: https://www.apache.org/
+      project: graduated
+      repo_url: https://github.com/apache
+    - name: 「开源之道」_no_44
+      logo: 「开源之道」.svg
+      description: 致力于开源相关思想、知识和价值的探究、推动！
+      homepage_url: https://opensourceway.community/
+      project: graduated
+      repo_url: http://github.com/ocselected
+    - name: Flomesh_no_58
+      logo: Flomesh.svg
+      description: Flomesh 易衡科技提供行业领先的应用流量管理产品与解决方案。Flomesh 以开源软件 Pipy 为核心，提供全方面的应用流量管理产品及理解决方案，包括软件负载均衡平台
+        FLB(Flomesh Load Balancer)，服务网格 FSM(Flomesh Service Mesh)。
+      homepage_url: https://flomesh.io
+      project: graduated
+      repo_url: https://github.com/flomesh-io
+    - name: HCDG华为云开发者社区组织_no_61
+      logo: HCDG华为云开发者社区组织.svg
+      description: HCDG是Huawei Cloud Developer Group（华为云开发者社区组织）的英文缩写，是华为云开发者生态面向全球开发者建立的开放、创新、多元的开发者社区组织。致力于帮助开发者学习提升、互动交流、挖掘机会，推动ICT、互联网等产业生态的建立和发展。
+      homepage_url: https://developer.huaweicloud.com/hdz.html
+      project: graduated
+      repo_url: https://bbs.huaweicloud.com/
+    - name: .NET Core Community_no_65
+      logo: .NET Core Community.svg
+      description: 一个诞生于中国的非营利性民间 .NET 开源社区，为 .NET 生态系统做出贡献。
+      homepage_url: https://www.dotnetcore.xyz/
+      project: graduated
+      repo_url: https://github.com/dotnetcore
+    - name: OpenSDV汽车软件开源联盟_no_75
+      logo: OpenSDV汽车软件开源联盟.svg
+      description: OpenSDV汽车软件开源联盟是以推广开源开放促进汽车产业发展的非营利组织，具有高度的垂直性、专业性和开放性的特点,致力于成为汽车软件领域具有国际影响力的开源组织，旨在通过建设面向汽车软件的开源研发基础设施和国际化开源社区，推动汽车软件开源项目发展、技术创新和生态融合，促进汽车软件能力提升，赋能汽车产业整体发展。
+      homepage_url: http://opensdv.org/
+      project: graduated
+      repo_url: http://opensdv.org/
+    - name: 开源面对面_no_77
+      logo: 开源面对面.svg
+      description: 《开源面对面》是个系列访谈节目，旨在通过采访不同行业、岗位的开源参与者的亲身经历、心得体会，让更多的从业人员感受到参与开源是一种积极的趋势与良好的
+        职业发展方向，认识到任何人都可以参与开源，并在开源的世界里体现自己的价值。
+      homepage_url: https://github.com/opensource-f2f/episode
+      project: graduated
+      repo_url: https://github.com/opensource-f2f/
+    - name: 开源之夏_no_78
+      logo: 开源之夏.svg
+      description: 开源之夏是由中科院软件研究所“开源软件供应链点亮计划”发起并长期支持的一项暑期开源活动，旨在鼓励在校学生积极参与开源软件的开发维护，促进优秀开源软件社区的蓬勃发展，培养和发掘更多优秀的开发者。
+      homepage_url: https://summer-ospp.ac.cn/
+      project: graduated
+      repo_url: https://github.com/summer-ospp/help
+    - name: ALC Beijing_no_79
+      logo: ALC Beijing.svg
+      description: ALC (Apache Local Community) 由一群分布在各地开源爱好者，尤其是 Apache（开源）爱好者（Group）所组成。因为是本地组织，ALC是按照城市或地区的方式进行划分的，类似的机构如
+        GDG （Google Developer Group）, Facebook Developer Circles, Mozilla Reps 等，你可以代表自己所在城市向
+        ALC 提出申请创建本地的组织。
+      homepage_url: https://cwiki.apache.org/confluence/display/COMDEV/ALC+Beijing
+      project: graduated
+      repo_url: https://github.com/alc-beijing
+    - name: Apache软件基金会_no_83
+      logo: Apache软件基金会.svg
+      description: https://www.apache.org/foundation/
+      homepage_url: https://www.apache.org/
+      project: graduated
+      repo_url: https://github.com/apache
+    - name: 开源GitOps产业联盟_no_99
+      logo: 开源GitOps产业联盟.svg
+      description: 开源GitOps产业联盟（简称：OGA联盟）是由极狐GitLab和云原生计算基金会共同发起的，我们致力于支撑国家相关技术标准的研究制定和规范实践，推动开源、开放GitOps技术在中国自主创新发展与落地实践。
+      homepage_url: http://www.openoga.com/home
+      project: graduated
+      repo_url: http://www.openoga.com/home
+    - name: Dev.Together Community_no_110
+      logo: Dev.Together Community.svg
+      description: Dev.Together 中国开发者生态峰会是由 SegmentFault 思否发起的，国内首个面向 to D Marketing、开发者运营、开发者关系从业者的交流活动。我们希望打破日常工作中来自不同厂商背景给大家带来的交流屏障，在一个中立的平台上，彼此交流学习、开放分享，畅聊走过的路、踩过的坑，携手
+        Dev.Together！
+      homepage_url: https://segmentfault.com
+      project: graduated
+    - name: CSDN（中国开发者网络）_no_115
+      logo: CSDN（中国开发者网络）.svg
+      description: CSDN（中国开发者网络）创立于1999年，是全球知名中文开发者网站。秉承成就一亿技术人的使命，为IT技术人成长及科技企业发展，提供开发者生态的全方位服务。CSDN在社区基础上，通过知识云、人才云、开发云三大服务，赋能开发者、研发团队及科技企业在IT知识学习、人才招聘、研发效能与协同管理等方面的高速成长与发展。
+      homepage_url: https://www.csdn.net/
+      project: graduated
+      repo_url: https://gitcode.net/dashboard/projects/home
+    - name: DCE Community_no_123
+      logo: DCE Community.svg
+      description: DCE 社区是「DaoCloud 道客」新一代云原生操作系统 DCE 5.0 社区版的技术交流平台，用户可实现零成本体验企业级云原生底座的性能。此外，DCE
+        社区积极发起、参与由 CNCF 背书的开源活动，致力携手广大行业力量，聚焦云原生前沿技术、开源项目、解决方案、典型案例等，面向开发者、社区和企业，进行传播布道，旨在将最新鲜的热点资讯、最前沿的行业展望和最具价值的技术实践分享给大家，扩大云原生技术影响力，寻找更多云原生信仰者，拓展云原生生态圈。欢迎大家加入，共同论道原生！
+      homepage_url: https://www.daocloud.io/dce_5.0_ce
+      project: graduated
+      repo_url: https://github.com/DaoCloud/DaoCloud-docs
+    - name: OpenTEKr_no_131
+      logo: OpenTEKr.svg
+      description: OpenTEKr 是一家为开源事业服务的开源社区。以“科技开源，普惠世界”为愿景， 致力于倡导开源理念，用开源精神来服务和支持各类开源社区及开源创业团队在企业级用户群体中的推广和相应开源技术的产业化实践和商业转化。
+      homepage_url: http://www.opentekr.org/
+      project: graduated
+      repo_url: https://github.com/opentekr
+    - name: 上海大学开源社区_no_148
+      logo: 上海大学开源社区.svg
+      description: 上海大学开源社区是由上海大学的开源技术爱好者于 2010 年自主发起成立的非营利性学生组织，面向全校师生传播开源理念，并提供排课助手等公共服务。校内同学与往届成员保持密切的联系，开展各式各样的技术交流。除了在校内开展社团活动，我们还与校外企业和开源组织密切合作，积极号召学生志愿者参加各类开源技术活动，在沪上具有广泛影响力。
+      homepage_url: https://www.shuosc.org/
+      project: graduated
+      repo_url: https://github.com/shuosc
+    - name: Primi Hub _no_149
+      logo: Primi Hub .svg
+      description: "       原语科技成立于2021年，总部位于北京，专注于打造企业级开源隐私计算平台，核心成员均来自百度、阿里、字节跳动、西门子研究院等知名公司。原语科技自主研发了基于安全多方计算、联邦学习、同态加密、机密计算、区块链等技术的隐私计算应用平台，结合英伟达GPU的算法加速，为用户提供数据全生命周期的隐私安全服务，实现“数据可用不可见”。\n\
+        \       原语科技致力于以隐私计算技术构建数据信任与安全，赋能数据价值的安全融合与释放，为构建未来数字型社会提供技术支撑。"
+      homepage_url: https://www.primihub.com
+      project: graduated
+      repo_url: https://github.com/primihub
+    - name: 腾源会_no_169
+      logo: 腾源会.svg
+      description: 腾源会是腾讯云成立的汇聚开源项目、开源爱好者、开源领导者的开放社区，致力于帮助开源项目健康成长、开源爱好者能交流协助、开源领导者能发挥领袖价值，让全球开源生态变得更加繁荣。
+      homepage_url: https://cloud.tencent.com/act/pro/weopen-home
+      project: graduated
+      repo_url: https://github.com/weopenprojects
+    - name: GDG Zhengzhou_no_170
+      logo: GDG Zhengzhou.svg
+      description: GDG , 即 Google Developer Groups 谷歌开发者社区，是谷歌开发者部门发起的全球项目。GDG 是面向对
+        Google 和开源技术感兴趣的人群而存在的公益性开发者社区，内容涵盖 Web/Chrome、Android、机器学习、Flutter 和其它 Google
+        API 等。全世界各大城市都成立了自己的 GDG 社区，GDG Zhenghzou （郑州谷歌开发者社区）也是其中之一。在这里，你能更及时地了解 Google
+        最新技术、产品与信息，也能在全国乃至全球 GDG 中，找到技术交流、讨论问题的伙伴，结交朋友、开拓视野。社区中的各位组织者均是来自各个行业有着本职工作的互联网从业者，我们需要更多新鲜血液的加入！如果你对谷歌技术感兴趣，业余时间可调配，认同社区的价值观，愿意为社区做出贡献，欢迎加入我们成为社区志愿者
+      homepage_url: https://gdg.community.dev/gdg-zhengzhou/
+      project: graduated
+      repo_url: https://github.com/GDGZhengzhou
+    - name: 开源社_no_173
+      logo: 开源社.svg
+      description: '成立于2014年，以 “立足中国、贡献全球” 为愿景，依 “贡献、共识、共治” 原则所组成，是最早以 “开源治理、国际接轨、社区发展、开源项目”
+        为使命的开源社区联合体。
+
+
+        2017年，开源社转型为完全由个人成员组成，链接了数万名开源人，集聚了上千名社区成员及志愿者、海内外数百位讲师，合作了近百家赞助、媒体、社区伙伴。'
+      homepage_url: https://kaiyuanshe.cn/
+      project: graduated
+      repo_url: https://github.com/kaiyuanshe
+    - name: ALC Shenzhen_no_177
+      logo: ALC Shenzhen.svg
+      description: ALC (Apache Local Community) 由一群分布在各地开源爱好者，尤其是 Apache（开源）爱好者（Group）所组成。因为是本地组织，ALC是按照城市或地区的方式进行划分的，类似的机构如
+        GDG （Google Developer Group）, Facebook Developer Circles, Mozilla Reps 等，你可以代表自己所在城市向
+        ALC 提出申请创建本地的组织。
+      homepage_url: https://cwiki.apache.org/confluence/display/COMDEV/ALC+Shenzhen
+      project: graduated
+      repo_url: https://github.com/ALC-Family/ALC-Shenzhen
+    - name: OpenMMLab_no_178
+      logo: OpenMMLab.svg
+      description: OpenMMLab 诞生于 2018 年，是深度学习时代计算机视觉领域最全面、最具影响力的开源算法体系。旨在为学术和产业界提供一个可跨方向、结构精良、跨站性强、易复现的统一算法工具库。在
+        2021 年上海人工智能大会上，发布了新一代 OpenMMLab，其升级后涵盖了更广泛的算法领域和应用场景，实现了从训练到部署的全链条价值。目前，OpenMMLab
+        已经累计开源了超过 30 个算法库，涵盖分类、检测、分割、视频理解等众多算法领域，有超过 300 种算法实现、2,400 多个预训练模型。在 GitHub
+        上获得超过 72,000 个标星，同时吸引了超过 1,500 名社区开发者参与项目贡献，用户遍及超过 110 个国家和地区，覆盖全国全球顶尖高校、研究机构和企业。
+      homepage_url: https://openmmlab.com/
+      project: graduated
+      repo_url: https://github.com/open-mmlab
+    - name: Apache Pulsar_no_181
+      logo: Apache Pulsar.svg
+      description: Apache Pulsar 是 Apache 软件基金会顶级项目，是下一代云原生分布式消息流平台，集消息、存储、轻量化函数式计算为一体，采用计算与存储分离架构设计，支持多租户、持久化存储、多机房跨区域数据复制，具有强一致性、高吞吐、低延时及高可扩展性等流数据存储特性。
+      homepage_url: https://github.com/apache/pulsar
+      project: graduated
+      repo_url: https://github.com/apache/pulsar
+    - name: 开源江湖_no_182
+      logo: 开源江湖.svg
+      description: 以开源为始，专注 IT 科技知识分享。聊开源，但不止聊开源。
+      homepage_url: https://www.douyin.com/user/MS4wLjABAAAAAuWRsNlHn_j2cfFhGuj5KoDpB_bIeS2K7mqxE9De5-4
+      project: graduated
+      repo_url: https://www.douyin.com/user/MS4wLjABAAAAAuWRsNlHn_j2cfFhGuj5KoDpB_bIeS2K7mqxE9De5-4
+    - name: 龙蜥社区（OpenAnolis）_no_183
+      logo: 龙蜥社区（OpenAnolis）.svg
+      description: 龙蜥社区（OpenAnolis）成立于 2020 年 9 月，是一个操作系统开源社区及创新平台，由 Arm 、阿里云、统信软件、龙芯、飞腾、中科方德、Intel
+        等十几家国内外头部企业共同成立龙蜥社区理事会，到目前有超过 240 家合作伙伴参与共建。龙蜥社区致力于通过开放的社区合作，构建国内自主 Linux
+        开源发行版及开源创新技术，推动软、硬件及应用生态繁荣发展。
+      homepage_url: https://openanolis.cn/
+      project: graduated
+      repo_url: https://gitee.com/anolis
+    - name: 木兰开源社区_no_188
+      logo: 木兰开源社区.svg
+      description: “木兰开源社区”建立于2019年8月，是国家重点研发计划重点专项“云计算和大数据开源社区生态系统”的核心成果。旨在促进产学研用各方开源领域的交流，推动国家科技创新成果开源，加强企业、科教研单位和行业用户之间的沟通，推动开源成果转化落地，同时为各类开源项目提供中立托管，保证开源项目的持续发展不受第三方影响，通过更加开放的方式来打造和完善开源社区生态。
+      homepage_url: https://portal.mulanos.cn/
+      project: graduated
+      repo_url: https://gitee.com/mulan-community/incubator-propose
+    - name: X-lab 开放实验室_no_195
+      logo: X-lab 开放实验室.svg
+      description: 开源点亮未来~
+      homepage_url: https://www.x-lab.info/
+      project: graduated
+      repo_url: https://github.com/X-lab2017
+    - name: SOFAStack_no_199
+      logo: SOFAStack.svg
+      description: 'SOFAStack 社区于 2018 年 4 月 19 日开源。SOFAStack 开源社区能够快速构建金融级云原生架构，同时在多个金融场景里均锤炼出最佳实践，具备以下特点：
+
+        一是社区简洁开放，社区全面开源共建、保持中立、兼容社区与开源生态，SOFAStack 积极与其他社区开展生态共建;
+
+        二是金融级，包含构建金融级云原生架构所需的各个组件，让用户更加专注于业务开发，满足用户场景的现状和未来需求，经历过大规模场景的锤炼，特别是严苛的金融场景;
+
+        三是云原生，基于 SOFAStack 可快速搭建云原生微服务体系，快速开发更具可靠性、扩展性、更加易于维护的云原生应用。'
+      homepage_url: https://www.sofastack.tech/
+      project: graduated
+      repo_url: https://github.com/sofastack

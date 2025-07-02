@@ -299,7 +299,7 @@
     text: https://github.com/easysoft/zentaopms
   email: co@zentao.net
   link:
-    link: http://官网：https://www.zentao.net/
+    link: https://www.zentao.net/
     text: https://www.zentao.net/
   logos:
     - file_token: Fvq0bBQ7qolI0Mxr78jcWb89nhd
@@ -2492,9 +2492,7 @@
       text_arr: []
       type: text
   city: 北京
-  codeLink:
-    link: http://暂无，开通中
-    text: 暂无，建设中
+
   email: contact@risc-verse.cn
   link:
     link: https://risc-verse.cn/
@@ -3246,9 +3244,6 @@
       text_arr: []
       type: text
   city: 合肥
-  codeLink:
-    link: http:///
-    text: /
   email: www@byjs.com.cn
   link:
     link: http://byjs.com.cn/
@@ -4782,8 +4777,8 @@
       type: text
   city: 北京
   codeLink:
-    link: http:// https://gitee.com/openkylin
-    text: ' https://gitee.com/openkylin'
+    link: https://gitee.com/openkylin
+    text: https://gitee.com/openkylin'
   email: fanjiao@kylinos.cn
   link:
     link: https://www.kylinos.cn/
@@ -5601,12 +5596,10 @@
       text_arr: []
       type: text
   city: 上海 北京 苏州
-  codeLink:
-    link: http://暂无
-    text: 暂无
+
   email: a15162765016@outlook.com
   link:
-    link: https://
+    link: https://www.rpa-cn.com
     text: https://www.rpa-cn.com
   logos:
     - file_token: EXyQb6IvUoL41xxtOg5cWG3VnLg

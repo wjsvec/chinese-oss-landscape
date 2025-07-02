@@ -1,0 +1,176 @@
+categories:
+- name: Web 前端
+  subcategories:
+  - name: Web 前端
+    items:
+    - name: freeCodeCamp 成都社区_no_1
+      logo: freeCodeCamp 成都社区.svg
+      description: freeCodeCamp 成都社区成立于 2016 年，是中国大陆最早一批 FCC 城市线下社区，目前会员千余人，也是最大的
+        FCC 城市社区。在核心团队 20 余人两年的努力下，FCC 成都已覆盖 编程教育、技术招聘、行业大会等程序员全职业生涯的公益服务。
+      homepage_url: https://fcc-cd.dev/
+      project: graduated
+      repo_url: https://github.com/FreeCodeCamp-Chengdu
+    - name: Eolink_no_2
+      logo: Eolink.svg
+      description: 强大的一体化 API 管理和测试平台，我们致力于让 API 管理更简单！
+      homepage_url: https://eoapi.io/
+      project: graduated
+      repo_url: https://github.com/eolinker/eoapi
+    - name: GDG珠海_no_3
+      logo: GDG珠海.svg
+      description: Google 全球独家赞助开源技术学习/拓展社区
+      homepage_url: https://blog.zhgdg.org/about/
+      project: graduated
+      repo_url: https://github.com/ZHGDG
+    - name: 百度开源_no_16
+      logo: 百度开源.svg
+      description: '因为开源，所以简单。百度是拥有强大互联网基础的领先AI公司。是全球为数不多的提供AI芯片、软件架构和应用程序等全栈AI技术的公司之一,被国际机构评为全球四大AI公司之一。百度以“用科技让复杂的世界更简单”为使命,坚持技术创新,致力于“成为最懂用户,并能帮助人们成长的全球顶级高科技公司”。
+
+        一直以来百度持续参与和支持开源社区的发展。百度 2013 年对外开源图标和数据可视化库 ECharts,2016 年开源飞桨（PaddlePaddle）,2017
+        年开源 Apollo 自动驾驶、开源数据库 Doris、开源 RPC 开发框架 brpc,2018 年将 ECharts、Doris、brpc 捐献给
+        Apache 基金会进行孵化,2020 年,以创始白金身份加入开放原子开源基金会,并将 XuperChain 捐赠给开放原子开源基金会。2021 年,百度以理事单位加入开源创新联合体。
+
+        截至目前,百度在Github主导的18个开源组织累计开源项目1,000+个、社区贡献者17,000+、获得Star总数350,000+,并向Apache基金会、Linux基金会、CNCF、开放原子开源基金会累计捐赠9个项目。'
+      homepage_url: https://opensource.baidu.com/
+      project: graduated
+      repo_url: https://github.com/baidu
+    - name: JavaScript 中文兴趣组_no_33
+      logo: JavaScript 中文兴趣组.svg
+      description: '致力于提供一个加强中国 JavaScript 社区对 JavaScript 语言标准（ECMAScript）工作的参与的平台。
+
+
+        JSCIG 主要侧重于确定中国 JavaScript 开发者的需求、帮助 Ecma 的中国成员熟悉 TC39 标准流程、讨论可能提交给 TC39 的提案、标准的测试、实现以及和
+        JavaScript 相关的标准化机会，同时协助中国 JavaScript 社区对 JavaScript 语言的发展进行参与和贡献。'
+      homepage_url: https://jscig.github.io/
+      project: graduated
+      repo_url: https://github.com/JSCIG
+    - name: ' 可信开源社区共同体_no_39'
+      logo: ' 可信开源社区共同体.svg'
+      description: 2021年9月17日，中国信通院正式成立可信开源社区共同体（TWOS），可信开源社区共同体由众多开源项目和开源社区组成，目的是引导建立健康可信且可持续发展的开源社区。可信开源社区共同体旨在搭建交流平台，提供全套的开源风险监测与生态监测服务。
+      homepage_url: http://trustedopensource.org.cn/#/home
+      project: graduated
+      repo_url: https://git.finoc.org:5000
+    - name: Apache Software Foundation_no_42
+      logo: Apache Software Foundation.svg
+      description: This is the description of item
+      homepage_url: https://www.apache.org/
+      project: graduated
+      repo_url: https://github.com/apache
+    - name: idea2app_no_47
+      logo: idea2app.svg
+      description: 全行业信息化转型专家，基于开源模式的远程软件开发团队。
+      homepage_url: https://idea2.app
+      project: graduated
+      repo_url: https://github.com/idea2app
+    - name: MASA Stack_no_59
+      logo: MASA Stack.svg
+      description: MASA Stack是开源企业级云原生数字底座，提供一站式.NET现代应用开发交付解决方案，助力传统.NET应用程序进行现代化改造，赋能.NET开发者转型为数字化人才，从而让企业获得持续的创新力和新的增长机会，帮助企业找到数字化转型的最佳路径！
+      homepage_url: https://www.masastack.com
+      project: graduated
+      repo_url: https://github.com/masastack/MASA.Stack
+    - name: Hypercrx_no_60
+      logo: Hypercrx.svg
+      description: 成员为来自X-lab开放实验室的小伙伴们
+      homepage_url: https://crx.hypertrons.io/
+      project: graduated
+      repo_url: https://github.com/hypertrons/hypertrons-crx
+    - name: HCDG华为云开发者社区组织_no_61
+      logo: HCDG华为云开发者社区组织.svg
+      description: HCDG是Huawei Cloud Developer Group（华为云开发者社区组织）的英文缩写，是华为云开发者生态面向全球开发者建立的开放、创新、多元的开发者社区组织。致力于帮助开发者学习提升、互动交流、挖掘机会，推动ICT、互联网等产业生态的建立和发展。
+      homepage_url: https://developer.huaweicloud.com/hdz.html
+      project: graduated
+      repo_url: https://bbs.huaweicloud.com/
+    - name: .NET Core Community_no_65
+      logo: .NET Core Community.svg
+      description: 一个诞生于中国的非营利性民间 .NET 开源社区，为 .NET 生态系统做出贡献。
+      homepage_url: https://www.dotnetcore.xyz/
+      project: graduated
+      repo_url: https://github.com/dotnetcore
+    - name: Apache软件基金会_no_83
+      logo: Apache软件基金会.svg
+      description: https://www.apache.org/foundation/
+      homepage_url: https://www.apache.org/
+      project: graduated
+      repo_url: https://github.com/apache
+    - name: tinymce-plugin_no_100
+      logo: tinymce-plugin.svg
+      description: '这是一个专注 提供 强大、好用、丰富 的 tinymce 富文本编辑器 插件、扩展 和 技术 的技术社区，方便 交流讨论，分享经验
+        。
+
+        本社区有多个不错的插件或者项目，欢迎 Star ⭐ 关注~'
+      homepage_url: https://tinymce-plugin.github.io/introduction.html
+      project: graduated
+      repo_url: https://github.com/tinymce-plugin
+    - name: CSDN（中国开发者网络）_no_115
+      logo: CSDN（中国开发者网络）.svg
+      description: CSDN（中国开发者网络）创立于1999年，是全球知名中文开发者网站。秉承成就一亿技术人的使命，为IT技术人成长及科技企业发展，提供开发者生态的全方位服务。CSDN在社区基础上，通过知识云、人才云、开发云三大服务，赋能开发者、研发团队及科技企业在IT知识学习、人才招聘、研发效能与协同管理等方面的高速成长与发展。
+      homepage_url: https://www.csdn.net/
+      project: graduated
+      repo_url: https://gitcode.net/dashboard/projects/home
+    - name: CodeGeeX_no_129
+      logo: CodeGeeX.svg
+      description: Code as a Geek with AI
+      homepage_url: https://models.aminer.cn/codegeex/
+      project: graduated
+      repo_url: https://github.com/THUDM/CodeGeeX
+    - name: 上海大学开源社区_no_148
+      logo: 上海大学开源社区.svg
+      description: 上海大学开源社区是由上海大学的开源技术爱好者于 2010 年自主发起成立的非营利性学生组织，面向全校师生传播开源理念，并提供排课助手等公共服务。校内同学与往届成员保持密切的联系，开展各式各样的技术交流。除了在校内开展社团活动，我们还与校外企业和开源组织密切合作，积极号召学生志愿者参加各类开源技术活动，在沪上具有广泛影响力。
+      homepage_url: https://www.shuosc.org/
+      project: graduated
+      repo_url: https://github.com/shuosc
+    - name: FlyFish社区_no_166
+      logo: FlyFish社区.svg
+      description: FlyFish 是云智慧公司自主设计、研发的一款低门槛、高拓展性的低代码应用开发平台， 为数据可视化开发场景提供了高效的一站式解决方案。飞鱼提供丰富的组件和应用模板库，
+        可通过拖拉拽的形式完成数据可视化开发，零开发背景的用户也可完成数据可视化开发工作。 同时，飞鱼也提供了灵活的拓展能力，支持组件开发、自定义函数与全局事件等配置，
+        面向复杂需求场景能够保证高效开发与交付。
+      homepage_url: https://www.cloudwise.ai/flyFish.html
+      project: graduated
+      repo_url: https://github.com/CloudWise-OpenSource/FlyFish
+    - name: GDG Zhengzhou_no_170
+      logo: GDG Zhengzhou.svg
+      description: GDG , 即 Google Developer Groups 谷歌开发者社区，是谷歌开发者部门发起的全球项目。GDG 是面向对
+        Google 和开源技术感兴趣的人群而存在的公益性开发者社区，内容涵盖 Web/Chrome、Android、机器学习、Flutter 和其它 Google
+        API 等。全世界各大城市都成立了自己的 GDG 社区，GDG Zhenghzou （郑州谷歌开发者社区）也是其中之一。在这里，你能更及时地了解 Google
+        最新技术、产品与信息，也能在全国乃至全球 GDG 中，找到技术交流、讨论问题的伙伴，结交朋友、开拓视野。社区中的各位组织者均是来自各个行业有着本职工作的互联网从业者，我们需要更多新鲜血液的加入！如果你对谷歌技术感兴趣，业余时间可调配，认同社区的价值观，愿意为社区做出贡献，欢迎加入我们成为社区志愿者
+      homepage_url: https://gdg.community.dev/gdg-zhengzhou/
+      project: graduated
+      repo_url: https://github.com/GDGZhengzhou
+    - name: 金融行业开源应用社区_no_176
+      logo: 金融行业开源应用社区.svg
+      description: 国内首个金融行业开源技术应用社区，主要是服务于金融机构以及中小金融科技公司，2018年10月12日，中国信息通信研究院联合浦发银行、华为等近20家金融机构及科技公司共同成立。社区成立以来已展开多次研讨活动，成员单位积极整合优势资源和技术成果共享开源经验，共同推动金融行业开源生态健康发展。
+      homepage_url: http://trustedopensource.org.cn/#/home
+      project: graduated
+      repo_url: https://git.finoc.org:5000
+    - name: Dromara开源社区_no_186
+      logo: Dromara开源社区.svg
+      description: Dromara 是由国内顶尖的开源项目作者共同组成的开源社区。提供包括分布式事务，流行工具，企业级认证，微服务RPC，运维监控，Agent监控，分布式日志，调度编排等一系列开源产品、解决方案与咨询、技术支持与培训认证服务。技术栈全面开源共建、
+        保持社区中立，致力于为全球用户提供微服务云原生解决方案。让参与的每一位开源爱好者，体会到开源的快乐。
+      homepage_url: https://dromara.org/
+      project: graduated
+      repo_url: https://gitee.com/dromara
+    - name: AIOps社区_no_198
+      logo: AIOps社区.svg
+      description: AIOps社区是由云智慧发起，针对运维业务场景，提供算法、算力、数据集整体的服务体系及智能运维业务场景的解决方案交流社区。该社区致力于传播AIOps技术，旨在与各行业客户、用户、研究者和开发者们共同解决智能运维行业技术难题、推动AIOps技术在企业中落地、建设健康共赢的AIOps开发者生态。
+      homepage_url: https://www.cloudwise.ai
+      project: graduated
+      repo_url: https://github.com/CloudWise-OpenSource
+    - name: 盛派开发者社区_no_201
+      logo: 盛派开发者社区.svg
+      description: 盛派开发者社区是由苏州盛派网络发起的致力于帮助开发者不断提升开发效率的非营利性技术社区。
+      homepage_url: https://sdk.weixin.senparc.com/
+      project: graduated
+      repo_url: https://github.com/JeffreySu/WeiXinMPSDK
+    - name: SolidUI_no_202
+      logo: SolidUI.svg
+      description: 3D数据可视化原型设计和编辑平台，支持2D，3D模型，结合LLM(Large Language Model) 快速编辑。
+      homepage_url: https://github.com/CloudOrc/SolidUI
+      project: graduated
+      repo_url: https://github.com/CloudOrc/SolidUI
+    - name: Molecule_no_203
+      logo: Molecule.svg
+      description: Molecule是一款轻量级的 Web IDE UI 框架，它受 VSCode 启发, 并基于 React 与 Monaco
+        Editor 构建。该框架意在让开发者可轻松构建一个可扩展的 IDE UI，内置快捷键、基本兼容 VSCode Color Theme 等等能力
+      homepage_url: https://www.dtstack.com/
+      project: graduated
+      repo_url: https://dtstack.github.io/molecule/

@@ -1,0 +1,107 @@
+categories:
+- name: 物联网
+  subcategories:
+  - name: 物联网
+    items:
+    - name: Shifu_no_6
+      logo: Shifu.svg
+      description: 边无际Edgenesis基于K8S首创分布式物联网框架——Shifu Framework，为客户全场景设备托管，一体化软件开发提供了透明框架。通过透明框架内的数字孪生技术，为设备赋予有思考能力的”数字大脑“，通过平台层对场景内所有设备、机器进行北向数据收集和南向指令管控。
+      homepage_url: https://shifu.run/zh-Hans/
+      project: graduated
+      repo_url: https://github.com/Edgenesis/shifu
+    - name: 百度开源_no_16
+      logo: 百度开源.svg
+      description: '因为开源，所以简单。百度是拥有强大互联网基础的领先AI公司。是全球为数不多的提供AI芯片、软件架构和应用程序等全栈AI技术的公司之一,被国际机构评为全球四大AI公司之一。百度以“用科技让复杂的世界更简单”为使命,坚持技术创新,致力于“成为最懂用户,并能帮助人们成长的全球顶级高科技公司”。
+
+        一直以来百度持续参与和支持开源社区的发展。百度 2013 年对外开源图标和数据可视化库 ECharts,2016 年开源飞桨（PaddlePaddle）,2017
+        年开源 Apollo 自动驾驶、开源数据库 Doris、开源 RPC 开发框架 brpc,2018 年将 ECharts、Doris、brpc 捐献给
+        Apache 基金会进行孵化,2020 年,以创始白金身份加入开放原子开源基金会,并将 XuperChain 捐赠给开放原子开源基金会。2021 年,百度以理事单位加入开源创新联合体。
+
+        截至目前,百度在Github主导的18个开源组织累计开源项目1,000+个、社区贡献者17,000+、获得Star总数350,000+,并向Apache基金会、Linux基金会、CNCF、开放原子开源基金会累计捐赠9个项目。'
+      homepage_url: https://opensource.baidu.com/
+      project: graduated
+      repo_url: https://github.com/baidu
+    - name: Linux Foundation_no_19
+      logo: Linux Foundation.svg
+      description: This is the description of item
+      homepage_url: https://www.linuxfoundation.org/
+      project: graduated
+      repo_url: https://github.com/LF-Engineering
+    - name: Nico-Tech Shenzhen_no_36
+      logo: Nico-Tech Shenzhen.svg
+      description: 开源硬件爱好家社区在深圳，两个发起人都日本人，大部分活动日话。我们感兴趣中国开源文化国际链接。
+      homepage_url: https://medium.com/ecosystembymakers/about-e306f96168b8
+      project: graduated
+      repo_url: https://github.com/Nico-Tech-Shenzhen
+    - name: Apache Software Foundation_no_42
+      logo: Apache Software Foundation.svg
+      description: This is the description of item
+      homepage_url: https://www.apache.org/
+      project: graduated
+      repo_url: https://github.com/apache
+    - name: 苏州开源社区_no_43
+      logo: 苏州开源社区.svg
+      description: 社区成员大多数来自传统行业，主要交流开源和新技术如何在制造业、工业控制、流程管理中的应用和探索。
+      homepage_url: http://www.opensuzhou.com/
+      project: graduated
+      repo_url: https://www.opensuzhou.com
+    - name: 天工开物开源基金会_no_52
+      logo: 天工开物开源基金会.svg
+      description: 天工开物开源基金会是由重庆市政府批复设立，由清华大学，华中科技大学，重庆大学，中冶赛迪，中国信科，中科院等知名高校和企业联合发起，致力于推动中国开源事业发展的非营利机构。
+      homepage_url: https://chancefoundation.com.cn/partner
+      project: graduated
+    - name: Flomesh_no_58
+      logo: Flomesh.svg
+      description: Flomesh 易衡科技提供行业领先的应用流量管理产品与解决方案。Flomesh 以开源软件 Pipy 为核心，提供全方面的应用流量管理产品及理解决方案，包括软件负载均衡平台
+        FLB(Flomesh Load Balancer)，服务网格 FSM(Flomesh Service Mesh)。
+      homepage_url: https://flomesh.io
+      project: graduated
+      repo_url: https://github.com/flomesh-io
+    - name: HCDG华为云开发者社区组织_no_61
+      logo: HCDG华为云开发者社区组织.svg
+      description: HCDG是Huawei Cloud Developer Group（华为云开发者社区组织）的英文缩写，是华为云开发者生态面向全球开发者建立的开放、创新、多元的开发者社区组织。致力于帮助开发者学习提升、互动交流、挖掘机会，推动ICT、互联网等产业生态的建立和发展。
+      homepage_url: https://developer.huaweicloud.com/hdz.html
+      project: graduated
+      repo_url: https://bbs.huaweicloud.com/
+    - name: 亚马逊云科技_no_82
+      logo: 亚马逊云科技.svg
+      description: 亚马逊云科技官方技术内容社区。日常分享AI/ML、大数据/数据库、现代应用开发、IoT等热门产品实用干货及开源技术，提供超全学习资源，定期组织开发者活动，为开发者持续赋能。
+      homepage_url: https://dev.amazoncloud.cn/
+      project: graduated
+      repo_url: https://aws.amazon.com/cn/opensource/?nc2=h_ql_sol_use_r6&blog-posts-content-open-source.sort-by=item.additionalFields.createdDate&blog-posts-content-open-source.sort-order=desc
+    - name: Apache软件基金会_no_83
+      logo: Apache软件基金会.svg
+      description: https://www.apache.org/foundation/
+      homepage_url: https://www.apache.org/
+      project: graduated
+      repo_url: https://github.com/apache
+    - name: Pipy_no_96
+      logo: Pipy.svg
+      description: Pipy 是一个轻量级、高性能、高稳定、可编程的网络代理，Pipy 核心框架使用 C++ 开发，网络 IO 采用 ASIO 库。Pipy
+        可用于云原生，边缘计算和物联网等场景，而且 Pipy 是 ARM 就绪的，兼容 ARM 生态的设计、测试和交付。同时适配 ARM 在高密度计算的数据中心的场景和低资源/低算力的边缘侧场景。
+      homepage_url: https://flomesh.io/
+      project: graduated
+      repo_url: https://github.com/flomesh-io/pipy
+    - name: CSDN（中国开发者网络）_no_115
+      logo: CSDN（中国开发者网络）.svg
+      description: CSDN（中国开发者网络）创立于1999年，是全球知名中文开发者网站。秉承成就一亿技术人的使命，为IT技术人成长及科技企业发展，提供开发者生态的全方位服务。CSDN在社区基础上，通过知识云、人才云、开发云三大服务，赋能开发者、研发团队及科技企业在IT知识学习、人才招聘、研发效能与协同管理等方面的高速成长与发展。
+      homepage_url: https://www.csdn.net/
+      project: graduated
+      repo_url: https://gitcode.net/dashboard/projects/home
+    - name: KubeEdge_no_142
+      logo: KubeEdge.svg
+      description: KubeEdge是业界首个云原生边缘计算框架、云原生计算基金会内部唯一孵化级边缘计算开源项目,社区已完成业界最大规模云原生边云协同高速公路项目（统一管理10万边缘节点/50万边缘应用）、业界首个云原生星地协同卫星、业界首个云原生车云协同汽车、业界首个云原生油田项目，开源业界首个分布式协同AI框架Sedna及业界首个边云协同终身学习范式，并在持续开拓创新中。
+      homepage_url: https://kubeedge.io/en/
+      project: graduated
+      repo_url: https://github.com/kubeedge
+    - name: EMQ Technologies_no_155
+      logo: EMQ Technologies.svg
+      description: Open-source IoT data infrastructure software provider
+      homepage_url: https://www.emqx.com/zh
+      project: graduated
+      repo_url: https://github.com/emqx
+    - name: 立创开源硬件平台_no_200
+      logo: 立创开源硬件平台.svg
+      description: 立创开源硬件平台是一个专注于开源硬件的设计、分享和交流的平台，它为电子工程师、爱好者和教育者提供了一系列的工具和资源，它促进了国内硬件开源环境的建设，平台拥有数十万个开源与私有工程，用户可以创建私有或者公开的工程，通过海量开源工程加速设计过程，加快了设计人员的学习和开发进度。
+      homepage_url: https://oshwhub.com/
+      project: graduated

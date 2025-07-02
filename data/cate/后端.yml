@@ -1,0 +1,146 @@
+categories:
+- name: 后端
+  subcategories:
+  - name: 后端
+    items:
+    - name: Kratos 开源社区_no_12
+      logo: Kratos 开源社区.svg
+      description: 您适用于云原生时代的终极 Go 微服务框架。
+      homepage_url: https://go-kratos.dev
+      project: graduated
+      repo_url: https://github.com/go-kratos
+    - name: FreeSWITCH中文社区_no_17
+      logo: FreeSWITCH中文社区.svg
+      description: FreeSWITCH是一个开源的电话软交换平台，支持实时音视频通信及会议，支持SIP及WebRTC等多种通信协议。其主要开发语言是C，某些模块中使用了C++，以MPL1.1发布。本社区旨在为广大FreeSWITCH中文用户提供一个统一的登陆页，便于大家查找FreeSWITCH相关的中文信息、最新动态，促进大家的技术交流以及FreeSWITCH技术在中国的传播。
+      homepage_url: http://www.freeswitch.org.cn/
+      project: graduated
+      repo_url: https://github.com/rts-cn/
+    - name: Linux Foundation_no_19
+      logo: Linux Foundation.svg
+      description: This is the description of item
+      homepage_url: https://www.linuxfoundation.org/
+      project: graduated
+      repo_url: https://github.com/LF-Engineering
+    - name: Ruby China_no_37
+      logo: Ruby China.svg
+      description: We push the China Ruby & Rails community forward!!
+      homepage_url: https://www.ruby-china.org
+      project: graduated
+      repo_url: https://github.com/ruby-china
+    - name: 云原生社区_no_51
+      logo: 云原生社区.svg
+      description: 云原生社区是国内最大的独立第三方云原生终端用户和泛开发者社区，由 CNCF 大使、开源意见领袖共同发起成立于 2020 年 5
+        月 12 日，提供云原生专业资讯，促进云原生产业发展。
+      homepage_url: https://cloudnative.to
+      project: graduated
+      repo_url: https://cloudnative.to
+    - name: viest_no_56
+      logo: viest.svg
+      description: xlswriter 是一个高性能 PHP C 扩展，可用于读取、写入 Excel 2007+ xlsx 文件，适用于 Linux，FreeBSD，OpenBSD，OS
+        X，Windows。
+      homepage_url: https://xlswriter.viest.me
+      project: graduated
+      repo_url: https://github.com/viest/php-ext-xlswriter
+    - name: Flomesh_no_58
+      logo: Flomesh.svg
+      description: Flomesh 易衡科技提供行业领先的应用流量管理产品与解决方案。Flomesh 以开源软件 Pipy 为核心，提供全方面的应用流量管理产品及理解决方案，包括软件负载均衡平台
+        FLB(Flomesh Load Balancer)，服务网格 FSM(Flomesh Service Mesh)。
+      homepage_url: https://flomesh.io
+      project: graduated
+      repo_url: https://github.com/flomesh-io
+    - name: MASA Stack_no_59
+      logo: MASA Stack.svg
+      description: MASA Stack是开源企业级云原生数字底座，提供一站式.NET现代应用开发交付解决方案，助力传统.NET应用程序进行现代化改造，赋能.NET开发者转型为数字化人才，从而让企业获得持续的创新力和新的增长机会，帮助企业找到数字化转型的最佳路径！
+      homepage_url: https://www.masastack.com
+      project: graduated
+      repo_url: https://github.com/masastack/MASA.Stack
+    - name: Excelize开源社区_no_63
+      logo: Excelize开源社区.svg
+      description: Excelize 是 Go 语言编写的用于操作 Excel 文档的开源基础库，支持 XLAM / XLSM / XLSX /
+        XLTM / XLTX 等多种文档格式。可应用于各类报表平台、云计算、边缘计算等系统。正在被广泛应用于大型互联网公司、中小企业客户和初创公司。
+      homepage_url: https://xuri.me/excelize
+      project: graduated
+      repo_url: https://github.com/xuri/excelize
+    - name: .NET Core Community_no_65
+      logo: .NET Core Community.svg
+      description: 一个诞生于中国的非营利性民间 .NET 开源社区，为 .NET 生态系统做出贡献。
+      homepage_url: https://www.dotnetcore.xyz/
+      project: graduated
+      repo_url: https://github.com/dotnetcore
+    - name: Easy-Es_no_74
+      logo: Easy-Es.svg
+      description: 致力于成为全球最受欢迎的ElasticSearch搜索引擎开发框架
+      homepage_url: https://www.easy-es.cn/
+      project: graduated
+      repo_url: https://gitee.com/dromara/easy-es
+    - name: Apache ShenYu_no_93
+      logo: Apache ShenYu.svg
+      description: Apache ShenYu是一款高性能的API网关，用于服务代理，协议转换，API治理等功能
+      homepage_url: https://shenyu.apache.org/
+      project: graduated
+      repo_url: https://github.com/apache/incubator-shenyu
+    - name: Pipy_no_96
+      logo: Pipy.svg
+      description: Pipy 是一个轻量级、高性能、高稳定、可编程的网络代理，Pipy 核心框架使用 C++ 开发，网络 IO 采用 ASIO 库。Pipy
+        可用于云原生，边缘计算和物联网等场景，而且 Pipy 是 ARM 就绪的，兼容 ARM 生态的设计、测试和交付。同时适配 ARM 在高密度计算的数据中心的场景和低资源/低算力的边缘侧场景。
+      homepage_url: https://flomesh.io/
+      project: graduated
+      repo_url: https://github.com/flomesh-io/pipy
+    - name: CSDN（中国开发者网络）_no_115
+      logo: CSDN（中国开发者网络）.svg
+      description: CSDN（中国开发者网络）创立于1999年，是全球知名中文开发者网站。秉承成就一亿技术人的使命，为IT技术人成长及科技企业发展，提供开发者生态的全方位服务。CSDN在社区基础上，通过知识云、人才云、开发云三大服务，赋能开发者、研发团队及科技企业在IT知识学习、人才招聘、研发效能与协同管理等方面的高速成长与发展。
+      homepage_url: https://www.csdn.net/
+      project: graduated
+      repo_url: https://gitcode.net/dashboard/projects/home
+    - name: LinkWechat_no_118
+      logo: LinkWechat.svg
+      description: 基于人工智能的企业微信 SCRM 系统——LinkWeChat基于企业微信开放能力，不仅集成了企微基础的客户管理和后台管理功能，而且通过引流获客、客情维系、社群运营等灵活高效的客户运营模块，让客户与企业之间建立强链接关系，同时进一步通过多元化的客户营销工具，帮助企业提高客户运营效率，强化营销能力，拓展盈利空间，是企业私域流量管理与营销的综合解决方案。
+      homepage_url: https://www.pardigital.cn
+      project: graduated
+      repo_url: https://gitee.com/LinkWeChat/link-wechat
+    - name: CodeGeeX_no_129
+      logo: CodeGeeX.svg
+      description: Code as a Geek with AI
+      homepage_url: https://models.aminer.cn/codegeex/
+      project: graduated
+      repo_url: https://github.com/THUDM/CodeGeeX
+    - name: Forest_no_133
+      logo: Forest.svg
+      description: 声明式HTTP客户端API框架，让Java发送HTTP/HTTPS请求不再难。它比OkHttp和HttpClient更高层，是封装调用第三方restful
+        api client接口的好帮手，是retrofit和feign之外另一个选择
+      homepage_url: https://forest.dtflyx.com/
+      project: graduated
+      repo_url: https://gitee.com/dromara/forest
+    - name: dubbogo社区_no_161
+      logo: dubbogo社区.svg
+      description: dubbogo 社区同学⼀起实现了 dubbogo 与 dubbo 所有版本的对⻬，实 现了与 dubbo、Spring Cloud、gRPC
+        ⽣态的互联互通，dubbogo 3.0 在 K8s、柔性服务等云原⽣⽅向持续探 索反哺 dubbo，构建 proxyless Dubbo Mesh，达成了
+        "bridging the gap between Java and Go" 初始⽬标。目前正推进 dubbo-go/dubbo-go-pixiu
+        等社区项目，打造下一代 Dubbo Mesh 生态；还在 与 RocketMQ 合作，在 RocketMQ 之上构建⾦融级的服务通信系统，达成服务通信、通信路径日志回溯
+        和 构建跨网络安全通信的统一；与腾讯 Polaris 以及阿里 OpenSergo 等项目合作，建立新一代微服务标准体系。通过不断拓展 Dubbo
+        ⽣态的边界，达成 "bridging the gap between Dubbo and X" 的新使命。
+      homepage_url: https://dubbogo.github.io/zh-cn/
+      project: graduated
+      repo_url: https://github.com/apache/dubbo-go
+    - name: GDG Zhengzhou_no_170
+      logo: GDG Zhengzhou.svg
+      description: GDG , 即 Google Developer Groups 谷歌开发者社区，是谷歌开发者部门发起的全球项目。GDG 是面向对
+        Google 和开源技术感兴趣的人群而存在的公益性开发者社区，内容涵盖 Web/Chrome、Android、机器学习、Flutter 和其它 Google
+        API 等。全世界各大城市都成立了自己的 GDG 社区，GDG Zhenghzou （郑州谷歌开发者社区）也是其中之一。在这里，你能更及时地了解 Google
+        最新技术、产品与信息，也能在全国乃至全球 GDG 中，找到技术交流、讨论问题的伙伴，结交朋友、开拓视野。社区中的各位组织者均是来自各个行业有着本职工作的互联网从业者，我们需要更多新鲜血液的加入！如果你对谷歌技术感兴趣，业余时间可调配，认同社区的价值观，愿意为社区做出贡献，欢迎加入我们成为社区志愿者
+      homepage_url: https://gdg.community.dev/gdg-zhengzhou/
+      project: graduated
+      repo_url: https://github.com/GDGZhengzhou
+    - name: Dromara开源社区_no_186
+      logo: Dromara开源社区.svg
+      description: Dromara 是由国内顶尖的开源项目作者共同组成的开源社区。提供包括分布式事务，流行工具，企业级认证，微服务RPC，运维监控，Agent监控，分布式日志，调度编排等一系列开源产品、解决方案与咨询、技术支持与培训认证服务。技术栈全面开源共建、
+        保持社区中立，致力于为全球用户提供微服务云原生解决方案。让参与的每一位开源爱好者，体会到开源的快乐。
+      homepage_url: https://dromara.org/
+      project: graduated
+      repo_url: https://gitee.com/dromara
+    - name: 盛派开发者社区_no_201
+      logo: 盛派开发者社区.svg
+      description: 盛派开发者社区是由苏州盛派网络发起的致力于帮助开发者不断提升开发效率的非营利性技术社区。
+      homepage_url: https://sdk.weixin.senparc.com/
+      project: graduated
+      repo_url: https://github.com/JeffreySu/WeiXinMPSDK

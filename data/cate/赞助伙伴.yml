@@ -1,0 +1,38 @@
+categories:
+- name: 赞助伙伴
+  subcategories:
+  - name: 赞助伙伴
+    items:
+    - name: COPU_no_20
+      logo: COPU.svg
+      description: This is the description of item
+      homepage_url: https://cncf.io
+      project: graduated
+    - name: Redoop_no_46
+      logo: Redoop.svg
+      description: This is the description of item
+      homepage_url: https://cncf.io
+      project: graduated
+    - name: 蚂蚁开源_no_89
+      logo: 蚂蚁开源.svg
+      description: 蚂蚁开源，是要开放最核心的自研基础技术，通过推进可信技术的开放创新，助力社区与生态的发展，及行业的技术突破。开源，是蚂蚁的核心技术战略，我们做开源已有十余年的探索和投入，在数据库，云原生，隐私计算等核心基础技术领域积极开源，期待为社区带来一些微小而美好的改变。
+      homepage_url: https://opensource.antgroup.com/
+      project: graduated
+    - name: GOSIM_no_95
+      logo: GOSIM.svg
+      description: GOSIM—开源创新汇是一个由志愿者发起的全球性开源开发者创新枢纽，致力于推广草根开源项目，促进项目合作，并帮助项目成长、发展和成熟。GOSIM
+        源于全球开源社区的共同愿景。这个完全以志愿者为基础的项目由社区组织并为社区服务，其首要目标是：提供一个舞台，让创新的开源项目能够在这里大放异彩、相互协作并不断发展。GOSIM包括三大支柱：GOSIM工作坊（Workshop），GOSIM开源大会（Conference），GOSIM开源驿站（Fellowship）。
+      homepage_url: https://cncf.io
+      project: graduated
+    - name: 醋溜科技_no_126
+      logo: 醋溜科技.svg
+      description: OpenTeens是中国首个由青少年自主创建的开源社区。我们致力于为青少年提供一个学习、交流、合作的平台，鼓励青少年参与开源项目，提升编程技能，培养团队合作能力，并引导他们进一步探索创新。OpenTeens旨在促使中国的青少年更早接触、了解开源文化，成为未来开源领域的领军人才和开源技术的佼佼者，推动中国开源社区繁荣昌盛。
+      homepage_url: https://www.culiu-tech.com/
+      project: graduated
+    - name: ONLYOFFICE_no_175
+      logo: ONLYOFFICE.svg
+      description: Ascensio System SIA 是一家领先的 IT 公司，总部位于拉脱维亚里加，是开源项目ONLYOFFICE 的开发商。
+        ONLYOFFICE 办公套件包括文本文档、电子表格、演示文稿、可填写表单和 PDF 在线编辑器，让用户能实时协作处理文档。
+      homepage_url: https://www.onlyoffice.com/
+      project: graduated
+      repo_url: https://github.com/ONLYOFFICE/

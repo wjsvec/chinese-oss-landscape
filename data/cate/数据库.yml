@@ -1,0 +1,257 @@
+categories:
+- name: 数据库
+  subcategories:
+  - name: 数据库
+    items:
+    - name: Apache IoTDB_no_4
+      logo: Apache IoTDB.svg
+      description: Apache IoTDB（物联网数据库）是一体化收集、存储、管理与分析物联网时序数据的软件系统。 Apache IoTDB 采用轻量式架构，具有高性能和丰富的功能。Apache
+        IoTDB（物联网数据库）是一体化收集、存储、管理与分析物联网时序数据的软件系统。 Apache IoTDB 采用轻量式架构，具有高性能和丰富的功能，并与Apache
+        Hadoop、Spark和Flink等进行了深度集成，可以满足工业物联网领域的海量数据存储、高速数据读取和复杂数据分析需求。
+      homepage_url: https://iotdb.apache.org/
+      project: graduated
+      repo_url: https://github.com/apache/iotdb
+    - name: 百度开源_no_16
+      logo: 百度开源.svg
+      description: '因为开源，所以简单。百度是拥有强大互联网基础的领先AI公司。是全球为数不多的提供AI芯片、软件架构和应用程序等全栈AI技术的公司之一,被国际机构评为全球四大AI公司之一。百度以“用科技让复杂的世界更简单”为使命,坚持技术创新,致力于“成为最懂用户,并能帮助人们成长的全球顶级高科技公司”。
+
+        一直以来百度持续参与和支持开源社区的发展。百度 2013 年对外开源图标和数据可视化库 ECharts,2016 年开源飞桨（PaddlePaddle）,2017
+        年开源 Apollo 自动驾驶、开源数据库 Doris、开源 RPC 开发框架 brpc,2018 年将 ECharts、Doris、brpc 捐献给
+        Apache 基金会进行孵化,2020 年,以创始白金身份加入开放原子开源基金会,并将 XuperChain 捐赠给开放原子开源基金会。2021 年,百度以理事单位加入开源创新联合体。
+
+        截至目前,百度在Github主导的18个开源组织累计开源项目1,000+个、社区贡献者17,000+、获得Star总数350,000+,并向Apache基金会、Linux基金会、CNCF、开放原子开源基金会累计捐赠9个项目。'
+      homepage_url: https://opensource.baidu.com/
+      project: graduated
+      repo_url: https://github.com/baidu
+    - name: Apache ShardingSphere_no_18
+      logo: Apache ShardingSphere.svg
+      description: Apache ShardingSphere 是一款开源分布式数据库生态项目，旨在碎片化的异构数据库上层构建生态，在最大限度的复用数据库原生存算能力的前提下，进一步提供面向全局的扩展和叠加计算能力。其核心采用可插拔架构，对上以数据库协议及
+        SQL 方式提供诸多增强功能，包括数据分片、访问路由、数据安全等。
+      homepage_url: https://shardingsphere.apache.org/
+      project: graduated
+      repo_url: https://github.com/apache/shardingsphere
+    - name: OpenBuild 开源社区_no_27
+      logo: OpenBuild 开源社区.svg
+      description: OpenBuild 是一个面向 Web3 开发者的开源社区，致力于连接 Web2 和 Web3，帮助开发者过渡到去中心化网络。并通过开源协作的方式提供系统性的教育内容、开源工具和社区资源，帮助开发者构建声誉体系，创造商业机会。
+      homepage_url: https://openbuild.xyz/
+      project: graduated
+      repo_url: https://github.com/orgs/openbuildxyz/repositories
+    - name: 阿里云 PolarDB 开源社区_no_29
+      logo: 阿里云 PolarDB 开源社区.svg
+      description: 'PolarDB 开源社区是阿里云数据库开源产品PolarDB的技术交流平台。作为一款开源的数据库产品, 离不开用户和开发者的支持,
+        大家可以在社区针对PolarDB产品提问题、功能需求、交流使用心得、分享最佳实践、提交issue、贡献代码等。
+
+        为了让社区成员可以更方便的交流, 促进数据库行业的发展, 社区会组织线上和线下的meetup, 举办高校、企业的交流活动, 组织技术类的竞技活动等。欢迎广大的数据库爱好者、用户、开发者加入社区大家庭。'
+      homepage_url: https://www.polardbx.com/home
+      project: graduated
+      repo_url: https://github.com/ApsaraDB/galaxysql
+    - name: TDengine_no_35
+      logo: TDengine.svg
+      description: TDengine 是一款开源、云原生的时序数据库，专为物联网、工业互联网、金融、IT 运维监控等场景设计并优化。它能让大量设备、数据采集器每天产生的高达
+        TB 甚至 PB 级的数据得到高效实时的处理，对业务的运行状态进行实时的监测、预警，从大数据中挖掘出商业价值。
+      homepage_url: https://www.taosdata.com/
+      project: graduated
+      repo_url: https://github.com/taosdata/TDengine
+    - name: ' 可信开源社区共同体_no_39'
+      logo: ' 可信开源社区共同体.svg'
+      description: 2021年9月17日，中国信通院正式成立可信开源社区共同体（TWOS），可信开源社区共同体由众多开源项目和开源社区组成，目的是引导建立健康可信且可持续发展的开源社区。可信开源社区共同体旨在搭建交流平台，提供全套的开源风险监测与生态监测服务。
+      homepage_url: http://trustedopensource.org.cn/#/home
+      project: graduated
+      repo_url: https://git.finoc.org:5000
+    - name: 苏州开源社区_no_43
+      logo: 苏州开源社区.svg
+      description: 社区成员大多数来自传统行业，主要交流开源和新技术如何在制造业、工业控制、流程管理中的应用和探索。
+      homepage_url: http://www.opensuzhou.com/
+      project: graduated
+      repo_url: https://www.opensuzhou.com
+    - name: NebulaGraph Community_no_50
+      logo: NebulaGraph Community.svg
+      description: NebulaGraph 是一款开源的、分布式的、易扩展的原生图数据库，能够承载包含数千亿个点和数万亿条边的超大规模数据集，并且提供毫秒级查询。
+      homepage_url: https://nebula-graph.com.cn/
+      project: graduated
+      repo_url: https://github.com/vesoft-inc/nebula
+    - name: Databend_no_55
+      logo: Databend.svg
+      description: Databend 是一个使用 Rust 研发、开源的、完全面向云架构的新式数仓，致力于提供极速的弹性扩展能力，使大数据分析门槛进一步降低，让人人都可以高效率、低成本的挖掘数据价值。
+      homepage_url: https://databend.rs/
+      project: graduated
+      repo_url: https://github.com/datafuselabs/databend
+    - name: HCDG华为云开发者社区组织_no_61
+      logo: HCDG华为云开发者社区组织.svg
+      description: HCDG是Huawei Cloud Developer Group（华为云开发者社区组织）的英文缩写，是华为云开发者生态面向全球开发者建立的开放、创新、多元的开发者社区组织。致力于帮助开发者学习提升、互动交流、挖掘机会，推动ICT、互联网等产业生态的建立和发展。
+      homepage_url: https://developer.huaweicloud.com/hdz.html
+      project: graduated
+      repo_url: https://bbs.huaweicloud.com/
+    - name: StarRocks_no_71
+      logo: StarRocks.svg
+      description: StarRocks 是新一代极速全场景 MPP 数据库。StarRocks 的愿景是能够让用户的数据分析变得更加简单和敏捷。用户无需经过复杂的预处理，就可以用
+        StarRocks 来支持多种数据分析场景的极速分析。
+      homepage_url: https://www.starrocks.com/zh-CN/index
+      project: graduated
+      repo_url: https://github.com/StarRocks/starrocks
+    - name: Easy-Es_no_74
+      logo: Easy-Es.svg
+      description: 致力于成为全球最受欢迎的ElasticSearch搜索引擎开发框架
+      homepage_url: https://www.easy-es.cn/
+      project: graduated
+      repo_url: https://gitee.com/dromara/easy-es
+    - name: 亚马逊云科技_no_82
+      logo: 亚马逊云科技.svg
+      description: 亚马逊云科技官方技术内容社区。日常分享AI/ML、大数据/数据库、现代应用开发、IoT等热门产品实用干货及开源技术，提供超全学习资源，定期组织开发者活动，为开发者持续赋能。
+      homepage_url: https://dev.amazoncloud.cn/
+      project: graduated
+      repo_url: https://aws.amazon.com/cn/opensource/?nc2=h_ql_sol_use_r6&blog-posts-content-open-source.sort-by=item.additionalFields.createdDate&blog-posts-content-open-source.sort-order=desc
+    - name: Apache软件基金会_no_83
+      logo: Apache软件基金会.svg
+      description: https://www.apache.org/foundation/
+      homepage_url: https://www.apache.org/
+      project: graduated
+      repo_url: https://github.com/apache
+    - name: Curve 开源社区_no_85
+      logo: Curve 开源社区.svg
+      description: 'Curve 是一款高性能、易运维、云原生的开源分布式存储系统。可应用于主流的云原生基础设施平台：对接 OpenStack 平台为云主机提供高性能块存储服务；对接
+        Kubernetes 为其提供 RWO、RWX 等类型的持久化存储卷；对接 PolarFS 作为云原生数据库的高性能存储底座，完美支持云原生数据库的存算分离架构。
+
+        Curve 亦可作为云存储中间件使用 S3 兼容的对象存储作为数据存储引擎，为公有云用户提供高性价比的共享文件存储。'
+      homepage_url: https://opencurve.io/
+      project: graduated
+      repo_url: https://github.com/opencurve/curve
+    - name: OceanBase_no_88
+      logo: OceanBase.svg
+      description: OceanBase 社区提供企业级开源分布式数据库，具备稳定可信赖，高可用、高性价比等特点。OceanBase 社区致力于建设开源开放的交流社区，与开发者开启思维碰撞之旅。
+      homepage_url: https://open.oceanbase.com
+      project: graduated
+      repo_url: https://github.com/oceanbase
+    - name: Kvrocks Community_no_94
+      logo: Kvrocks Community.svg
+      description: Kvrocks  社区是完全开源组织，无商业化北京，主要专注分布式磁盘 KV 生态
+      homepage_url: https://kvrocks.apache.org
+      project: graduated
+      repo_url: https://github.com/apache/incubator-kvrocks
+    - name: 中国电信云荐社区_no_103
+      logo: 中国电信云荐社区.svg
+      description: '中国电信借鉴互联网优秀社区模式，打造“云荐社区”动态运营35类54种PaaS组件，从无到有建立了PaaS八统一开源治理体系。
+
+        “云荐社区”面向中国电信全网技术人员与合作伙伴，提供PaaS组件下载、组件培训、分享交流、信创安全、行业资讯等服务，做到了基于开源软件的PaaS组件安全合规、可管可控，解决了开源组件下载容易、使用难的难题，形成PaaS全网共建共享体系。
+
+        同时，云荐社区面向行业用户提供上云技术服务和数字化解决方案，帮助上云用户上好云、管好云和用好云。云荐社区作为中国电信上云沟通的桥梁，现已助力中国电信两年完成3000+IT系统100%上云，摆脱了国外商用软件的依赖。'
+      homepage_url: http://10.128.28.70:30000/
+      project: graduated
+      repo_url: http://无
+    - name: Apache Doris_no_108
+      logo: Apache Doris.svg
+      description: 'Apache Doris 是一款基于 MPP 的现代化、高性能、实时的分析型数据库。以极速易用的特点被人们所熟知，仅需亚秒级响应时间即可返回海量数据下的查询结果，不仅可以支持高并发的点查询场景，也能支持高吞吐的复杂分析场景。
+
+        2022 年 6 月 16 日，Apache Doris 正式从 Apache 孵化器毕业，成为顶级项目。目前 Apache Doris 社区已经聚集了
+        340 余位贡献者，社区用户人数超过 5000+ 。在全球范围内获得超过 500+ 家企业的应用，在中国市值或估值排行前 50 的互联网公司中，有超过
+        80% 的公司长期使用 Apache Doris，同时在一些传统行业如金融、能源、制造、电信等领域也有着丰富的应用。'
+      homepage_url: https://doris.apache.org/
+      project: graduated
+      repo_url: https://github.com/apache/doris
+    - name: Greptime 格睿科技_no_109
+      logo: Greptime 格睿科技.svg
+      description: 'Greptime 格睿科技创立于 2022 年，目前正在打造和完善 GreptimeDB，GreptimeCloud 两款时序数据库产品和一款更适合
+        AI 应用的可观测工具 GreptimeAI。
+
+
+        GreptimeDB 具有分布式、开源、云原生和兼容性强等特点，帮助企业实时读写、处理和分析时序数据的同时降低长期存储成本；GreptimeCloud
+        为用户提供全托管的 DBaaS 服务，能够与可观测性、物联网等领域高度结合；GreptimeAI 为 LLM 量身打造，提供成本、性能和生成过程的全链路监控。
+
+
+        GreptimeDB 于 2022.11.15 宣布开源，截至目前拥有 3,000+ stars，40+ 外部贡献者贡献了逾千个 PR。'
+      homepage_url: https://greptime.com/
+      project: graduated
+      repo_url: https://github.com/GreptimeTeam
+    - name: GreatSQL_no_111
+      logo: GreatSQL.svg
+      description: GreatSQL社区成立于2021年，是一个MySQL开源数据库社区，由万里数据库发起，致力于通过开放的社区合作，构建国内自主MySQL版本及开源数据库技术，推动中国开源数据库及应用生态繁荣发展。社区愿景是成为中国广受欢迎的开源数据库社区。
+      homepage_url: https://greatsql.cn/
+      project: graduated
+      repo_url: https://gitee.com/GreatSQL/GreatSQL
+    - name: CSDN（中国开发者网络）_no_115
+      logo: CSDN（中国开发者网络）.svg
+      description: CSDN（中国开发者网络）创立于1999年，是全球知名中文开发者网站。秉承成就一亿技术人的使命，为IT技术人成长及科技企业发展，提供开发者生态的全方位服务。CSDN在社区基础上，通过知识云、人才云、开发云三大服务，赋能开发者、研发团队及科技企业在IT知识学习、人才招聘、研发效能与协同管理等方面的高速成长与发展。
+      homepage_url: https://www.csdn.net/
+      project: graduated
+      repo_url: https://gitcode.net/dashboard/projects/home
+    - name: StoneDB_no_127
+      logo: StoneDB.svg
+      description: 'StoneDB 是由石原子科技公司自主设计、研发的国内首款基于 MySQL 内核打造的开源 HTAP（Hybrid Transactional
+        and Analytical Processing）融合型数据库，可实现与 MySQL 的无缝切换。StoneDB 具备超高性能、实时分析等特点，为用户提供一站式
+        HTAP 解决方案。
+
+        StoneDB 100% 兼容 MySQL 5.6、5.7 协议和 MySQL 生态等重要特性，支持 MySQL 常用的功能及语法，支持 MySQL
+        生态中的系统工具和客户端，如 Navicat、Workbench、mysqldump、mydumper。由于 100% 兼容 MySQL，因此 StoneDB
+        的所有工作负载都可以继续使用 MySQL 数据库体系运行。
+
+        StoneDB 专门针对 OLAP 应用程序进行了设计和优化，支持百亿数据场景下进行高性能、多维度字段组合的复杂查询，相对比社区版的 MySQL，其查询速度提升了十倍以上。
+
+        StoneDB 采用基于知识网格技术和列式存储引擎，该存储引擎为海量数据背景下 OLAP 应用而设计，通过列式存储数据、知识网格过滤、高效数据压缩等技术，为应用系统提供低成本和高性能的数据查询支持。'
+      homepage_url: https://stonedb.io/
+      project: graduated
+      repo_url: https://github.com/stoneatom/stonedb
+    - name: Neo4j 开发者社区_no_135
+      logo: Neo4j 开发者社区.svg
+      description: Neo4j 开发者社区为中文图数据爱好者提供交流学习的环境和帮助。
+      homepage_url: https://community.neo4j.com
+      project: graduated
+      repo_url: https://github.com/neo4j
+    - name: RadonDB开源社区_no_143
+      logo: RadonDB开源社区.svg
+      description: RadonDB 开源社区是一个面向云原生、容器化的数据库开源社区。开源多款数据库容器化项目，支持在 Kubernetes、KubeSphere、Rancher
+        等平台安装部署和管理，自动执行与运行数据库集群有关的任务。
+      homepage_url: https://radondb.com
+      project: graduated
+      repo_url: https://github.com/radondb
+    - name: 信创数据库沙龙&PostgreSQL中文社区_no_145
+      logo: 信创数据库沙龙&PostgreSQL中文社区.svg
+      description: 信创数据库沙龙，是一个由多方倡导和发起，致力于推动数据库技术创新和发 展的高端交流平台，旨在增强国内数据库产业的自主可控性 和高质量发展。这个平台汇集了学术界和产业界的顶尖专家、
+        学者以及技术爱好者，通过专题演讲、案例分享和技术研讨 等丰富多样的活动形式，深入探讨数据库技术的最新应用和 发展趋势。
+      homepage_url: http://信创数据库沙龙（公众号）
+      project: graduated
+      repo_url: http://无
+    - name: openGauss_no_146
+      logo: openGauss.svg
+      description: openGauss是一款开源关系型数据库管理系统，采用木兰宽松许可证v2发行。openGauss内核深度融合华为在数据库领域多年的经验，结合企业级场景需求，持续构建竞争力特性。同时openGauss也是一个开源的数据库平台，鼓励社区贡献、合作。
+      homepage_url: https://opengauss.org
+      project: graduated
+      repo_url: https://gitee.com/opengauss
+    - name: 希尔贝壳_no_150
+      logo: 希尔贝壳.svg
+      description: '  希尔贝壳的愿景：以开放数据、技术变革创新为理念，实现人工智能民主化。'
+      homepage_url: http://www.aishelltech.com
+      project: graduated
+      repo_url: https://sos1sos2sixteen.github.io/aishell3/
+    - name: 金融行业开源应用社区_no_176
+      logo: 金融行业开源应用社区.svg
+      description: 国内首个金融行业开源技术应用社区，主要是服务于金融机构以及中小金融科技公司，2018年10月12日，中国信息通信研究院联合浦发银行、华为等近20家金融机构及科技公司共同成立。社区成立以来已展开多次研讨活动，成员单位积极整合优势资源和技术成果共享开源经验，共同推动金融行业开源生态健康发展。
+      homepage_url: http://trustedopensource.org.cn/#/home
+      project: graduated
+      repo_url: https://git.finoc.org:5000
+    - name: 龙蜥社区（OpenAnolis）_no_183
+      logo: 龙蜥社区（OpenAnolis）.svg
+      description: 龙蜥社区（OpenAnolis）成立于 2020 年 9 月，是一个操作系统开源社区及创新平台，由 Arm 、阿里云、统信软件、龙芯、飞腾、中科方德、Intel
+        等十几家国内外头部企业共同成立龙蜥社区理事会，到目前有超过 240 家合作伙伴参与共建。龙蜥社区致力于通过开放的社区合作，构建国内自主 Linux
+        开源发行版及开源创新技术，推动软、硬件及应用生态繁荣发展。
+      homepage_url: https://openanolis.cn/
+      project: graduated
+      repo_url: https://gitee.com/anolis
+    - name: TiDB Community_no_187
+      logo: TiDB Community.svg
+      description: TiDB 社区是由 TiDB 生态中的开发者、用户、Contributor、合作伙伴一起建立的分享、学习平台。在这里，我们可以自由发声，互相协助解决问题。
+      homepage_url: https://tidb.net/
+      project: graduated
+      repo_url: https://github.com/pingcap/tidb
+    - name: 爱可生开源社区_no_205
+      logo: 爱可生开源社区.svg
+      description: 一个有深度的 MySQL 开源社区。社区成立于 2017 年，以开源高质量的运维工具、日常分享技术干货内容、数据库技术布道为己任；目前开源的产品有：SQL
+        审核工具 SQLE、分布式中间件 DBLE 和数据传输组件 DTLE。在这里，你将收获：高质量的技术内容，企业级数据库工具及服务，丰富的社区活动。
+      homepage_url: https://opensource.actionsky.com/
+      project: graduated
+      repo_url: https://github.com/actiontech
+    - name: Apache Pegasus_no_207
+      logo: Apache Pegasus.svg
+      description: Apache软件基金会孵化期项目，致力于打造一个可水平扩展、高性能、强一致的分布式Key-Value数据库。
+      homepage_url: https://pegasus.apache.org/
+      project: graduated
+      repo_url: https://github.com/apache/incubator-pegasus

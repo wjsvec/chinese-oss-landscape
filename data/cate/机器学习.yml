@@ -1,0 +1,243 @@
+categories:
+- name: 机器学习
+  subcategories:
+  - name: 机器学习
+    items:
+    - name: GDG珠海_no_3
+      logo: GDG珠海.svg
+      description: Google 全球独家赞助开源技术学习/拓展社区
+      homepage_url: https://blog.zhgdg.org/about/
+      project: graduated
+      repo_url: https://github.com/ZHGDG
+    - name: 蟒营®_no_5
+      logo: 蟒营®.svg
+      description: 开源网络课程框架, 以 Pythonic 式自学心理范式为根据, 拓展各种领域学习社区
+      homepage_url: https://doc.101.camp/
+      project: graduated
+      repo_url: https://github.com/101camp
+    - name: CPyUG_no_7
+      logo: CPyUG.svg
+      description: 是CPyUG在各个城市自发组织的一种本地Py爱好者线下进行的技术交流活动,主要在北京和上海已经进行了3年多,从08年起珠三角／南昌／安徽／武汉各地也相继开展
+      homepage_url: https://wiki.woodpecker.org.cn/moin/CPUG
+      project: graduated
+      repo_url: https://github.com/PyChina
+    - name: 百度开源_no_16
+      logo: 百度开源.svg
+      description: '因为开源，所以简单。百度是拥有强大互联网基础的领先AI公司。是全球为数不多的提供AI芯片、软件架构和应用程序等全栈AI技术的公司之一,被国际机构评为全球四大AI公司之一。百度以“用科技让复杂的世界更简单”为使命,坚持技术创新,致力于“成为最懂用户,并能帮助人们成长的全球顶级高科技公司”。
+
+        一直以来百度持续参与和支持开源社区的发展。百度 2013 年对外开源图标和数据可视化库 ECharts,2016 年开源飞桨（PaddlePaddle）,2017
+        年开源 Apollo 自动驾驶、开源数据库 Doris、开源 RPC 开发框架 brpc,2018 年将 ECharts、Doris、brpc 捐献给
+        Apache 基金会进行孵化,2020 年,以创始白金身份加入开放原子开源基金会,并将 XuperChain 捐赠给开放原子开源基金会。2021 年,百度以理事单位加入开源创新联合体。
+
+        截至目前,百度在Github主导的18个开源组织累计开源项目1,000+个、社区贡献者17,000+、获得Star总数350,000+,并向Apache基金会、Linux基金会、CNCF、开放原子开源基金会累计捐赠9个项目。'
+      homepage_url: https://opensource.baidu.com/
+      project: graduated
+      repo_url: https://github.com/baidu
+    - name: Linux Foundation_no_19
+      logo: Linux Foundation.svg
+      description: This is the description of item
+      homepage_url: https://www.linuxfoundation.org/
+      project: graduated
+      repo_url: https://github.com/LF-Engineering
+    - name: OpenDataLab_no_25
+      logo: OpenDataLab.svg
+      description: OpenDataLab隶属于上海人工智能实验室，是面向AI开发者的新一代超大规模、高质量、多模态公开数据集开放平台（OpenDataLab.com），已覆盖2,000余个开源精标数据集，提供了超过1亿的优质模型训练数据样本，适用于目标检测、语义分割、自然语言处理等50余种任务类型，秉承“智慧共享、开源高效”的核心理念，致力于打造具有国际影响力的数据开源平台。
+      homepage_url: https://opendatalab.org.cn/
+      project: graduated
+      repo_url: https://github.com/opendatalab
+    - name: OpenBMB开源社区_no_30
+      logo: OpenBMB开源社区.svg
+      description: OpenBMB全称为Open Lab for Big Model Base，旨在打造大规模预训练语言模型库与相关工具， 加速百亿级以上大模型的训练、微调与推理，降低大模型使用门槛，与国内外开发者共同努力形成大模型开源社区，
+        推动大模型生态发展，实现大模型的标准化、普及化和实用化，让大模型飞入千家万户。
+      homepage_url: https://www.openbmb.org/home
+      project: graduated
+      repo_url: https://github.com/OpenBMB
+    - name: Nico-Tech Shenzhen_no_36
+      logo: Nico-Tech Shenzhen.svg
+      description: 开源硬件爱好家社区在深圳，两个发起人都日本人，大部分活动日话。我们感兴趣中国开源文化国际链接。
+      homepage_url: https://medium.com/ecosystembymakers/about-e306f96168b8
+      project: graduated
+      repo_url: https://github.com/Nico-Tech-Shenzhen
+    - name: OpenMLDB社区_no_40
+      logo: OpenMLDB社区.svg
+      description: 'OpenMLDB 是一个开源机器学习数据库，提供线上线下一致的生产级特征平台。
+
+        主要面向人工智能应用场景的数据治理难题，针对实时特征需求进行了深度优化，可达到毫秒级的计算延迟，已落地上百个企业级人工智能场景。'
+      homepage_url: https://openmldb.ai
+      project: graduated
+      repo_url: https://github.com/4paradigm/OpenMLDB
+    - name: Apache Software Foundation_no_42
+      logo: Apache Software Foundation.svg
+      description: This is the description of item
+      homepage_url: https://www.apache.org/
+      project: graduated
+      repo_url: https://github.com/apache
+    - name: 苏州开源社区_no_43
+      logo: 苏州开源社区.svg
+      description: 社区成员大多数来自传统行业，主要交流开源和新技术如何在制造业、工业控制、流程管理中的应用和探索。
+      homepage_url: http://www.opensuzhou.com/
+      project: graduated
+      repo_url: https://www.opensuzhou.com
+    - name: JinaAI_no_53
+      logo: JinaAI.svg
+      description: 'Jina AI 致力于通过人工智能和深度学习技术，帮助开发者和企业简化非结构化数据的搜索难题，并以更低的开发运营成本，快速地搭建多模态、跨模态应用。
+
+        '
+      homepage_url: https://jina.ai/
+      project: graduated
+      repo_url: https://github.com/kaiyuanshe
+    - name: HCDG华为云开发者社区组织_no_61
+      logo: HCDG华为云开发者社区组织.svg
+      description: HCDG是Huawei Cloud Developer Group（华为云开发者社区组织）的英文缩写，是华为云开发者生态面向全球开发者建立的开放、创新、多元的开发者社区组织。致力于帮助开发者学习提升、互动交流、挖掘机会，推动ICT、互联网等产业生态的建立和发展。
+      homepage_url: https://developer.huaweicloud.com/hdz.html
+      project: graduated
+      repo_url: https://bbs.huaweicloud.com/
+    - name: 昇思MindSpore_no_66
+      logo: 昇思MindSpore.svg
+      description: 昇思MindSpore是华为开源的新一代全场景AI框架，支持端、边、云全场景灵活部署，开创全新的AI编程范式，降低AI开发门槛，旨在实现开发友好、运行高效、部署灵活三大目标，同时着力构筑面向全球的人工智能开源社区，推动人工智能软硬件应用生态繁荣发展。
+      homepage_url: https://www.mindspore.cn/
+      project: graduated
+      repo_url: https://gitee.com/mindspore
+    - name: JuiceFS_no_68
+      logo: JuiceFS.svg
+      description: Juicedata 是 JuiceFS 项目的主要维护者，成立于 2019 年。并组建了 JuiceFS 社区目前已有数千名开发者加入到社区，JuiceFS
+        社区每月都会组织或参与丰富的社区活动。
+      homepage_url: https://juicefs.com/
+      project: graduated
+      repo_url: https://github.com/juicedata/juicefs
+    - name: 亚马逊云科技_no_82
+      logo: 亚马逊云科技.svg
+      description: 亚马逊云科技官方技术内容社区。日常分享AI/ML、大数据/数据库、现代应用开发、IoT等热门产品实用干货及开源技术，提供超全学习资源，定期组织开发者活动，为开发者持续赋能。
+      homepage_url: https://dev.amazoncloud.cn/
+      project: graduated
+      repo_url: https://aws.amazon.com/cn/opensource/?nc2=h_ql_sol_use_r6&blog-posts-content-open-source.sort-by=item.additionalFields.createdDate&blog-posts-content-open-source.sort-order=desc
+    - name: Apache软件基金会_no_83
+      logo: Apache软件基金会.svg
+      description: https://www.apache.org/foundation/
+      homepage_url: https://www.apache.org/
+      project: graduated
+      repo_url: https://github.com/apache
+    - name: Datawhale_no_97
+      logo: Datawhale.svg
+      description: Datawhale成立于2018年，是国内头部的开源学习组织，汇聚了来自伯克利、斯坦福、港中文、港科大、清华、北大、上交、复旦、浙大等全球近百所高校的成员，吸引了数十万的AI领域学习者关注；组织以for
+        the learner为使命，致力于构建开源学习社区，和学习者一起成长。
+      homepage_url: http://www.datawhale.club/
+      project: graduated
+      repo_url: https://github.com/datawhalechina
+    - name: Xtreme1_no_101
+      logo: Xtreme1.svg
+      description: Xtreme1是全球首个开源的多模态训练数据平台。Xtreme1深入AI工程化，致力于解决数据集在数据标注、数据监管和本体库管理的挑战。无论是2D和3D数据集的目标检测、场景分割或多传感器融合数据集，强大的工具和AI模型都能加快模型落地的速度。此项目由BasicAI领导和维护的。
+      homepage_url: https://www.basic.ai/
+      project: graduated
+      repo_url: https://github.com/basicai/xtreme1
+    - name: Volcano_no_104
+      logo: Volcano.svg
+      description: 'Volcano 是基于 Kubernetes 构建的批量计算平台，源自于华为云 AI 容器，提供作业管理、批量调度、依赖管理、资源预留等能力，支持包括
+        TensorFlow、Spark、MPI、Slurm 在内的多个业界主流计算框架，主要帮助用户将 AI、大数据等资源消耗波动大、计算密集型的业务从传统的
+        Batch、HPC 系统快速迁移到云原生。Volcano 也是 CNCF 首个和唯一的容器批量计算项目。 '
+      homepage_url: https://volcano.sh/en/
+      project: graduated
+      repo_url: https://github.com/volcano-sh/volcano
+    - name: 异步社区_no_113
+      logo: 异步社区.svg
+      description: “异步社区”(www.epubit.com)是由人民邮电出版社创办的 IT 专业图书社区，于 2015 年 8 月上线运营，致力于优质内容的出版和分享，为读者提供高品质的学习内容,为作译者提供专业的出版服务，实现作者与读者在线交流互动，以及传统出版与数字出版的融合发展。
+      homepage_url: https://www.epubit.com/
+      project: graduated
+      repo_url: https://www.epubit.com/
+    - name: CSDN（中国开发者网络）_no_115
+      logo: CSDN（中国开发者网络）.svg
+      description: CSDN（中国开发者网络）创立于1999年，是全球知名中文开发者网站。秉承成就一亿技术人的使命，为IT技术人成长及科技企业发展，提供开发者生态的全方位服务。CSDN在社区基础上，通过知识云、人才云、开发云三大服务，赋能开发者、研发团队及科技企业在IT知识学习、人才招聘、研发效能与协同管理等方面的高速成长与发展。
+      homepage_url: https://www.csdn.net/
+      project: graduated
+      repo_url: https://gitcode.net/dashboard/projects/home
+    - name: LF AI & Data_no_124
+      logo: LF AI & Data.svg
+      description: This is the description of item
+      homepage_url: https://lfaidata.foundation/
+      project: graduated
+      repo_url: https://github.com/lfai
+    - name: CodeGeeX_no_129
+      logo: CodeGeeX.svg
+      description: Code as a Geek with AI
+      homepage_url: https://models.aminer.cn/codegeex/
+      project: graduated
+      repo_url: https://github.com/THUDM/CodeGeeX
+    - name: wechaty_no_137
+      logo: wechaty.svg
+      description: 'Wechaty is an Open Source software application for building chatbots.
+        It is a modern Conversational RPA SDK which Chatbot makers can use to create
+        a bot in a few lines of code.
+
+        You can use Wechaty to build a chatbot which automates conversations and interact
+        with people through instant messaging platforms such as WhatsApp, WeChat,
+        WeCom, Gitter and Lark among others.'
+      homepage_url: https://wechaty.js.org/
+      project: graduated
+      repo_url: https://github.com/wechaty/
+    - name: Primi Hub _no_149
+      logo: Primi Hub .svg
+      description: "       原语科技成立于2021年，总部位于北京，专注于打造企业级开源隐私计算平台，核心成员均来自百度、阿里、字节跳动、西门子研究院等知名公司。原语科技自主研发了基于安全多方计算、联邦学习、同态加密、机密计算、区块链等技术的隐私计算应用平台，结合英伟达GPU的算法加速，为用户提供数据全生命周期的隐私安全服务，实现“数据可用不可见”。\n\
+        \       原语科技致力于以隐私计算技术构建数据信任与安全，赋能数据价值的安全融合与释放，为构建未来数字型社会提供技术支撑。"
+      homepage_url: https://www.primihub.com
+      project: graduated
+      repo_url: https://github.com/primihub
+    - name: AI4Finance_no_163
+      logo: AI4Finance.svg
+      description: 致力于深度强化学习在金融领域的应用和推广，包括强化学习算法、金融元宇宙、云端方案等
+      homepage_url: http://finrl.org
+      project: graduated
+      repo_url: https://github.com/AI4Finance-Foundation
+    - name: Graviti AI Community_no_165
+      logo: Graviti AI Community.svg
+      description: Open is Awesome，我们致力于构建一个公开数据集社区，同时推进非结构化数据标准。无论是创新企业、科研机构、高校团队，还是个人开发者均可轻松使用、分享并更好地管理海量优质开放数据。
+      homepage_url: https://community.graviti.com/
+      project: graduated
+      repo_url: https://github.com/Graviti-AI
+    - name: GDG Zhengzhou_no_170
+      logo: GDG Zhengzhou.svg
+      description: GDG , 即 Google Developer Groups 谷歌开发者社区，是谷歌开发者部门发起的全球项目。GDG 是面向对
+        Google 和开源技术感兴趣的人群而存在的公益性开发者社区，内容涵盖 Web/Chrome、Android、机器学习、Flutter 和其它 Google
+        API 等。全世界各大城市都成立了自己的 GDG 社区，GDG Zhenghzou （郑州谷歌开发者社区）也是其中之一。在这里，你能更及时地了解 Google
+        最新技术、产品与信息，也能在全国乃至全球 GDG 中，找到技术交流、讨论问题的伙伴，结交朋友、开拓视野。社区中的各位组织者均是来自各个行业有着本职工作的互联网从业者，我们需要更多新鲜血液的加入！如果你对谷歌技术感兴趣，业余时间可调配，认同社区的价值观，愿意为社区做出贡献，欢迎加入我们成为社区志愿者
+      homepage_url: https://gdg.community.dev/gdg-zhengzhou/
+      project: graduated
+      repo_url: https://github.com/GDGZhengzhou
+    - name: Apache DolphinScheduler_no_174
+      logo: Apache DolphinScheduler.svg
+      description: 'Apache DolphinScheduler社区是可视化DAG工作流任务调度平台DolphinScheduler爱好者的聚集地。社区旨在推动开源和Apache
+        DolphinScheduler更好地发展，更多地了解用户的业务使用场景，吸引更多开源爱好者参与贡献。
+
+
+        社区目前发展状况良好，已有已有48位Committer和21位PMC，360+ Contributors 积极参与到社区的共建中。'
+      homepage_url: https://dolphinscheduler.apache.org/
+      project: graduated
+      repo_url: https://github.com/apache/dolphinscheduler
+    - name: OpenMMLab_no_178
+      logo: OpenMMLab.svg
+      description: OpenMMLab 诞生于 2018 年，是深度学习时代计算机视觉领域最全面、最具影响力的开源算法体系。旨在为学术和产业界提供一个可跨方向、结构精良、跨站性强、易复现的统一算法工具库。在
+        2021 年上海人工智能大会上，发布了新一代 OpenMMLab，其升级后涵盖了更广泛的算法领域和应用场景，实现了从训练到部署的全链条价值。目前，OpenMMLab
+        已经累计开源了超过 30 个算法库，涵盖分类、检测、分割、视频理解等众多算法领域，有超过 300 种算法实现、2,400 多个预训练模型。在 GitHub
+        上获得超过 72,000 个标星，同时吸引了超过 1,500 名社区开发者参与项目贡献，用户遍及超过 110 个国家和地区，覆盖全国全球顶尖高校、研究机构和企业。
+      homepage_url: https://openmmlab.com/
+      project: graduated
+      repo_url: https://github.com/open-mmlab
+    - name: 龙蜥社区（OpenAnolis）_no_183
+      logo: 龙蜥社区（OpenAnolis）.svg
+      description: 龙蜥社区（OpenAnolis）成立于 2020 年 9 月，是一个操作系统开源社区及创新平台，由 Arm 、阿里云、统信软件、龙芯、飞腾、中科方德、Intel
+        等十几家国内外头部企业共同成立龙蜥社区理事会，到目前有超过 240 家合作伙伴参与共建。龙蜥社区致力于通过开放的社区合作，构建国内自主 Linux
+        开源发行版及开源创新技术，推动软、硬件及应用生态繁荣发展。
+      homepage_url: https://openanolis.cn/
+      project: graduated
+      repo_url: https://gitee.com/anolis
+    - name: OpenPPL_no_190
+      logo: OpenPPL.svg
+      description: OpenPPL 是商汤基于自研高性能算子库的开源深度学习推理引擎，能够让人工智能应用高效可靠地运行在现有的 CPU、GPU 等计算平台上，为云端场景提供人工智能推理服务。
+      homepage_url: https://openppl.ai/
+      project: graduated
+      repo_url: https://github.com/openppl-public
+    - name: AIOps社区_no_198
+      logo: AIOps社区.svg
+      description: AIOps社区是由云智慧发起，针对运维业务场景，提供算法、算力、数据集整体的服务体系及智能运维业务场景的解决方案交流社区。该社区致力于传播AIOps技术，旨在与各行业客户、用户、研究者和开发者们共同解决智能运维行业技术难题、推动AIOps技术在企业中落地、建设健康共赢的AIOps开发者生态。
+      homepage_url: https://www.cloudwise.ai
+      project: graduated
+      repo_url: https://github.com/CloudWise-OpenSource

@@ -1,0 +1,79 @@
+categories:
+- name: 企业管理
+  subcategories:
+  - name: 企业管理
+    items:
+    - name: 禅道_no_10
+      logo: 禅道.svg
+      description: 禅道项目管理软件是禅道软件（青岛）有限公司的核心产品，已为国内数十万计的公司及团队提供了专业的项目管理工具。  禅道团队专注于为天下企业提供专业的管理解决方案。自成立以来，团队先后开发了禅道项目管理、ZTF自动化测试框架、ZenData测试数据生成器、渠成企业软件百宝箱等多款项目管理软件，形成了独特的项目管理解决方案。  禅道一直以来以求真为善为行事准则，追求为社会创造真正有效的正向价值，坚持独立发展、开源开放，走出了一条不同的发展道路。展望新的征程，我们会严守初心，继续优化产品和服务，为众多企业提供更多、更好、更实惠的管理解决方案，让每一个成长中的企业都可高效协作！
+      homepage_url: https://www.zentao.net/
+      project: graduated
+      repo_url: https://github.com/easysoft/zentaopms
+    - name: RustDesk_no_14
+      logo: RustDesk.svg
+      description: 开源虚拟与远程桌面基础架构
+      homepage_url: http://rustdesk.com/zh/
+      project: graduated
+      repo_url: https://github.com/rustdesk
+    - name: 开源中国_no_24
+      logo: 开源中国.svg
+      description: 开源风乍起，中国有Gitee。开源中国自2008年创立以来，始终秉承“自由、开放、共享”的开源精神，致力于推动本土开源技术的发展和国内IT行业的进步。经过14年的积累，开源中国不仅创立了国内最大、最专业的开源技术社区OSCHINA.NET和全球第二大代码托管与协作平台Gitee，同时也积极发展Gitee企业版研发管理平台、Gitee私有云、培训等多项业务线，已经成为了一家专注服务程序员群体与软件行业的综合性公司。
+      homepage_url: https://www.oschina.net/
+      project: graduated
+      repo_url: https://gitee.com
+    - name: 苏州开源社区_no_43
+      logo: 苏州开源社区.svg
+      description: 社区成员大多数来自传统行业，主要交流开源和新技术如何在制造业、工业控制、流程管理中的应用和探索。
+      homepage_url: http://www.opensuzhou.com/
+      project: graduated
+      repo_url: https://www.opensuzhou.com
+    - name: HCDG华为云开发者社区组织_no_61
+      logo: HCDG华为云开发者社区组织.svg
+      description: HCDG是Huawei Cloud Developer Group（华为云开发者社区组织）的英文缩写，是华为云开发者生态面向全球开发者建立的开放、创新、多元的开发者社区组织。致力于帮助开发者学习提升、互动交流、挖掘机会，推动ICT、互联网等产业生态的建立和发展。
+      homepage_url: https://developer.huaweicloud.com/hdz.html
+      project: graduated
+      repo_url: https://bbs.huaweicloud.com/
+    - name: Casbin开源社区_no_92
+      logo: Casbin开源社区.svg
+      description: Casbin 是一个强大的、高效的开源访问控制框架，支持 Go, Java, Node.js, Javascript (React),
+        Python, PHP, .NET, C++, Rust 等十几种语言。Casbin 开源项目由北京大学罗杨博士创立于 2017 年，核心维护团队有二十多人。Casbin
+        在业界具有广泛影响力。目前已经被 Intel 、VMware 、Orange 、RedHat 、T-Mobile 等公司开源使用，被腾讯云、Cisco
+        、Verizon 等公司闭源使用。具体详见 Casbin 主页。Casbin Go 主项目目前 GitHub 10000+ stars ，加上所有语言的实现、插件等可达到
+        15000+ stars 。
+      homepage_url: https://casbin.org
+      project: graduated
+      repo_url: https://github.com/casbin
+    - name: CSDN（中国开发者网络）_no_115
+      logo: CSDN（中国开发者网络）.svg
+      description: CSDN（中国开发者网络）创立于1999年，是全球知名中文开发者网站。秉承成就一亿技术人的使命，为IT技术人成长及科技企业发展，提供开发者生态的全方位服务。CSDN在社区基础上，通过知识云、人才云、开发云三大服务，赋能开发者、研发团队及科技企业在IT知识学习、人才招聘、研发效能与协同管理等方面的高速成长与发展。
+      homepage_url: https://www.csdn.net/
+      project: graduated
+      repo_url: https://gitcode.net/dashboard/projects/home
+    - name: LinkWechat_no_118
+      logo: LinkWechat.svg
+      description: 基于人工智能的企业微信 SCRM 系统——LinkWeChat基于企业微信开放能力，不仅集成了企微基础的客户管理和后台管理功能，而且通过引流获客、客情维系、社群运营等灵活高效的客户运营模块，让客户与企业之间建立强链接关系，同时进一步通过多元化的客户营销工具，帮助企业提高客户运营效率，强化营销能力，拓展盈利空间，是企业私域流量管理与营销的综合解决方案。
+      homepage_url: https://www.pardigital.cn
+      project: graduated
+      repo_url: https://gitee.com/LinkWeChat/link-wechat
+    - name: Apache DevLake_no_153
+      logo: Apache DevLake.svg
+      description: 'Apache DevLake (Incubating) 是一款开源的研发效能数据平台。
+
+        研发数据散落在软件研发生命周期的不同阶段、不同工作流、不同 DevOps 工具中，且标准化程度低，导致效能数据难以留存、汇集并转化为有效洞见。
+
+        Apache DevLake 提供自动化、一站式的数据归集、分析以及可视化能力，帮助研发团队更好地理解开发过程，挖掘关键瓶颈与提效机会。'
+      homepage_url: https://devlake.apache.org/
+      project: graduated
+      repo_url: https://github.com/apache/incubator-devlake
+    - name: 春松客服_no_164
+      logo: 春松客服.svg
+      description: 做好开源客服系统
+      homepage_url: https://www.cskefu.com
+      project: graduated
+      repo_url: https://github.com/chatopera/cskefu/
+    - name: GoodERP开源俱乐部_no_196
+      logo: GoodERP开源俱乐部.svg
+      description: 会员制开源引领者
+      homepage_url: http://www.gooderp.org/
+      project: graduated
+      repo_url: https://github.com/gooderp-study/GoodERP

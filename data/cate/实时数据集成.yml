@@ -1,0 +1,48 @@
+categories:
+- name: 实时数据集成
+  subcategories:
+  - name: 实时数据集成
+    items:
+    - name: ' 可信开源社区共同体_no_39'
+      logo: ' 可信开源社区共同体.svg'
+      description: 2021年9月17日，中国信通院正式成立可信开源社区共同体（TWOS），可信开源社区共同体由众多开源项目和开源社区组成，目的是引导建立健康可信且可持续发展的开源社区。可信开源社区共同体旨在搭建交流平台，提供全套的开源风险监测与生态监测服务。
+      homepage_url: http://trustedopensource.org.cn/#/home
+      project: graduated
+      repo_url: https://git.finoc.org:5000
+    - name: Know Streaming_no_107
+      logo: Know Streaming.svg
+      description: Know Streaming围绕Kafka打造了一个0门槛、0侵入、插件化的一站式集群管控平台，致力为国内Kafka开发者提供一个稳定、安全、可靠的企业级Kafka平台
+      homepage_url: http://knowstreaming.com
+      project: graduated
+      repo_url: https://github.com/didi/LogiKM
+    - name: CSDN（中国开发者网络）_no_115
+      logo: CSDN（中国开发者网络）.svg
+      description: CSDN（中国开发者网络）创立于1999年，是全球知名中文开发者网站。秉承成就一亿技术人的使命，为IT技术人成长及科技企业发展，提供开发者生态的全方位服务。CSDN在社区基础上，通过知识云、人才云、开发云三大服务，赋能开发者、研发团队及科技企业在IT知识学习、人才招聘、研发效能与协同管理等方面的高速成长与发展。
+      homepage_url: https://www.csdn.net/
+      project: graduated
+      repo_url: https://gitcode.net/dashboard/projects/home
+    - name: Apache StreamPark(Incubating)_no_120
+      logo: Apache StreamPark(Incubating).svg
+      description: StreamPark 是一个流处理快速开发框架和一站式实时计算平台, 已经有多家企业投入生产使用, 目前已捐给 apache,
+        正式成为 ASF 孵化项目.
+      homepage_url: https://streampark.apache.org
+      project: graduated
+      repo_url: https://github.com/apache/incubator-streampark
+    - name: BitSail_no_138
+      logo: BitSail.svg
+      description: 'BitSail字节跳动自研的数据集成引擎，于2022年10月26日正式开源。
+
+
+        BitSail支持20多种异构数据源间的数据同步，并提供离线、实时、全量、增量场景下的全域数据集成解决方案，目前服务于字节内部几乎所有业务线，包括抖音、今日头条等大家耳熟能详的应用，同时也支撑了火山引擎多个客户的数据集成需求。
+
+
+        项目GitHub地址：https://github.com/bytedance/bitsail'
+      homepage_url: https://github.com/bytedance/bitsail
+      project: graduated
+      repo_url: https://github.com/bytedance/bitsail
+    - name: 金融行业开源应用社区_no_176
+      logo: 金融行业开源应用社区.svg
+      description: 国内首个金融行业开源技术应用社区，主要是服务于金融机构以及中小金融科技公司，2018年10月12日，中国信息通信研究院联合浦发银行、华为等近20家金融机构及科技公司共同成立。社区成立以来已展开多次研讨活动，成员单位积极整合优势资源和技术成果共享开源经验，共同推动金融行业开源生态健康发展。
+      homepage_url: http://trustedopensource.org.cn/#/home
+      project: graduated
+      repo_url: https://git.finoc.org:5000

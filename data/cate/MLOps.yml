@@ -1,0 +1,51 @@
+categories:
+- name: MLOps
+  subcategories:
+  - name: MLOps
+    items:
+    - name: OpenBMB开源社区_no_30
+      logo: OpenBMB开源社区.svg
+      description: OpenBMB全称为Open Lab for Big Model Base，旨在打造大规模预训练语言模型库与相关工具， 加速百亿级以上大模型的训练、微调与推理，降低大模型使用门槛，与国内外开发者共同努力形成大模型开源社区，
+        推动大模型生态发展，实现大模型的标准化、普及化和实用化，让大模型飞入千家万户。
+      homepage_url: https://www.openbmb.org/home
+      project: graduated
+      repo_url: https://github.com/OpenBMB
+    - name: HCDG华为云开发者社区组织_no_61
+      logo: HCDG华为云开发者社区组织.svg
+      description: HCDG是Huawei Cloud Developer Group（华为云开发者社区组织）的英文缩写，是华为云开发者生态面向全球开发者建立的开放、创新、多元的开发者社区组织。致力于帮助开发者学习提升、互动交流、挖掘机会，推动ICT、互联网等产业生态的建立和发展。
+      homepage_url: https://developer.huaweicloud.com/hdz.html
+      project: graduated
+      repo_url: https://bbs.huaweicloud.com/
+    - name: Apache SeaTunnel(Incubating)_no_81
+      logo: Apache SeaTunnel(Incubating).svg
+      description: 'Apache SeaTunnel社区是下一代高性能、分布式、海量数据集成框架SeaTunnel爱好者的聚集地。社区旨在推动开源和SeaTunnel更好地发展，更多地了解用户的业务使用场景，吸引更多开源爱好者参与贡献。
+
+
+        社区目前发展状况良好，在GitHub上已获得3.6K star，目前有接近100名Contributors 积极参与到社区的共建中。'
+      homepage_url: https://seatunnel.apache.org/
+      project: graduated
+      repo_url: https://github.com/apache/incubator-seatunnel
+    - name: 亚马逊云科技_no_82
+      logo: 亚马逊云科技.svg
+      description: 亚马逊云科技官方技术内容社区。日常分享AI/ML、大数据/数据库、现代应用开发、IoT等热门产品实用干货及开源技术，提供超全学习资源，定期组织开发者活动，为开发者持续赋能。
+      homepage_url: https://dev.amazoncloud.cn/
+      project: graduated
+      repo_url: https://aws.amazon.com/cn/opensource/?nc2=h_ql_sol_use_r6&blog-posts-content-open-source.sort-by=item.additionalFields.createdDate&blog-posts-content-open-source.sort-order=desc
+    - name: Xtreme1_no_101
+      logo: Xtreme1.svg
+      description: Xtreme1是全球首个开源的多模态训练数据平台。Xtreme1深入AI工程化，致力于解决数据集在数据标注、数据监管和本体库管理的挑战。无论是2D和3D数据集的目标检测、场景分割或多传感器融合数据集，强大的工具和AI模型都能加快模型落地的速度。此项目由BasicAI领导和维护的。
+      homepage_url: https://www.basic.ai/
+      project: graduated
+      repo_url: https://github.com/basicai/xtreme1
+    - name: CSDN（中国开发者网络）_no_115
+      logo: CSDN（中国开发者网络）.svg
+      description: CSDN（中国开发者网络）创立于1999年，是全球知名中文开发者网站。秉承成就一亿技术人的使命，为IT技术人成长及科技企业发展，提供开发者生态的全方位服务。CSDN在社区基础上，通过知识云、人才云、开发云三大服务，赋能开发者、研发团队及科技企业在IT知识学习、人才招聘、研发效能与协同管理等方面的高速成长与发展。
+      homepage_url: https://www.csdn.net/
+      project: graduated
+      repo_url: https://gitcode.net/dashboard/projects/home
+    - name: CodeGeeX_no_129
+      logo: CodeGeeX.svg
+      description: Code as a Geek with AI
+      homepage_url: https://models.aminer.cn/codegeex/
+      project: graduated
+      repo_url: https://github.com/THUDM/CodeGeeX

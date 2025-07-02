@@ -1,0 +1,128 @@
+categories:
+- name: 开源公益
+  subcategories:
+  - name: 开源公益
+    items:
+    - name: 百度开源_no_16
+      logo: 百度开源.svg
+      description: '因为开源，所以简单。百度是拥有强大互联网基础的领先AI公司。是全球为数不多的提供AI芯片、软件架构和应用程序等全栈AI技术的公司之一,被国际机构评为全球四大AI公司之一。百度以“用科技让复杂的世界更简单”为使命,坚持技术创新,致力于“成为最懂用户,并能帮助人们成长的全球顶级高科技公司”。
+
+        一直以来百度持续参与和支持开源社区的发展。百度 2013 年对外开源图标和数据可视化库 ECharts,2016 年开源飞桨（PaddlePaddle）,2017
+        年开源 Apollo 自动驾驶、开源数据库 Doris、开源 RPC 开发框架 brpc,2018 年将 ECharts、Doris、brpc 捐献给
+        Apache 基金会进行孵化,2020 年,以创始白金身份加入开放原子开源基金会,并将 XuperChain 捐赠给开放原子开源基金会。2021 年,百度以理事单位加入开源创新联合体。
+
+        截至目前,百度在Github主导的18个开源组织累计开源项目1,000+个、社区贡献者17,000+、获得Star总数350,000+,并向Apache基金会、Linux基金会、CNCF、开放原子开源基金会累计捐赠9个项目。'
+      homepage_url: https://opensource.baidu.com/
+      project: graduated
+      repo_url: https://github.com/baidu
+    - name: 奇点公益_no_22
+      logo: 奇点公益.svg
+      description: '北京奇点公益信息技术服务中心简称奇点公益，是2015年经北京市民政局批准成立的民办非企业单位（京民0030662），旨在通过互联网技术为公益机构提供开源赋能，为公益机构提专业化咨询和培训能力建设；基于互联网传播、互联网筹款、互联网技术解决方案等，推动公益组织数字化转型和数字化能力提升，提升公益组织信息技术应用能力和工作效率，促进公益机构资源精准有效匹配。奇点公益2021年获北京市4A级社会组织，累计为1000多家公益组织提供了公益信息化专业服务，直接服务受益人243229，动员志愿者8379名，贡献志愿服务时长176004小时 '
+      homepage_url: http://www.jidian.org.cn
+      project: graduated
+      repo_url: https://gitee.com/singularity-commonweal
+    - name: kubecub_no_28
+      logo: kubecub.svg
+      description: 针对 Kubernetes 和 开源的爱好者的开发者提供手脚架和学习资料，以及部分的工具
+      homepage_url: https://nsddd.top
+      project: graduated
+      repo_url: https://github.com/kubecub
+    - name: Nico-Tech Shenzhen_no_36
+      logo: Nico-Tech Shenzhen.svg
+      description: 开源硬件爱好家社区在深圳，两个发起人都日本人，大部分活动日话。我们感兴趣中国开源文化国际链接。
+      homepage_url: https://medium.com/ecosystembymakers/about-e306f96168b8
+      project: graduated
+      repo_url: https://github.com/Nico-Tech-Shenzhen
+    - name: openKylin_no_41
+      logo: openKylin.svg
+      description: openKylin 社区是在开源、自愿、平等和协作的基础上，由基础软硬件企业、非营利性组织、社团组织、高等院校、科研机构和个人开发者共同创立的一个开源社区，致力于通过开源、开放的社区合作，构建桌面操作系统开源社区，推动Linux开源技术及其软硬件生态繁荣发展。
+      homepage_url: https://www.openkylin.top
+      project: graduated
+      repo_url: https://gitee.com/openkylin
+    - name: Apache Software Foundation_no_42
+      logo: Apache Software Foundation.svg
+      description: This is the description of item
+      homepage_url: https://www.apache.org/
+      project: graduated
+      repo_url: https://github.com/apache
+    - name: idea2app_no_47
+      logo: idea2app.svg
+      description: 全行业信息化转型专家，基于开源模式的远程软件开发团队。
+      homepage_url: https://idea2.app
+      project: graduated
+      repo_url: https://github.com/idea2app
+    - name: 天工开物开源基金会_no_52
+      logo: 天工开物开源基金会.svg
+      description: 天工开物开源基金会是由重庆市政府批复设立，由清华大学，华中科技大学，重庆大学，中冶赛迪，中国信科，中科院等知名高校和企业联合发起，致力于推动中国开源事业发展的非营利机构。
+      homepage_url: https://chancefoundation.com.cn/partner
+      project: graduated
+    - name: HCDG华为云开发者社区组织_no_61
+      logo: HCDG华为云开发者社区组织.svg
+      description: HCDG是Huawei Cloud Developer Group（华为云开发者社区组织）的英文缩写，是华为云开发者生态面向全球开发者建立的开放、创新、多元的开发者社区组织。致力于帮助开发者学习提升、互动交流、挖掘机会，推动ICT、互联网等产业生态的建立和发展。
+      homepage_url: https://developer.huaweicloud.com/hdz.html
+      project: graduated
+      repo_url: https://bbs.huaweicloud.com/
+    - name: .NET Core Community_no_65
+      logo: .NET Core Community.svg
+      description: 一个诞生于中国的非营利性民间 .NET 开源社区，为 .NET 生态系统做出贡献。
+      homepage_url: https://www.dotnetcore.xyz/
+      project: graduated
+      repo_url: https://github.com/dotnetcore
+    - name: OpenSDV汽车软件开源联盟_no_75
+      logo: OpenSDV汽车软件开源联盟.svg
+      description: OpenSDV汽车软件开源联盟是以推广开源开放促进汽车产业发展的非营利组织，具有高度的垂直性、专业性和开放性的特点,致力于成为汽车软件领域具有国际影响力的开源组织，旨在通过建设面向汽车软件的开源研发基础设施和国际化开源社区，推动汽车软件开源项目发展、技术创新和生态融合，促进汽车软件能力提升，赋能汽车产业整体发展。
+      homepage_url: http://opensdv.org/
+      project: graduated
+      repo_url: http://opensdv.org/
+    - name: TesterHome_no_102
+      logo: TesterHome.svg
+      description: TesterHome社区，测试之家，由众多测试工程师组织和维护的技术社区，致力于帮助新人成长，提高测试地位，推进质量发展。Inspired
+        by RubyChina
+      homepage_url: https://testerhome.com/
+      project: graduated
+      repo_url: https://github.com/testerhome/
+    - name: CSDN（中国开发者网络）_no_115
+      logo: CSDN（中国开发者网络）.svg
+      description: CSDN（中国开发者网络）创立于1999年，是全球知名中文开发者网站。秉承成就一亿技术人的使命，为IT技术人成长及科技企业发展，提供开发者生态的全方位服务。CSDN在社区基础上，通过知识云、人才云、开发云三大服务，赋能开发者、研发团队及科技企业在IT知识学习、人才招聘、研发效能与协同管理等方面的高速成长与发展。
+      homepage_url: https://www.csdn.net/
+      project: graduated
+      repo_url: https://gitcode.net/dashboard/projects/home
+    - name: freeCodeCamp_no_134
+      logo: freeCodeCamp.svg
+      description: '全球最大的开源公益编程教育社区 freeCodeCamp.org 自 2014 年成立以来，以“帮助人们免费学习编程”为使命，在成千上万名志愿贡献者的帮助下，创建了大量优质的技术教程，包括可以自定学习进度的交互式课程、视频课程、专栏文章等，所有内容向公众免费开放。
+
+
+        国内外众多高校、企业、公益组织正在使用 freeCodeCamp 的学习资源。每天有超过一百万人在 freeCodeCamp 学习。学员们在世界各地自发成立数千个学习小组互相帮助。
+
+
+        我们希望让世界上每个人都有机会获得免费的优质的技术教育资源，成为开发者或者通过编程去解决问题。'
+      homepage_url: http://chinese.freecodecamp.org/
+      project: graduated
+      repo_url: https://github.com/freeCodeCamp
+    - name: OpenTeens_no_168
+      logo: OpenTeens.svg
+      description: OpenTeens 是一个青少年的开源社区，为青少年提供一个共享创造力的平台。我们通过分享技术、知识和创意，激发青少年的创造力和学习热情。
+      homepage_url: https://openteens.org/home
+      project: graduated
+    - name: 腾源会_no_169
+      logo: 腾源会.svg
+      description: 腾源会是腾讯云成立的汇聚开源项目、开源爱好者、开源领导者的开放社区，致力于帮助开源项目健康成长、开源爱好者能交流协助、开源领导者能发挥领袖价值，让全球开源生态变得更加繁荣。
+      homepage_url: https://cloud.tencent.com/act/pro/weopen-home
+      project: graduated
+      repo_url: https://github.com/weopenprojects
+    - name: 开源社_no_173
+      logo: 开源社.svg
+      description: '成立于2014年，以 “立足中国、贡献全球” 为愿景，依 “贡献、共识、共治” 原则所组成，是最早以 “开源治理、国际接轨、社区发展、开源项目”
+        为使命的开源社区联合体。
+
+
+        2017年，开源社转型为完全由个人成员组成，链接了数万名开源人，集聚了上千名社区成员及志愿者、海内外数百位讲师，合作了近百家赞助、媒体、社区伙伴。'
+      homepage_url: https://kaiyuanshe.cn/
+      project: graduated
+      repo_url: https://github.com/kaiyuanshe
+    - name: 开源江湖_no_182
+      logo: 开源江湖.svg
+      description: 以开源为始，专注 IT 科技知识分享。聊开源，但不止聊开源。
+      homepage_url: https://www.douyin.com/user/MS4wLjABAAAAAuWRsNlHn_j2cfFhGuj5KoDpB_bIeS2K7mqxE9De5-4
+      project: graduated
+      repo_url: https://www.douyin.com/user/MS4wLjABAAAAAuWRsNlHn_j2cfFhGuj5KoDpB_bIeS2K7mqxE9De5-4

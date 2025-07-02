@@ -36,7 +36,7 @@ for i in range(len(data)):
 
         
 print(count_l)
-# image_url = "https://kaiyuanshe.cn/api/lark/file/UWJhbR9zOoIzohxNS48c1B0vnHw"  # 替换成你的JPG链接
+# image_url = "https://kaiyuanshe.cn/api/lark/file/HYkmbui54ouFjTxxaTTcMpONnOf"  # 替换成你的JPG链接
 # save_svg = "output_image.svg"
 # download_jpg_as_square_svg(image_url, save_svg)
 

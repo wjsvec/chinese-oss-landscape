@@ -1,0 +1,69 @@
+categories:
+- name: 桌面客户端
+  subcategories:
+  - name: 桌面客户端
+    items:
+    - name: freeCodeCamp 成都社区_no_1
+      logo: freeCodeCamp 成都社区.svg
+      description: freeCodeCamp 成都社区成立于 2016 年，是中国大陆最早一批 FCC 城市线下社区，目前会员千余人，也是最大的
+        FCC 城市社区。在核心团队 20 余人两年的努力下，FCC 成都已覆盖 编程教育、技术招聘、行业大会等程序员全职业生涯的公益服务。
+      homepage_url: https://fcc-cd.dev/
+      project: graduated
+      repo_url: https://github.com/FreeCodeCamp-Chengdu
+    - name: RustDesk_no_14
+      logo: RustDesk.svg
+      description: 开源虚拟与远程桌面基础架构
+      homepage_url: http://rustdesk.com/zh/
+      project: graduated
+      repo_url: https://github.com/rustdesk
+    - name: idea2app_no_47
+      logo: idea2app.svg
+      description: 全行业信息化转型专家，基于开源模式的远程软件开发团队。
+      homepage_url: https://idea2.app
+      project: graduated
+      repo_url: https://github.com/idea2app
+    - name: Eoapi 开源社区_no_57
+      logo: Eoapi 开源社区.svg
+      description: Eoapi 是一个可扩展的 API 开发工具。Eoapi 集合基础的 API 管理和测试功能，并且可以通过插件简化你的 API
+        开发工作，让你可以更快更好地创建 API。
+      homepage_url: https://www.eoapi.io/
+      project: graduated
+      repo_url: https://github.com/eolinker/eoapi
+    - name: HCDG华为云开发者社区组织_no_61
+      logo: HCDG华为云开发者社区组织.svg
+      description: HCDG是Huawei Cloud Developer Group（华为云开发者社区组织）的英文缩写，是华为云开发者生态面向全球开发者建立的开放、创新、多元的开发者社区组织。致力于帮助开发者学习提升、互动交流、挖掘机会，推动ICT、互联网等产业生态的建立和发展。
+      homepage_url: https://developer.huaweicloud.com/hdz.html
+      project: graduated
+      repo_url: https://bbs.huaweicloud.com/
+    - name: CSDN（中国开发者网络）_no_115
+      logo: CSDN（中国开发者网络）.svg
+      description: CSDN（中国开发者网络）创立于1999年，是全球知名中文开发者网站。秉承成就一亿技术人的使命，为IT技术人成长及科技企业发展，提供开发者生态的全方位服务。CSDN在社区基础上，通过知识云、人才云、开发云三大服务，赋能开发者、研发团队及科技企业在IT知识学习、人才招聘、研发效能与协同管理等方面的高速成长与发展。
+      homepage_url: https://www.csdn.net/
+      project: graduated
+      repo_url: https://gitcode.net/dashboard/projects/home
+    - name: CodeGeeX_no_129
+      logo: CodeGeeX.svg
+      description: Code as a Geek with AI
+      homepage_url: https://models.aminer.cn/codegeex/
+      project: graduated
+      repo_url: https://github.com/THUDM/CodeGeeX
+    - name: KubeEdge_no_142
+      logo: KubeEdge.svg
+      description: KubeEdge是业界首个云原生边缘计算框架、云原生计算基金会内部唯一孵化级边缘计算开源项目,社区已完成业界最大规模云原生边云协同高速公路项目（统一管理10万边缘节点/50万边缘应用）、业界首个云原生星地协同卫星、业界首个云原生车云协同汽车、业界首个云原生油田项目，开源业界首个分布式协同AI框架Sedna及业界首个边云协同终身学习范式，并在持续开拓创新中。
+      homepage_url: https://kubeedge.io/en/
+      project: graduated
+      repo_url: https://github.com/kubeedge
+    - name: Firefox中文社区_no_147
+      logo: Firefox中文社区.svg
+      description: Firefox 火狐浏览器是全球著名的浏览器品牌。Firefox 是一款专业、安全、高效、个性的开源软件，由 Mozilla
+        基金会与数百个志愿者共同开发，正在被全球上亿的用户使用和分享。火狐社区为中国用户及更多火狐达人提供了学习和交流的平台。
+      homepage_url: https://www.firefox.com.cn/
+      project: graduated
+      repo_url: http://mozilla.com.cn/
+    - name: Molecule_no_203
+      logo: Molecule.svg
+      description: Molecule是一款轻量级的 Web IDE UI 框架，它受 VSCode 启发, 并基于 React 与 Monaco
+        Editor 构建。该框架意在让开发者可轻松构建一个可扩展的 IDE UI，内置快捷键、基本兼容 VSCode Color Theme 等等能力
+      homepage_url: https://www.dtstack.com/
+      project: graduated
+      repo_url: https://dtstack.github.io/molecule/

@@ -1,0 +1,352 @@
+categories:
+- name: 大数据
+  subcategories:
+  - name: 大数据
+    items:
+    - name: 蟒营®_no_5
+      logo: 蟒营®.svg
+      description: 开源网络课程框架, 以 Pythonic 式自学心理范式为根据, 拓展各种领域学习社区
+      homepage_url: https://doc.101.camp/
+      project: graduated
+      repo_url: https://github.com/101camp
+    - name: CPyUG_no_7
+      logo: CPyUG.svg
+      description: 是CPyUG在各个城市自发组织的一种本地Py爱好者线下进行的技术交流活动,主要在北京和上海已经进行了3年多,从08年起珠三角／南昌／安徽／武汉各地也相继开展
+      homepage_url: https://wiki.woodpecker.org.cn/moin/CPUG
+      project: graduated
+      repo_url: https://github.com/PyChina
+    - name: OpenDigger_no_13
+      logo: OpenDigger.svg
+      description: Open source analysis tools
+      homepage_url: http://www.x-lab.info/open-digger
+      project: graduated
+      repo_url: https://github.com/X-lab2017/open-digger
+    - name: 百度开源_no_16
+      logo: 百度开源.svg
+      description: '因为开源，所以简单。百度是拥有强大互联网基础的领先AI公司。是全球为数不多的提供AI芯片、软件架构和应用程序等全栈AI技术的公司之一,被国际机构评为全球四大AI公司之一。百度以“用科技让复杂的世界更简单”为使命,坚持技术创新,致力于“成为最懂用户,并能帮助人们成长的全球顶级高科技公司”。
+
+        一直以来百度持续参与和支持开源社区的发展。百度 2013 年对外开源图标和数据可视化库 ECharts,2016 年开源飞桨（PaddlePaddle）,2017
+        年开源 Apollo 自动驾驶、开源数据库 Doris、开源 RPC 开发框架 brpc,2018 年将 ECharts、Doris、brpc 捐献给
+        Apache 基金会进行孵化,2020 年,以创始白金身份加入开放原子开源基金会,并将 XuperChain 捐赠给开放原子开源基金会。2021 年,百度以理事单位加入开源创新联合体。
+
+        截至目前,百度在Github主导的18个开源组织累计开源项目1,000+个、社区贡献者17,000+、获得Star总数350,000+,并向Apache基金会、Linux基金会、CNCF、开放原子开源基金会累计捐赠9个项目。'
+      homepage_url: https://opensource.baidu.com/
+      project: graduated
+      repo_url: https://github.com/baidu
+    - name: 奇点公益_no_22
+      logo: 奇点公益.svg
+      description: '北京奇点公益信息技术服务中心简称奇点公益，是2015年经北京市民政局批准成立的民办非企业单位（京民0030662），旨在通过互联网技术为公益机构提供开源赋能，为公益机构提专业化咨询和培训能力建设；基于互联网传播、互联网筹款、互联网技术解决方案等，推动公益组织数字化转型和数字化能力提升，提升公益组织信息技术应用能力和工作效率，促进公益机构资源精准有效匹配。奇点公益2021年获北京市4A级社会组织，累计为1000多家公益组织提供了公益信息化专业服务，直接服务受益人243229，动员志愿者8379名，贡献志愿服务时长176004小时 '
+      homepage_url: http://www.jidian.org.cn
+      project: graduated
+      repo_url: https://gitee.com/singularity-commonweal
+    - name: OpenDataLab_no_25
+      logo: OpenDataLab.svg
+      description: OpenDataLab隶属于上海人工智能实验室，是面向AI开发者的新一代超大规模、高质量、多模态公开数据集开放平台（OpenDataLab.com），已覆盖2,000余个开源精标数据集，提供了超过1亿的优质模型训练数据样本，适用于目标检测、语义分割、自然语言处理等50余种任务类型，秉承“智慧共享、开源高效”的核心理念，致力于打造具有国际影响力的数据开源平台。
+      homepage_url: https://opendatalab.org.cn/
+      project: graduated
+      repo_url: https://github.com/opendatalab
+    - name: OpenBMB开源社区_no_30
+      logo: OpenBMB开源社区.svg
+      description: OpenBMB全称为Open Lab for Big Model Base，旨在打造大规模预训练语言模型库与相关工具， 加速百亿级以上大模型的训练、微调与推理，降低大模型使用门槛，与国内外开发者共同努力形成大模型开源社区，
+        推动大模型生态发展，实现大模型的标准化、普及化和实用化，让大模型飞入千家万户。
+      homepage_url: https://www.openbmb.org/home
+      project: graduated
+      repo_url: https://github.com/OpenBMB
+    - name: Elastic中文社区_no_31
+      logo: Elastic中文社区.svg
+      description: Elastic中文社区专注于Elastic开源技术分享。
+      homepage_url: https://elasticsearch.cn
+      project: graduated
+      repo_url: https://github.com/elasticsearch-cn
+    - name: ' 可信开源社区共同体_no_39'
+      logo: ' 可信开源社区共同体.svg'
+      description: 2021年9月17日，中国信通院正式成立可信开源社区共同体（TWOS），可信开源社区共同体由众多开源项目和开源社区组成，目的是引导建立健康可信且可持续发展的开源社区。可信开源社区共同体旨在搭建交流平台，提供全套的开源风险监测与生态监测服务。
+      homepage_url: http://trustedopensource.org.cn/#/home
+      project: graduated
+      repo_url: https://git.finoc.org:5000
+    - name: Apache Software Foundation_no_42
+      logo: Apache Software Foundation.svg
+      description: This is the description of item
+      homepage_url: https://www.apache.org/
+      project: graduated
+      repo_url: https://github.com/apache
+    - name: 苏州开源社区_no_43
+      logo: 苏州开源社区.svg
+      description: 社区成员大多数来自传统行业，主要交流开源和新技术如何在制造业、工业控制、流程管理中的应用和探索。
+      homepage_url: http://www.opensuzhou.com/
+      project: graduated
+      repo_url: https://www.opensuzhou.com
+    - name: MASA Stack_no_59
+      logo: MASA Stack.svg
+      description: MASA Stack是开源企业级云原生数字底座，提供一站式.NET现代应用开发交付解决方案，助力传统.NET应用程序进行现代化改造，赋能.NET开发者转型为数字化人才，从而让企业获得持续的创新力和新的增长机会，帮助企业找到数字化转型的最佳路径！
+      homepage_url: https://www.masastack.com
+      project: graduated
+      repo_url: https://github.com/masastack/MASA.Stack
+    - name: HCDG华为云开发者社区组织_no_61
+      logo: HCDG华为云开发者社区组织.svg
+      description: HCDG是Huawei Cloud Developer Group（华为云开发者社区组织）的英文缩写，是华为云开发者生态面向全球开发者建立的开放、创新、多元的开发者社区组织。致力于帮助开发者学习提升、互动交流、挖掘机会，推动ICT、互联网等产业生态的建立和发展。
+      homepage_url: https://developer.huaweicloud.com/hdz.html
+      project: graduated
+      repo_url: https://bbs.huaweicloud.com/
+    - name: 开务数据库_no_64
+      logo: 开务数据库.svg
+      description: "开务数据库是浪潮集团控股的基础软件企业，公司汇聚了全球顶尖的数据库人才，致力于打造自主、先进、安全、创新的云原生分布式数据库产品及数据服务平台，为各大行业客户提供完善的数据服务解决方案，助力企业快速高效地实现数字化转型升级。\n\
+        \ \n作为公司的核心产品，开务数据库遵循Share-Nothing的设计理念，采用全对等架构，使每个节点都参与到数据的存储与运算；支持节点在线水平扩展，在保障业务连续性的同时，实现产品性能的线性提升，可支撑大数据时代PB级数据的存储和管理。同时，数据库具备云原生、多中心、高可用、事务强一致等特性，支持行列混存，满足HTAP场景需求。\n\
+        \ \n当前公司的业务范围已覆盖工业、政务、能源、金融等多个行业：分布式数据库已在政务、金融等多个项目落地实践；基于分布式数据库的开务数据服务平台，聚焦工业互联网、数字能源、车联网等快速发展领域，以云边端一体化架构为支撑，大力推动工业企业数字化转型和数字能源建设。\n\
+        \ \n公司拥有世界一流的全球研发体系：已有员工超过200人，其中研发人员占比超过80%，研究生及以上学历占比超过60%；研发团队遍布上海、北京、天津、济南、美国等地。截至目前，产品已突破7项核心技术，已有300\
+        \ 余项发明专利受理，11 项自有产品软著授权，并取得了分布式数据库产品自主原创认证。"
+      homepage_url: https://mp.weixin.qq.com/s/cRCrFBzvxWiCj4jTvC2GIw
+      project: graduated
+      repo_url: https://mp.weixin.qq.com/s/cRCrFBzvxWiCj4jTvC2GIw
+    - name: JuiceFS_no_68
+      logo: JuiceFS.svg
+      description: Juicedata 是 JuiceFS 项目的主要维护者，成立于 2019 年。并组建了 JuiceFS 社区目前已有数千名开发者加入到社区，JuiceFS
+        社区每月都会组织或参与丰富的社区活动。
+      homepage_url: https://juicefs.com/
+      project: graduated
+      repo_url: https://github.com/juicedata/juicefs
+    - name: Easy-Es_no_74
+      logo: Easy-Es.svg
+      description: 致力于成为全球最受欢迎的ElasticSearch搜索引擎开发框架
+      homepage_url: https://www.easy-es.cn/
+      project: graduated
+      repo_url: https://gitee.com/dromara/easy-es
+    - name: Apache Linkis(Incubating)_no_76
+      logo: Apache Linkis(Incubating).svg
+      description: 'Apache Linkis 在上层应用程序和底层引擎之间构建了一层计算中间件。通过使用Linkis 提供的REST/WebSocket/JDBC
+        等标准接口，上层应用可以方便地连接访问MySQL/Spark/Hive/Presto/Flink 等底层引擎，同时实现变量、脚本、函数和资源文件等用户资源的跨上层应用互通。
+
+        作为计算中间件，Linkis 提供了强大的连通、复用、编排、扩展和治理管控能力。通过计算中间件将应用层和引擎层解耦，简化了复杂的网络调用关系，降低了整体复杂度，同时节约了整体开发和维护成本。'
+      homepage_url: https://linkis.apache.org/
+      project: graduated
+      repo_url: https://github.com/apache/incubator-linkis
+    - name: Apache SeaTunnel(Incubating)_no_81
+      logo: Apache SeaTunnel(Incubating).svg
+      description: 'Apache SeaTunnel社区是下一代高性能、分布式、海量数据集成框架SeaTunnel爱好者的聚集地。社区旨在推动开源和SeaTunnel更好地发展，更多地了解用户的业务使用场景，吸引更多开源爱好者参与贡献。
+
+
+        社区目前发展状况良好，在GitHub上已获得3.6K star，目前有接近100名Contributors 积极参与到社区的共建中。'
+      homepage_url: https://seatunnel.apache.org/
+      project: graduated
+      repo_url: https://github.com/apache/incubator-seatunnel
+    - name: 亚马逊云科技_no_82
+      logo: 亚马逊云科技.svg
+      description: 亚马逊云科技官方技术内容社区。日常分享AI/ML、大数据/数据库、现代应用开发、IoT等热门产品实用干货及开源技术，提供超全学习资源，定期组织开发者活动，为开发者持续赋能。
+      homepage_url: https://dev.amazoncloud.cn/
+      project: graduated
+      repo_url: https://aws.amazon.com/cn/opensource/?nc2=h_ql_sol_use_r6&blog-posts-content-open-source.sort-by=item.additionalFields.createdDate&blog-posts-content-open-source.sort-order=desc
+    - name: Apache软件基金会_no_83
+      logo: Apache软件基金会.svg
+      description: https://www.apache.org/foundation/
+      homepage_url: https://www.apache.org/
+      project: graduated
+      repo_url: https://github.com/apache
+    - name: OpenCT_no_98
+      logo: OpenCT.svg
+      description: OpenCT社区是由北师大教育学博士罗海风（现清华大学教育研究院助理研究员），以5C核心素养模型为理论框架，创立的指向学生核心素养的在线交互式学、练、评、测教育开源社区，是国内唯一的基础教育领域的开源社区，目前已在全国范围内拥有15万+的用户，在中国教育报、中国教师报、等媒体进行了报道。
+      homepage_url: https://open-ct.com/
+      project: graduated
+      repo_url: https://github.com/open-ct
+    - name: Volcano_no_104
+      logo: Volcano.svg
+      description: 'Volcano 是基于 Kubernetes 构建的批量计算平台，源自于华为云 AI 容器，提供作业管理、批量调度、依赖管理、资源预留等能力，支持包括
+        TensorFlow、Spark、MPI、Slurm 在内的多个业界主流计算框架，主要帮助用户将 AI、大数据等资源消耗波动大、计算密集型的业务从传统的
+        Batch、HPC 系统快速迁移到云原生。Volcano 也是 CNCF 首个和唯一的容器批量计算项目。 '
+      homepage_url: https://volcano.sh/en/
+      project: graduated
+      repo_url: https://github.com/volcano-sh/volcano
+    - name: StreamNative_no_106
+      logo: StreamNative.svg
+      description: StreamNative 是一家开源基础软件公司，由 Apache 软件基金会顶级项目 Apache Pulsar 创始团队组建而成，围绕
+        Pulsar 打造下一代云原生批流融合数据平台。StreamNative 作为 Apache Pulsar 商业化公司，专注于开源生态和社区构建，致力于前沿技术领域的创新，创始团队成员曾就职于
+        Yahoo、Twitter、Splunk、EMC 等知名大公司。
+      homepage_url: https://kaiyuanshe.cn/
+      project: graduated
+      repo_url: https://github.com/streamnative
+    - name: Know Streaming_no_107
+      logo: Know Streaming.svg
+      description: Know Streaming围绕Kafka打造了一个0门槛、0侵入、插件化的一站式集群管控平台，致力为国内Kafka开发者提供一个稳定、安全、可靠的企业级Kafka平台
+      homepage_url: http://knowstreaming.com
+      project: graduated
+      repo_url: https://github.com/didi/LogiKM
+    - name: Apache Doris_no_108
+      logo: Apache Doris.svg
+      description: 'Apache Doris 是一款基于 MPP 的现代化、高性能、实时的分析型数据库。以极速易用的特点被人们所熟知，仅需亚秒级响应时间即可返回海量数据下的查询结果，不仅可以支持高并发的点查询场景，也能支持高吞吐的复杂分析场景。
+
+        2022 年 6 月 16 日，Apache Doris 正式从 Apache 孵化器毕业，成为顶级项目。目前 Apache Doris 社区已经聚集了
+        340 余位贡献者，社区用户人数超过 5000+ 。在全球范围内获得超过 500+ 家企业的应用，在中国市值或估值排行前 50 的互联网公司中，有超过
+        80% 的公司长期使用 Apache Doris，同时在一些传统行业如金融、能源、制造、电信等领域也有着丰富的应用。'
+      homepage_url: https://doris.apache.org/
+      project: graduated
+      repo_url: https://github.com/apache/doris
+    - name: GreatSQL_no_111
+      logo: GreatSQL.svg
+      description: GreatSQL社区成立于2021年，是一个MySQL开源数据库社区，由万里数据库发起，致力于通过开放的社区合作，构建国内自主MySQL版本及开源数据库技术，推动中国开源数据库及应用生态繁荣发展。社区愿景是成为中国广受欢迎的开源数据库社区。
+      homepage_url: https://greatsql.cn/
+      project: graduated
+      repo_url: https://gitee.com/GreatSQL/GreatSQL
+    - name: Apache InLong_no_114
+      logo: Apache InLong.svg
+      description: Apache InLong（应龙）是一个一站式海量数据集成框架，提供自动、安全、可靠和高性能的数据传输能力，同时支持批和流，方便业务构建基于流式的数据分析、建模和应用。
+      homepage_url: https://inlong.apache.org/
+      project: graduated
+      repo_url: https://github.com/apache/inlong
+    - name: CSDN（中国开发者网络）_no_115
+      logo: CSDN（中国开发者网络）.svg
+      description: CSDN（中国开发者网络）创立于1999年，是全球知名中文开发者网站。秉承成就一亿技术人的使命，为IT技术人成长及科技企业发展，提供开发者生态的全方位服务。CSDN在社区基础上，通过知识云、人才云、开发云三大服务，赋能开发者、研发团队及科技企业在IT知识学习、人才招聘、研发效能与协同管理等方面的高速成长与发展。
+      homepage_url: https://www.csdn.net/
+      project: graduated
+      repo_url: https://gitcode.net/dashboard/projects/home
+    - name: Apache StreamPark(Incubating)_no_120
+      logo: Apache StreamPark(Incubating).svg
+      description: StreamPark 是一个流处理快速开发框架和一站式实时计算平台, 已经有多家企业投入生产使用, 目前已捐给 apache,
+        正式成为 ASF 孵化项目.
+      homepage_url: https://streampark.apache.org
+      project: graduated
+      repo_url: https://github.com/apache/incubator-streampark
+    - name: ChengYing_no_122
+      logo: ChengYing.svg
+      description: ChengYing（承影）作为一站式全自动化全生命周期大数据平台运维管家，提供大数据产品的一站式部署、运维、监控服务，其可实现产品部署、产品升级、版本回滚、扩缩节点、日志诊断、集群监控、实时告警等功能，致力于最大化节省运维成本，降低线上故障率与运维难度，为客户提供安全稳定的产品部署与监控。
+      homepage_url: https://www.dtstack.com/
+      project: graduated
+      repo_url: https://github.com/DTStack/chengying
+    - name: PowerData数据之力社区_no_125
+      logo: PowerData数据之力社区.svg
+      description: '我们是由一群数据从业人员，因为热爱凝聚在一起，以开源精神为基础，组成的PowerData数据之力社区。
+
+        Power代表力量， Data代表数据
+
+        PowerData代表我们想要将国内数据力量通过社区凝聚在一起，专注自我提升，推动行业发展。'
+      homepage_url: https://www.powerdata.top/
+      project: graduated
+      repo_url: https://github.com/PowerDataClub/
+    - name: X-lab开放实验室_no_132
+      logo: X-lab开放实验室.svg
+      description: X-lab 开放实验室定位为一个开源研究与创新的开放群体，是一群由来自国内外著名高校、创业公司、部分互联网与IT企业的专家学者与工程师所构成，聚焦于开源软件产业开放式创新的共同体。专业背景包括计算机科学、软件工程、数据科学、工商管理学、社会学、经济学等跨学科领域，长期思考并实践开源战略、开源测量学、开源数字生态系统等主题。目前已在包括开源治理标准制定、开源社区行为度量与分析、开源社区流程自动化、开源全域数据治理与洞察等方面做出了较有影响力的工作。
+      homepage_url: https://github.com/X-lab2017
+      project: graduated
+      repo_url: https://github.com/X-lab2017
+    - name: Alluxio_no_136
+      logo: Alluxio.svg
+      description: Alluxio系统是全球首个分布式超大规模数据编排系统，孵化于加州大学伯克利分校AMP实验室。自项目开源以来，已有超过来自300多个组织机构的1200多位贡献者参与开发。Alluxio能够在跨集群、跨区域、跨国家的任何云中将数据更紧密地编排接近数据分析和人工智能/机器学习应用程序，从而向上层应用提供内存级别速度的数据访问。目前，Alluxio的智能数据分层和数据管理功能为金融服务、高科技、零售和电信等诸多领域客户提供了长期业务支持，并已在全球Web规模的现代化数据服务的生产环境中得到验证，全球十大互联网公司中有八家在生产环境中部署了Alluxio。
+      homepage_url: https://cn.alluxio.io/
+      project: graduated
+      repo_url: https://github.com/Alluxio
+    - name: GraphScope_no_140
+      logo: GraphScope.svg
+      description: 'GraphScope 是阿里巴巴达摩院智能计算实验室研发并开源的一站式图计算平台。依托于阿里海量数据和丰富场景，与达摩院的高水平研究，GraphScope
+        致力于针对实际生产场景中图计算的挑战，提供一站式高效的解决方案。
+
+        GraphScope 提供了 Python 客户端，能十分方便的对接上下游工作流，具有一站式、开发便捷、性能极致等特点。它整合了智能计算实验室多个重要的创新性技术，包括
+        GRAPE，MaxGraph，Graph-Learn，分别支持图分析、图的交互式查询和图学习任务，引擎间使用 Vineyard 存储，提供跨进程，零拷贝的内存数据共享服务。其中核心优势包括在业界首次支持了
+        Gremlin 分布式编译优化，支持了算法的自动并行化、提供了企业级场景下的极致性能等。在阿里巴巴内外部应用中，GraphScope 已经证明在多个关键互联网领域（如风控，电商推荐，广告，网络安全，知识图谱等）实现了重要的业务新价值。
+
+        GraphScope 整合了达摩院的多项学术研究成果，其中的核心技术曾获得数据库领域顶级学术会议 SIGMOD2017 最佳论文奖、VLDB2017
+        最佳演示奖、VLDB2020 最佳论文奖亚军、世界人工智能创新大赛SAIL奖等。GraphScope 的交互查询引擎的论文已被 NSDI 2021录用。还有其它围绕
+        GraphScope 的十多项研究成果发表在领域顶级的学术会议或期刊上，如 TODS、SIGMOD、VLDB、KDD等。'
+      homepage_url: https://graphscope.io
+      project: graduated
+      repo_url: https://github.com/alibaba/GraphScope
+    - name: Primi Hub _no_149
+      logo: Primi Hub .svg
+      description: "       原语科技成立于2021年，总部位于北京，专注于打造企业级开源隐私计算平台，核心成员均来自百度、阿里、字节跳动、西门子研究院等知名公司。原语科技自主研发了基于安全多方计算、联邦学习、同态加密、机密计算、区块链等技术的隐私计算应用平台，结合英伟达GPU的算法加速，为用户提供数据全生命周期的隐私安全服务，实现“数据可用不可见”。\n\
+        \       原语科技致力于以隐私计算技术构建数据信任与安全，赋能数据价值的安全融合与释放，为构建未来数字型社会提供技术支撑。"
+      homepage_url: https://www.primihub.com
+      project: graduated
+      repo_url: https://github.com/primihub
+    - name: 希尔贝壳_no_150
+      logo: 希尔贝壳.svg
+      description: '  希尔贝壳的愿景：以开放数据、技术变革创新为理念，实现人工智能民主化。'
+      homepage_url: http://www.aishelltech.com
+      project: graduated
+      repo_url: https://sos1sos2sixteen.github.io/aishell3/
+    - name: GDG Zhengzhou_no_170
+      logo: GDG Zhengzhou.svg
+      description: GDG , 即 Google Developer Groups 谷歌开发者社区，是谷歌开发者部门发起的全球项目。GDG 是面向对
+        Google 和开源技术感兴趣的人群而存在的公益性开发者社区，内容涵盖 Web/Chrome、Android、机器学习、Flutter 和其它 Google
+        API 等。全世界各大城市都成立了自己的 GDG 社区，GDG Zhenghzou （郑州谷歌开发者社区）也是其中之一。在这里，你能更及时地了解 Google
+        最新技术、产品与信息，也能在全国乃至全球 GDG 中，找到技术交流、讨论问题的伙伴，结交朋友、开拓视野。社区中的各位组织者均是来自各个行业有着本职工作的互联网从业者，我们需要更多新鲜血液的加入！如果你对谷歌技术感兴趣，业余时间可调配，认同社区的价值观，愿意为社区做出贡献，欢迎加入我们成为社区志愿者
+      homepage_url: https://gdg.community.dev/gdg-zhengzhou/
+      project: graduated
+      repo_url: https://github.com/GDGZhengzhou
+    - name: Apache DolphinScheduler_no_174
+      logo: Apache DolphinScheduler.svg
+      description: 'Apache DolphinScheduler社区是可视化DAG工作流任务调度平台DolphinScheduler爱好者的聚集地。社区旨在推动开源和Apache
+        DolphinScheduler更好地发展，更多地了解用户的业务使用场景，吸引更多开源爱好者参与贡献。
+
+
+        社区目前发展状况良好，已有已有48位Committer和21位PMC，360+ Contributors 积极参与到社区的共建中。'
+      homepage_url: https://dolphinscheduler.apache.org/
+      project: graduated
+      repo_url: https://github.com/apache/dolphinscheduler
+    - name: 金融行业开源应用社区_no_176
+      logo: 金融行业开源应用社区.svg
+      description: 国内首个金融行业开源技术应用社区，主要是服务于金融机构以及中小金融科技公司，2018年10月12日，中国信息通信研究院联合浦发银行、华为等近20家金融机构及科技公司共同成立。社区成立以来已展开多次研讨活动，成员单位积极整合优势资源和技术成果共享开源经验，共同推动金融行业开源生态健康发展。
+      homepage_url: http://trustedopensource.org.cn/#/home
+      project: graduated
+      repo_url: https://git.finoc.org:5000
+    - name: WeDataSphere_no_180
+      logo: WeDataSphere.svg
+      description: WeDataSphere是一套一站式、金融级、全连通、开源开放的大数据平台套件。基础平台由数据交换、数据分发、计算、存储四大层次组成，关注底层数据传输计算存储能力；功能平台由平台工具、数据工具、应用工具三大层次组成，关注用户各类功能工具需求实现。形成了完整的大数据平台技术体系，提供一站式的丰富数据平台组件及功能支撑。
+      homepage_url: https://github.com/WeBankFinTech/WeDataSphere
+      project: graduated
+      repo_url: https://github.com/WeBankFinTech/WeDataSphere
+    - name: Apache Pulsar_no_181
+      logo: Apache Pulsar.svg
+      description: Apache Pulsar 是 Apache 软件基金会顶级项目，是下一代云原生分布式消息流平台，集消息、存储、轻量化函数式计算为一体，采用计算与存储分离架构设计，支持多租户、持久化存储、多机房跨区域数据复制，具有强一致性、高吞吐、低延时及高可扩展性等流数据存储特性。
+      homepage_url: https://github.com/apache/pulsar
+      project: graduated
+      repo_url: https://github.com/apache/pulsar
+    - name: 龙蜥社区（OpenAnolis）_no_183
+      logo: 龙蜥社区（OpenAnolis）.svg
+      description: 龙蜥社区（OpenAnolis）成立于 2020 年 9 月，是一个操作系统开源社区及创新平台，由 Arm 、阿里云、统信软件、龙芯、飞腾、中科方德、Intel
+        等十几家国内外头部企业共同成立龙蜥社区理事会，到目前有超过 240 家合作伙伴参与共建。龙蜥社区致力于通过开放的社区合作，构建国内自主 Linux
+        开源发行版及开源创新技术，推动软、硬件及应用生态繁荣发展。
+      homepage_url: https://openanolis.cn/
+      project: graduated
+      repo_url: https://gitee.com/anolis
+    - name: 语音之家_no_185
+      logo: 语音之家.svg
+      description: 语音之家是助力AI语音开发者学习和成长的社区,致力于为开发者打造专业技术交流与分享的平台,提供技术论坛、在线学习、资源下载、职业发展等全生命周期服务。
+      homepage_url: http://www.speechhome.com
+      project: graduated
+      repo_url: https://github.com/kaldi-asr/kaldi/tree/master/egs/aishell
+    - name: openLooKeng社区_no_193
+      logo: openLooKeng社区.svg
+      description: openLooKeng社区：让大数据更简单
+      homepage_url: https://openlookeng.io/zh/
+      project: graduated
+      repo_url: https://gitee.com/openlookeng
+    - name: X-lab 开放实验室_no_195
+      logo: X-lab 开放实验室.svg
+      description: 开源点亮未来~
+      homepage_url: https://www.x-lab.info/
+      project: graduated
+      repo_url: https://github.com/X-lab2017
+    - name: SolidUI_no_202
+      logo: SolidUI.svg
+      description: 3D数据可视化原型设计和编辑平台，支持2D，3D模型，结合LLM(Large Language Model) 快速编辑。
+      homepage_url: https://github.com/CloudOrc/SolidUI
+      project: graduated
+      repo_url: https://github.com/CloudOrc/SolidUI
+    - name: Taier_no_204
+      logo: Taier.svg
+      description: Taier是袋鼠云数栈大数据家族的开源项目之一 ，于2022年2月22日正式在github上开源，它是一个分布式可视化的DAG任务调度系统，旨在降低ETL开发成本、提高大数据平台稳定性，让大数据开发人员可以在Taier直接进行业务逻辑的开发，而不用关心任务错综复杂的依赖关系与底层的大数据平台的架构实现，将工作的重心更多地聚焦在业务之中。
+      homepage_url: https://www.dtstack.com/
+      project: graduated
+      repo_url: https://github.com/DTStack/Taier
+    - name: ChunJun_no_206
+      logo: ChunJun.svg
+      description: 'ChunJun是一个基于Flink 提供易用、稳定、高效的批流统一的数据集成工具，既可以采集静态的数据，比如MySQL，HDFS等，也可以采集实时变化的数据，比如binlog，Kafka等。同时ChunJun也是一个支持原生FlinkSql所有语法和特性的计算框架。目前ChunJun在实际应用过程中已服务了上百家客户，经过多次迭代与沉淀，积累了大量的客户案例。
+
+
+        ChunJun主要应用于大数据开发平台的数据同步/数据集成模块，通常采用将底层高效的同步插件和界面化的配置方式相结合的方式，使大数据开发人员可简洁、快速的完成数据同步任务开发，实现将业务数据库的数据同步至大数据存储平台，从而进行数据建模开发，以及数据开发完成后，将大数据处理好的结果数据同步至业务的应用数据库，供企业数据业务使用。'
+      homepage_url: https://www.dtstack.com/
+      project: graduated
+      repo_url: https://github.com/DTStack/chunjun
+    - name: Apache Pegasus_no_207
+      logo: Apache Pegasus.svg
+      description: Apache软件基金会孵化期项目，致力于打造一个可水平扩展、高性能、强一致的分布式Key-Value数据库。
+      homepage_url: https://pegasus.apache.org/
+      project: graduated
+      repo_url: https://github.com/apache/incubator-pegasus

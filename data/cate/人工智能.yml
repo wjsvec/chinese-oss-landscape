@@ -1,0 +1,51 @@
+categories:
+- name: 人工智能
+  subcategories:
+  - name: 人工智能
+    items:
+    - name: Linux Foundation_no_19
+      logo: Linux Foundation.svg
+      description: This is the description of item
+      homepage_url: https://www.linuxfoundation.org/
+      project: graduated
+      repo_url: https://github.com/LF-Engineering
+    - name: Apache Software Foundation_no_42
+      logo: Apache Software Foundation.svg
+      description: This is the description of item
+      homepage_url: https://www.apache.org/
+      project: graduated
+      repo_url: https://github.com/apache
+    - name: HyperAI 超神经_no_72
+      logo: HyperAI 超神经.svg
+      description: HyperAI超神经是国内领先的人工智能及高性能计算社区，现已收录数百个行业词条及案例，上线含大模型在内的数千个公共数据集和教程，致力于为开发者提供数据科学领域的优质公共资源，普及大模型及
+        AI For Science 最新科研进展。
+      homepage_url: https://hyper.ai/
+      project: graduated
+    - name: OpenSDV汽车软件开源联盟_no_75
+      logo: OpenSDV汽车软件开源联盟.svg
+      description: OpenSDV汽车软件开源联盟是以推广开源开放促进汽车产业发展的非营利组织，具有高度的垂直性、专业性和开放性的特点,致力于成为汽车软件领域具有国际影响力的开源组织，旨在通过建设面向汽车软件的开源研发基础设施和国际化开源社区，推动汽车软件开源项目发展、技术创新和生态融合，促进汽车软件能力提升，赋能汽车产业整体发展。
+      homepage_url: http://opensdv.org/
+      project: graduated
+      repo_url: http://opensdv.org/
+    - name: LF AI & Data_no_124
+      logo: LF AI & Data.svg
+      description: This is the description of item
+      homepage_url: https://lfaidata.foundation/
+      project: graduated
+      repo_url: https://github.com/lfai
+    - name: AIGCOPEN社区_no_194
+      logo: AIGCOPEN社区.svg
+      description: 创造中国AIGC生态落地
+      homepage_url: https://www.rpa-cn.com
+      project: graduated
+    - name: 魔搭ModelScope社区_no_197
+      logo: 魔搭ModelScope社区.svg
+      description: 魔搭开源社区
+      homepage_url: https://modelscope.cn
+      project: graduated
+    - name: SolidUI_no_202
+      logo: SolidUI.svg
+      description: 3D数据可视化原型设计和编辑平台，支持2D，3D模型，结合LLM(Large Language Model) 快速编辑。
+      homepage_url: https://github.com/CloudOrc/SolidUI
+      project: graduated
+      repo_url: https://github.com/CloudOrc/SolidUI

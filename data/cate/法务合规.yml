@@ -1,0 +1,26 @@
+categories:
+- name: 法务合规
+  subcategories:
+  - name: 法务合规
+    items:
+    - name: 成都市高新区科技创新局_no_23
+      logo: 成都市高新区科技创新局.svg
+      description: This is the description of item
+      homepage_url: https://cncf.io
+      project: graduated
+    - name: 開放文化基金會_no_26
+      logo: 開放文化基金會.svg
+      description: 2014 年，多個台灣開源社群共同發起開放文化基金會（Open Culture Foundation，簡稱 OCF），期望以法人組織的力量推廣開放文化，在產、官、學、民之間激起開放協作的火花。
+      homepage_url: https://ocf.tw/
+      project: graduated
+    - name: 天工开物开源基金会_no_52
+      logo: 天工开物开源基金会.svg
+      description: 天工开物开源基金会是由重庆市政府批复设立，由清华大学，华中科技大学，重庆大学，中冶赛迪，中国信科，中科院等知名高校和企业联合发起，致力于推动中国开源事业发展的非营利机构。
+      homepage_url: https://chancefoundation.com.cn/partner
+      project: graduated
+    - name: OpenSDV汽车软件开源联盟_no_75
+      logo: OpenSDV汽车软件开源联盟.svg
+      description: OpenSDV汽车软件开源联盟是以推广开源开放促进汽车产业发展的非营利组织，具有高度的垂直性、专业性和开放性的特点,致力于成为汽车软件领域具有国际影响力的开源组织，旨在通过建设面向汽车软件的开源研发基础设施和国际化开源社区，推动汽车软件开源项目发展、技术创新和生态融合，促进汽车软件能力提升，赋能汽车产业整体发展。
+      homepage_url: http://opensdv.org/
+      project: graduated
+      repo_url: http://opensdv.org/

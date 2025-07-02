@@ -1,0 +1,207 @@
+categories:
+- name: 开源教育
+  subcategories:
+  - name: 开源教育
+    items:
+    - name: 百度开源_no_16
+      logo: 百度开源.svg
+      description: '因为开源，所以简单。百度是拥有强大互联网基础的领先AI公司。是全球为数不多的提供AI芯片、软件架构和应用程序等全栈AI技术的公司之一,被国际机构评为全球四大AI公司之一。百度以“用科技让复杂的世界更简单”为使命,坚持技术创新,致力于“成为最懂用户,并能帮助人们成长的全球顶级高科技公司”。
+
+        一直以来百度持续参与和支持开源社区的发展。百度 2013 年对外开源图标和数据可视化库 ECharts,2016 年开源飞桨（PaddlePaddle）,2017
+        年开源 Apollo 自动驾驶、开源数据库 Doris、开源 RPC 开发框架 brpc,2018 年将 ECharts、Doris、brpc 捐献给
+        Apache 基金会进行孵化,2020 年,以创始白金身份加入开放原子开源基金会,并将 XuperChain 捐赠给开放原子开源基金会。2021 年,百度以理事单位加入开源创新联合体。
+
+        截至目前,百度在Github主导的18个开源组织累计开源项目1,000+个、社区贡献者17,000+、获得Star总数350,000+,并向Apache基金会、Linux基金会、CNCF、开放原子开源基金会累计捐赠9个项目。'
+      homepage_url: https://opensource.baidu.com/
+      project: graduated
+      repo_url: https://github.com/baidu
+    - name: FreeSWITCH中文社区_no_17
+      logo: FreeSWITCH中文社区.svg
+      description: FreeSWITCH是一个开源的电话软交换平台，支持实时音视频通信及会议，支持SIP及WebRTC等多种通信协议。其主要开发语言是C，某些模块中使用了C++，以MPL1.1发布。本社区旨在为广大FreeSWITCH中文用户提供一个统一的登陆页，便于大家查找FreeSWITCH相关的中文信息、最新动态，促进大家的技术交流以及FreeSWITCH技术在中国的传播。
+      homepage_url: http://www.freeswitch.org.cn/
+      project: graduated
+      repo_url: https://github.com/rts-cn/
+    - name: 奇点公益_no_22
+      logo: 奇点公益.svg
+      description: '北京奇点公益信息技术服务中心简称奇点公益，是2015年经北京市民政局批准成立的民办非企业单位（京民0030662），旨在通过互联网技术为公益机构提供开源赋能，为公益机构提专业化咨询和培训能力建设；基于互联网传播、互联网筹款、互联网技术解决方案等，推动公益组织数字化转型和数字化能力提升，提升公益组织信息技术应用能力和工作效率，促进公益机构资源精准有效匹配。奇点公益2021年获北京市4A级社会组织，累计为1000多家公益组织提供了公益信息化专业服务，直接服务受益人243229，动员志愿者8379名，贡献志愿服务时长176004小时 '
+      homepage_url: http://www.jidian.org.cn
+      project: graduated
+      repo_url: https://gitee.com/singularity-commonweal
+    - name: kubecub_no_28
+      logo: kubecub.svg
+      description: 针对 Kubernetes 和 开源的爱好者的开发者提供手脚架和学习资料，以及部分的工具
+      homepage_url: https://nsddd.top
+      project: graduated
+      repo_url: https://github.com/kubecub
+    - name: Nico-Tech Shenzhen_no_36
+      logo: Nico-Tech Shenzhen.svg
+      description: 开源硬件爱好家社区在深圳，两个发起人都日本人，大部分活动日话。我们感兴趣中国开源文化国际链接。
+      homepage_url: https://medium.com/ecosystembymakers/about-e306f96168b8
+      project: graduated
+      repo_url: https://github.com/Nico-Tech-Shenzhen
+    - name: openKylin_no_41
+      logo: openKylin.svg
+      description: openKylin 社区是在开源、自愿、平等和协作的基础上，由基础软硬件企业、非营利性组织、社团组织、高等院校、科研机构和个人开发者共同创立的一个开源社区，致力于通过开源、开放的社区合作，构建桌面操作系统开源社区，推动Linux开源技术及其软硬件生态繁荣发展。
+      homepage_url: https://www.openkylin.top
+      project: graduated
+      repo_url: https://gitee.com/openkylin
+    - name: 云原生社区_no_51
+      logo: 云原生社区.svg
+      description: 云原生社区是国内最大的独立第三方云原生终端用户和泛开发者社区，由 CNCF 大使、开源意见领袖共同发起成立于 2020 年 5
+        月 12 日，提供云原生专业资讯，促进云原生产业发展。
+      homepage_url: https://cloudnative.to
+      project: graduated
+      repo_url: https://cloudnative.to
+    - name: 天工开物开源基金会_no_52
+      logo: 天工开物开源基金会.svg
+      description: 天工开物开源基金会是由重庆市政府批复设立，由清华大学，华中科技大学，重庆大学，中冶赛迪，中国信科，中科院等知名高校和企业联合发起，致力于推动中国开源事业发展的非营利机构。
+      homepage_url: https://chancefoundation.com.cn/partner
+      project: graduated
+    - name: HCDG华为云开发者社区组织_no_61
+      logo: HCDG华为云开发者社区组织.svg
+      description: HCDG是Huawei Cloud Developer Group（华为云开发者社区组织）的英文缩写，是华为云开发者生态面向全球开发者建立的开放、创新、多元的开发者社区组织。致力于帮助开发者学习提升、互动交流、挖掘机会，推动ICT、互联网等产业生态的建立和发展。
+      homepage_url: https://developer.huaweicloud.com/hdz.html
+      project: graduated
+      repo_url: https://bbs.huaweicloud.com/
+    - name: 优麒麟_no_73
+      logo: 优麒麟.svg
+      description: 在开源、自愿、平等和协作的基础上，由各种企业、非营利性组织、社团组织、高等院校、科研    机构和个人开发者共同组成的一个开源社区。
+      homepage_url: https://www.ubuntukylin.com/
+      project: graduated
+      repo_url: https://gitee.com/ubuntukylin
+    - name: OpenSDV汽车软件开源联盟_no_75
+      logo: OpenSDV汽车软件开源联盟.svg
+      description: OpenSDV汽车软件开源联盟是以推广开源开放促进汽车产业发展的非营利组织，具有高度的垂直性、专业性和开放性的特点,致力于成为汽车软件领域具有国际影响力的开源组织，旨在通过建设面向汽车软件的开源研发基础设施和国际化开源社区，推动汽车软件开源项目发展、技术创新和生态融合，促进汽车软件能力提升，赋能汽车产业整体发展。
+      homepage_url: http://opensdv.org/
+      project: graduated
+      repo_url: http://opensdv.org/
+    - name: 开源之夏_no_78
+      logo: 开源之夏.svg
+      description: 开源之夏是由中科院软件研究所“开源软件供应链点亮计划”发起并长期支持的一项暑期开源活动，旨在鼓励在校学生积极参与开源软件的开发维护，促进优秀开源软件社区的蓬勃发展，培养和发掘更多优秀的开发者。
+      homepage_url: https://summer-ospp.ac.cn/
+      project: graduated
+      repo_url: https://github.com/summer-ospp/help
+    - name: 开源雨林_no_80
+      logo: 开源雨林.svg
+      description: 开源雨林由华为联合开放原子开源基金会、中国信息通信研究院、中国软件行业协会、中国科学院软件研究所共同合作。面对企业在开源领域的各种问题，开源雨林围绕开源通识、开源使用、开源贡献三大方面构建知识体系，同时发挥共建各方的技术优势与经验优势，在团队、机制、项目三方面提供合作，帮助企业理解开源理念，掌握实战方法，让越来越多的企业更有效率地使用开源、贡献开源，提升全行业开源技术与应用水平。
+      homepage_url: https://www.osrainforest.org/
+      project: graduated
+      repo_url: https://github.com/opensource-rainforest/osr
+    - name: Datawhale_no_97
+      logo: Datawhale.svg
+      description: Datawhale成立于2018年，是国内头部的开源学习组织，汇聚了来自伯克利、斯坦福、港中文、港科大、清华、北大、上交、复旦、浙大等全球近百所高校的成员，吸引了数十万的AI领域学习者关注；组织以for
+        the learner为使命，致力于构建开源学习社区，和学习者一起成长。
+      homepage_url: http://www.datawhale.club/
+      project: graduated
+      repo_url: https://github.com/datawhalechina
+    - name: OpenCT_no_98
+      logo: OpenCT.svg
+      description: OpenCT社区是由北师大教育学博士罗海风（现清华大学教育研究院助理研究员），以5C核心素养模型为理论框架，创立的指向学生核心素养的在线交互式学、练、评、测教育开源社区，是国内唯一的基础教育领域的开源社区，目前已在全国范围内拥有15万+的用户，在中国教育报、中国教师报、等媒体进行了报道。
+      homepage_url: https://open-ct.com/
+      project: graduated
+      repo_url: https://github.com/open-ct
+    - name: 电子科技大学_no_105
+      logo: 电子科技大学.svg
+      description: This is the description of item
+      homepage_url: https://cncf.io
+      project: graduated
+    - name: CSDN（中国开发者网络）_no_115
+      logo: CSDN（中国开发者网络）.svg
+      description: CSDN（中国开发者网络）创立于1999年，是全球知名中文开发者网站。秉承成就一亿技术人的使命，为IT技术人成长及科技企业发展，提供开发者生态的全方位服务。CSDN在社区基础上，通过知识云、人才云、开发云三大服务，赋能开发者、研发团队及科技企业在IT知识学习、人才招聘、研发效能与协同管理等方面的高速成长与发展。
+      homepage_url: https://www.csdn.net/
+      project: graduated
+      repo_url: https://gitcode.net/dashboard/projects/home
+    - name: DCE Community_no_123
+      logo: DCE Community.svg
+      description: DCE 社区是「DaoCloud 道客」新一代云原生操作系统 DCE 5.0 社区版的技术交流平台，用户可实现零成本体验企业级云原生底座的性能。此外，DCE
+        社区积极发起、参与由 CNCF 背书的开源活动，致力携手广大行业力量，聚焦云原生前沿技术、开源项目、解决方案、典型案例等，面向开发者、社区和企业，进行传播布道，旨在将最新鲜的热点资讯、最前沿的行业展望和最具价值的技术实践分享给大家，扩大云原生技术影响力，寻找更多云原生信仰者，拓展云原生生态圈。欢迎大家加入，共同论道原生！
+      homepage_url: https://www.daocloud.io/dce_5.0_ce
+      project: graduated
+      repo_url: https://github.com/DaoCloud/DaoCloud-docs
+    - name: 醋溜科技_no_126
+      logo: 醋溜科技.svg
+      description: OpenTeens是中国首个由青少年自主创建的开源社区。我们致力于为青少年提供一个学习、交流、合作的平台，鼓励青少年参与开源项目，提升编程技能，培养团队合作能力，并引导他们进一步探索创新。OpenTeens旨在促使中国的青少年更早接触、了解开源文化，成为未来开源领域的领军人才和开源技术的佼佼者，推动中国开源社区繁荣昌盛。
+      homepage_url: https://www.culiu-tech.com/
+      project: graduated
+    - name: OpenTEKr_no_131
+      logo: OpenTEKr.svg
+      description: OpenTEKr 是一家为开源事业服务的开源社区。以“科技开源，普惠世界”为愿景， 致力于倡导开源理念，用开源精神来服务和支持各类开源社区及开源创业团队在企业级用户群体中的推广和相应开源技术的产业化实践和商业转化。
+      homepage_url: http://www.opentekr.org/
+      project: graduated
+      repo_url: https://github.com/opentekr
+    - name: freeCodeCamp_no_134
+      logo: freeCodeCamp.svg
+      description: '全球最大的开源公益编程教育社区 freeCodeCamp.org 自 2014 年成立以来，以“帮助人们免费学习编程”为使命，在成千上万名志愿贡献者的帮助下，创建了大量优质的技术教程，包括可以自定学习进度的交互式课程、视频课程、专栏文章等，所有内容向公众免费开放。
+
+
+        国内外众多高校、企业、公益组织正在使用 freeCodeCamp 的学习资源。每天有超过一百万人在 freeCodeCamp 学习。学员们在世界各地自发成立数千个学习小组互相帮助。
+
+
+        我们希望让世界上每个人都有机会获得免费的优质的技术教育资源，成为开发者或者通过编程去解决问题。'
+      homepage_url: http://chinese.freecodecamp.org/
+      project: graduated
+      repo_url: https://github.com/freeCodeCamp
+    - name: 上海大学开源社区_no_148
+      logo: 上海大学开源社区.svg
+      description: 上海大学开源社区是由上海大学的开源技术爱好者于 2010 年自主发起成立的非营利性学生组织，面向全校师生传播开源理念，并提供排课助手等公共服务。校内同学与往届成员保持密切的联系，开展各式各样的技术交流。除了在校内开展社团活动，我们还与校外企业和开源组织密切合作，积极号召学生志愿者参加各类开源技术活动，在沪上具有广泛影响力。
+      homepage_url: https://www.shuosc.org/
+      project: graduated
+      repo_url: https://github.com/shuosc
+    - name: AI4Finance_no_163
+      logo: AI4Finance.svg
+      description: 致力于深度强化学习在金融领域的应用和推广，包括强化学习算法、金融元宇宙、云端方案等
+      homepage_url: http://finrl.org
+      project: graduated
+      repo_url: https://github.com/AI4Finance-Foundation
+    - name: OpenTeens_no_168
+      logo: OpenTeens.svg
+      description: OpenTeens 是一个青少年的开源社区，为青少年提供一个共享创造力的平台。我们通过分享技术、知识和创意，激发青少年的创造力和学习热情。
+      homepage_url: https://openteens.org/home
+      project: graduated
+    - name: 腾源会_no_169
+      logo: 腾源会.svg
+      description: 腾源会是腾讯云成立的汇聚开源项目、开源爱好者、开源领导者的开放社区，致力于帮助开源项目健康成长、开源爱好者能交流协助、开源领导者能发挥领袖价值，让全球开源生态变得更加繁荣。
+      homepage_url: https://cloud.tencent.com/act/pro/weopen-home
+      project: graduated
+      repo_url: https://github.com/weopenprojects
+    - name: 开源社_no_173
+      logo: 开源社.svg
+      description: '成立于2014年，以 “立足中国、贡献全球” 为愿景，依 “贡献、共识、共治” 原则所组成，是最早以 “开源治理、国际接轨、社区发展、开源项目”
+        为使命的开源社区联合体。
+
+
+        2017年，开源社转型为完全由个人成员组成，链接了数万名开源人，集聚了上千名社区成员及志愿者、海内外数百位讲师，合作了近百家赞助、媒体、社区伙伴。'
+      homepage_url: https://kaiyuanshe.cn/
+      project: graduated
+      repo_url: https://github.com/kaiyuanshe
+    - name: 龙蜥社区（OpenAnolis）_no_183
+      logo: 龙蜥社区（OpenAnolis）.svg
+      description: 龙蜥社区（OpenAnolis）成立于 2020 年 9 月，是一个操作系统开源社区及创新平台，由 Arm 、阿里云、统信软件、龙芯、飞腾、中科方德、Intel
+        等十几家国内外头部企业共同成立龙蜥社区理事会，到目前有超过 240 家合作伙伴参与共建。龙蜥社区致力于通过开放的社区合作，构建国内自主 Linux
+        开源发行版及开源创新技术，推动软、硬件及应用生态繁荣发展。
+      homepage_url: https://openanolis.cn/
+      project: graduated
+      repo_url: https://gitee.com/anolis
+    - name: 语音之家_no_185
+      logo: 语音之家.svg
+      description: 语音之家是助力AI语音开发者学习和成长的社区,致力于为开发者打造专业技术交流与分享的平台,提供技术论坛、在线学习、资源下载、职业发展等全生命周期服务。
+      homepage_url: http://www.speechhome.com
+      project: graduated
+      repo_url: https://github.com/kaldi-asr/kaldi/tree/master/egs/aishell
+    - name: 木兰开源社区_no_188
+      logo: 木兰开源社区.svg
+      description: “木兰开源社区”建立于2019年8月，是国家重点研发计划重点专项“云计算和大数据开源社区生态系统”的核心成果。旨在促进产学研用各方开源领域的交流，推动国家科技创新成果开源，加强企业、科教研单位和行业用户之间的沟通，推动开源成果转化落地，同时为各类开源项目提供中立托管，保证开源项目的持续发展不受第三方影响，通过更加开放的方式来打造和完善开源社区生态。
+      homepage_url: https://portal.mulanos.cn/
+      project: graduated
+      repo_url: https://gitee.com/mulan-community/incubator-propose
+    - name: X-lab 开放实验室_no_195
+      logo: X-lab 开放实验室.svg
+      description: 开源点亮未来~
+      homepage_url: https://www.x-lab.info/
+      project: graduated
+      repo_url: https://github.com/X-lab2017
+    - name: 立创开源硬件平台_no_200
+      logo: 立创开源硬件平台.svg
+      description: 立创开源硬件平台是一个专注于开源硬件的设计、分享和交流的平台，它为电子工程师、爱好者和教育者提供了一系列的工具和资源，它促进了国内硬件开源环境的建设，平台拥有数十万个开源与私有工程，用户可以创建私有或者公开的工程，通过海量开源工程加速设计过程，加快了设计人员的学习和开发进度。
+      homepage_url: https://oshwhub.com/
+      project: graduated

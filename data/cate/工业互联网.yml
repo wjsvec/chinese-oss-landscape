@@ -1,0 +1,79 @@
+categories:
+- name: 工业互联网
+  subcategories:
+  - name: 工业互联网
+    items:
+    - name: Eolink_no_2
+      logo: Eolink.svg
+      description: 强大的一体化 API 管理和测试平台，我们致力于让 API 管理更简单！
+      homepage_url: https://eoapi.io/
+      project: graduated
+      repo_url: https://github.com/eolinker/eoapi
+    - name: Shifu_no_6
+      logo: Shifu.svg
+      description: 边无际Edgenesis基于K8S首创分布式物联网框架——Shifu Framework，为客户全场景设备托管，一体化软件开发提供了透明框架。通过透明框架内的数字孪生技术，为设备赋予有思考能力的”数字大脑“，通过平台层对场景内所有设备、机器进行北向数据收集和南向指令管控。
+      homepage_url: https://shifu.run/zh-Hans/
+      project: graduated
+      repo_url: https://github.com/Edgenesis/shifu
+    - name: 开源中国_no_24
+      logo: 开源中国.svg
+      description: 开源风乍起，中国有Gitee。开源中国自2008年创立以来，始终秉承“自由、开放、共享”的开源精神，致力于推动本土开源技术的发展和国内IT行业的进步。经过14年的积累，开源中国不仅创立了国内最大、最专业的开源技术社区OSCHINA.NET和全球第二大代码托管与协作平台Gitee，同时也积极发展Gitee企业版研发管理平台、Gitee私有云、培训等多项业务线，已经成为了一家专注服务程序员群体与软件行业的综合性公司。
+      homepage_url: https://www.oschina.net/
+      project: graduated
+      repo_url: https://gitee.com
+    - name: Nico-Tech Shenzhen_no_36
+      logo: Nico-Tech Shenzhen.svg
+      description: 开源硬件爱好家社区在深圳，两个发起人都日本人，大部分活动日话。我们感兴趣中国开源文化国际链接。
+      homepage_url: https://medium.com/ecosystembymakers/about-e306f96168b8
+      project: graduated
+      repo_url: https://github.com/Nico-Tech-Shenzhen
+    - name: 苏州开源社区_no_43
+      logo: 苏州开源社区.svg
+      description: 社区成员大多数来自传统行业，主要交流开源和新技术如何在制造业、工业控制、流程管理中的应用和探索。
+      homepage_url: http://www.opensuzhou.com/
+      project: graduated
+      repo_url: https://www.opensuzhou.com
+    - name: 天工开物开源基金会_no_52
+      logo: 天工开物开源基金会.svg
+      description: 天工开物开源基金会是由重庆市政府批复设立，由清华大学，华中科技大学，重庆大学，中冶赛迪，中国信科，中科院等知名高校和企业联合发起，致力于推动中国开源事业发展的非营利机构。
+      homepage_url: https://chancefoundation.com.cn/partner
+      project: graduated
+    - name: Flomesh_no_58
+      logo: Flomesh.svg
+      description: Flomesh 易衡科技提供行业领先的应用流量管理产品与解决方案。Flomesh 以开源软件 Pipy 为核心，提供全方面的应用流量管理产品及理解决方案，包括软件负载均衡平台
+        FLB(Flomesh Load Balancer)，服务网格 FSM(Flomesh Service Mesh)。
+      homepage_url: https://flomesh.io
+      project: graduated
+      repo_url: https://github.com/flomesh-io
+    - name: HCDG华为云开发者社区组织_no_61
+      logo: HCDG华为云开发者社区组织.svg
+      description: HCDG是Huawei Cloud Developer Group（华为云开发者社区组织）的英文缩写，是华为云开发者生态面向全球开发者建立的开放、创新、多元的开发者社区组织。致力于帮助开发者学习提升、互动交流、挖掘机会，推动ICT、互联网等产业生态的建立和发展。
+      homepage_url: https://developer.huaweicloud.com/hdz.html
+      project: graduated
+      repo_url: https://bbs.huaweicloud.com/
+    - name: Pipy_no_96
+      logo: Pipy.svg
+      description: Pipy 是一个轻量级、高性能、高稳定、可编程的网络代理，Pipy 核心框架使用 C++ 开发，网络 IO 采用 ASIO 库。Pipy
+        可用于云原生，边缘计算和物联网等场景，而且 Pipy 是 ARM 就绪的，兼容 ARM 生态的设计、测试和交付。同时适配 ARM 在高密度计算的数据中心的场景和低资源/低算力的边缘侧场景。
+      homepage_url: https://flomesh.io/
+      project: graduated
+      repo_url: https://github.com/flomesh-io/pipy
+    - name: CSDN（中国开发者网络）_no_115
+      logo: CSDN（中国开发者网络）.svg
+      description: CSDN（中国开发者网络）创立于1999年，是全球知名中文开发者网站。秉承成就一亿技术人的使命，为IT技术人成长及科技企业发展，提供开发者生态的全方位服务。CSDN在社区基础上，通过知识云、人才云、开发云三大服务，赋能开发者、研发团队及科技企业在IT知识学习、人才招聘、研发效能与协同管理等方面的高速成长与发展。
+      homepage_url: https://www.csdn.net/
+      project: graduated
+      repo_url: https://gitcode.net/dashboard/projects/home
+    - name: KubeEdge_no_142
+      logo: KubeEdge.svg
+      description: KubeEdge是业界首个云原生边缘计算框架、云原生计算基金会内部唯一孵化级边缘计算开源项目,社区已完成业界最大规模云原生边云协同高速公路项目（统一管理10万边缘节点/50万边缘应用）、业界首个云原生星地协同卫星、业界首个云原生车云协同汽车、业界首个云原生油田项目，开源业界首个分布式协同AI框架Sedna及业界首个边云协同终身学习范式，并在持续开拓创新中。
+      homepage_url: https://kubeedge.io/en/
+      project: graduated
+      repo_url: https://github.com/kubeedge
+    - name: Primi Hub _no_149
+      logo: Primi Hub .svg
+      description: "       原语科技成立于2021年，总部位于北京，专注于打造企业级开源隐私计算平台，核心成员均来自百度、阿里、字节跳动、西门子研究院等知名公司。原语科技自主研发了基于安全多方计算、联邦学习、同态加密、机密计算、区块链等技术的隐私计算应用平台，结合英伟达GPU的算法加速，为用户提供数据全生命周期的隐私安全服务，实现“数据可用不可见”。\n\
+        \       原语科技致力于以隐私计算技术构建数据信任与安全，赋能数据价值的安全融合与释放，为构建未来数字型社会提供技术支撑。"
+      homepage_url: https://www.primihub.com
+      project: graduated
+      repo_url: https://github.com/primihub
